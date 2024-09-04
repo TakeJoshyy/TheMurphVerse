@@ -15,7 +15,7 @@ This is the main repository for all things BigMurph619!
 
 **[Monomon](https://github.com/DeathDoors/Monomon)** <img src="https://github.com/DeathDoors/TheMurphVerse/blob/0d5adf01e959e9c3c31d5c1268f715a3892d4cba/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/DeathDoors/TheMurphVerse/blob/0d5adf01e959e9c3c31d5c1268f715a3892d4cba/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/DeathDoors/TheMurphVerse/blob/0d5adf01e959e9c3c31d5c1268f715a3892d4cba/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/DeathDoors/TheMurphVerse/blob/48ade19e9399a8a887bcc8a1e8add6c959078449/Images/Difficulty_rating_half_clover.png" width="20" height="40">
 
-**[Buddymon](PLACEHOLDER)**
+**[Buddymon](https://github.com/DeathDoors/BuddyMon)**
 
 # Tournaments Held By Murph
 
