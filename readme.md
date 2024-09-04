@@ -11,7 +11,7 @@ This is the main repository for all things BigMurph619!
 
 # Murphs Custom Rule Sets
 
-**[Murphmon](https://github.com/reilnur/MurphmonRules/tree/main)**
+**[Murphmon](https://github.com/reilnur/MurphmonRules/tree/main)** <img src="https://github.com/DeathDoors/TheMurphVerse/blob/0d5adf01e959e9c3c31d5c1268f715a3892d4cba/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/DeathDoors/TheMurphVerse/blob/0d5adf01e959e9c3c31d5c1268f715a3892d4cba/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/DeathDoors/TheMurphVerse/blob/0d5adf01e959e9c3c31d5c1268f715a3892d4cba/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/DeathDoors/TheMurphVerse/blob/0d5adf01e959e9c3c31d5c1268f715a3892d4cba/Images/Difficulty_rating_clover.png" width="40" height="40">
 
 **[Monomon](https://github.com/DeathDoors/Monomon)**
 
