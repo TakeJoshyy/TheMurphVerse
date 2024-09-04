@@ -13,7 +13,7 @@ This is the main repository for all things BigMurph619!
 
 **[Murphmon](https://github.com/reilnur/MurphmonRules/tree/main)** <img src="https://github.com/DeathDoors/TheMurphVerse/blob/0d5adf01e959e9c3c31d5c1268f715a3892d4cba/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/DeathDoors/TheMurphVerse/blob/0d5adf01e959e9c3c31d5c1268f715a3892d4cba/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/DeathDoors/TheMurphVerse/blob/0d5adf01e959e9c3c31d5c1268f715a3892d4cba/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/DeathDoors/TheMurphVerse/blob/0d5adf01e959e9c3c31d5c1268f715a3892d4cba/Images/Difficulty_rating_clover.png" width="40" height="40">
 
-**[Monomon](https://github.com/DeathDoors/Monomon)** <img src="https://github.com/DeathDoors/TheMurphVerse/blob/0d5adf01e959e9c3c31d5c1268f715a3892d4cba/Images/Difficulty_rating_clover.png" width="40" height="40"><img src="https://github.com/DeathDoors/TheMurphVerse/blob/0d5adf01e959e9c3c31d5c1268f715a3892d4cba/Images/Difficulty_rating_clover.png" width="40" height="40"><img src="https://github.com/DeathDoors/TheMurphVerse/blob/0d5adf01e959e9c3c31d5c1268f715a3892d4cba/Images/Difficulty_rating_clover.png" width="40" height="40">
+**[Monomon](https://github.com/DeathDoors/Monomon)** <img src="https://github.com/DeathDoors/TheMurphVerse/blob/0d5adf01e959e9c3c31d5c1268f715a3892d4cba/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/DeathDoors/TheMurphVerse/blob/0d5adf01e959e9c3c31d5c1268f715a3892d4cba/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/DeathDoors/TheMurphVerse/blob/0d5adf01e959e9c3c31d5c1268f715a3892d4cba/Images/Difficulty_rating_clover.png" width="40" height="40">
 
 **[Buddymon](PLACEHOLDER)**
 
@@ -23,12 +23,3 @@ This is the main repository for all things BigMurph619!
 
 <p align="center">
 <img src="https://github.com/DeathDoors/TheMurphVerse/blob/cc5452ad89a13915b09954d3bd272cc663ebe6ce/Images/BigMurphLogo.jpg">
-
-
-
-Test
-
-<p align="center" width="100%">
-Text <img src="https://github.com/DeathDoors/TheMurphVerse/blob/0d5adf01e959e9c3c31d5c1268f715a3892d4cba/Images/Difficulty_rating_clover.png" width="40" height="40">
-
-</p>
