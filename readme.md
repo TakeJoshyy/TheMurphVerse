@@ -22,4 +22,4 @@ This is the main repository for all things BigMurph619!
 **[2024 Murphmon Tourney](https://github.com/BigMurph619/Murphmon-Tourney-)**
 
 <p align="center">
-<img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/BigMurphLogo.jpg">
+<img src="https://github.com/BigMurph619/TheMurphVerse/blob/main/Images/Tourney%20Podium.png">
