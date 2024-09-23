@@ -22,7 +22,7 @@ This is the main repository for all things BigMurph619!
 
 # Tournaments Held By Murph
 
-**[2024 Murphmon Tourney](https://github.com/BigMurph619/Murphmon-Tourney-)**
+**[2024 Murphmon Tourney](https://github.com/BigMurph619/Murphmon-Tourney-)** Aug 2024
 
 <p align="center">
 <img src="https://github.com/BigMurph619/TheMurphVerse/blob/2316139f4d60834bb145540d0e10a768bbd82728/Images/FinalMurphmonPodium.png">
