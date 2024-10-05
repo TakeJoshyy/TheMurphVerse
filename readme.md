@@ -26,6 +26,8 @@ This is the main repository for all things BigMurph619!
 
 # Tournaments Held By Murph
 
+**[2024 Monomon Tourney](https://github.com/BigMurph619/Monomon-Tourney/blob/main/readme.md)** Oct 2024
+
 **[2024 Murphmon Tourney](https://github.com/BigMurph619/Murphmon-Tourney-)** Aug 2024
 
 <p align="center">
