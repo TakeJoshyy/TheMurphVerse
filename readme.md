@@ -21,8 +21,17 @@ This is the main repository for all things BigMurph619!
 
 # Hall of Fame
 
-
+[Monomon Champion "My Beloved" by kipoterp]
 <img src="https://github.com/BigMurph619/TheMurphVerse/blob/main/Images/Champras.png?raw=true">
+
+
+<img src="https://github.com/BigMurph619/TheMurphVerse/blob/main/Images/Roadmon%20Champs!.png?raw=true">
+
+
+<img src="https://github.com/BigMurph619/TheMurphVerse/blob/main/Images/Champhlosion.png?raw=true">
+
+
+<img src="https://github.com/BigMurph619/TheMurphVerse/blob/main/Images/caps%20cruel.png?raw=true">
 
 # Tournaments Held By Murph
 
