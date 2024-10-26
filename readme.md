@@ -21,7 +21,7 @@ This is the main repository for all things BigMurph619!
 
 # Hall of Fame
 
-| Monomon Champion "My Beloved" by kipoterp |
+# Monomon Champion "My Beloved" by kipoterp 10/2/2024
 <img src="https://github.com/BigMurph619/TheMurphVerse/blob/main/Images/Champras.png?raw=true">
 
 
