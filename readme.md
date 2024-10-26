@@ -22,6 +22,8 @@ This is the main repository for all things BigMurph619!
 # Hall of Fame
 
 
+<img src=https://github.com/BigMurph619/TheMurphVerse/blob/main/Images/Champras.png?raw=true >
+
 # Tournaments Held By Murph
 
 **[2024 Monomon Tourney](https://github.com/BigMurph619/Monomon-Tourney/blob/main/readme.md)** Oct 2024
