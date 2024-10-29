@@ -18,20 +18,7 @@ This is the main repository for all things BigMurph619!
 
 **[Roadmon](https://github.com/DeathDoors/RoadMon)** <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40">
 
-
-# Hall of Fame
-
-# Monomon Champion "My Beloved" by kipoterp 10/2/2024
-<img src="https://github.com/BigMurph619/TheMurphVerse/blob/main/Images/Champras.png?raw=true">
-
-# Roadmon Champions by BigMurph619 10/11/2024
-<img src="https://github.com/BigMurph619/TheMurphVerse/blob/main/Images/Roadmon%20Champs!.png?raw=true">
-
-# Monomon Champion "Sir Benny" by BigMurph619 10/20/2024
-<img src="https://github.com/BigMurph619/TheMurphVerse/blob/main/Images/Champhlosion.png?raw=true">
-
-# Monomon Champion "Stoner" by captdanieldore 10/21/2024
-<img src="https://github.com/BigMurph619/TheMurphVerse/blob/main/Images/caps%20cruel.png?raw=true">
+**[Hall of Fame](https://github.com/BigMurph619/Hall-of-Fame/blob/main/README.md)**
 
 # Tournaments Held By Murph
 
