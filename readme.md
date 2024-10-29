@@ -18,6 +18,8 @@ This is the main repository for all things BigMurph619!
 
 **[Roadmon](https://github.com/DeathDoors/RoadMon)** <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40">
 
+# Murphverse Champions
+
 **[Hall of Fame](https://github.com/BigMurph619/Hall-of-Fame/blob/main/README.md)**
 
 # Tournaments Held By Murph
