@@ -30,6 +30,9 @@ This is the main repository for all things BigMurph619!
 
 **[2024 FRLG Monomon Tourney](https://github.com/BigMurph619/Monomon-Tourney/blob/main/readme.md)** Oct 2024
 
+<p align="center">
+<img src="https://github.com/BigMurph619/TheMurphVerse/blob/main/Images/Mono%20tourney%20podium.png">
+
 **[2024 FRLG Murphmon Tourney](https://github.com/BigMurph619/Murphmon-Tourney-)** Aug 2024
 
 <p align="center">
