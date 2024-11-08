@@ -28,6 +28,8 @@ This is the main repository for all things BigMurph619!
 
 # Murphverse Tournaments by BigMurph619
 
+Upcoming: **[December 2024 Emerald Monomon Tourney](https://github.com/BigMurph619/Monomon-Tourney/blob/main/readme.md)**
+
 FRLG MONOMON TOURNEY Oct 2024
 
 <p align="center">
