@@ -32,7 +32,10 @@ This is the main repository for all things BigMurph619!
 
 Upcoming: **[T1: FRLG Murphmon Tourney February 2025](https://github.com/BigMurph619/Murphmon-Tourney-Feb-2025-T1-/blob/main/readme.md)**
 
-Currently: **[December 2024 Emerald Monomon Tourney](https://github.com/BigMurph619/Monomon-Tourney/blob/main/readme.md)**
+EMERALD MONOMON TOURNEY Dec 2024
+
+<p align="center">
+<img src="https://github.com/BigMurph619/TheMurphVerse/blob/main/Images/Emerald%20Monomon%20Tourney%20Dec%2024%20podium.png">
 
 FRLG MONOMON TOURNEY Oct 2024
 
