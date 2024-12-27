@@ -30,7 +30,14 @@ This is the main repository for all things BigMurph619!
 
 **[Emerald Murphmon](https://github.com/BigMurph619/Emerald-Murphmon)** <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/BigMurph619/TheMurphVerse/blob/main/Images/Difficulty_rating_half_clover.png" width="20" height="40">
 
+| Summary |
+| :--------------------------------------------------------------------------------------------: |
+| A Super Kaizo IronMON variant with an easier path through Brawley, Tate and Liza and Steven. |
+
 **[Emerald Monomon](https://github.com/BigMurph619/Emerald-Monomon)** <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40">
+| Summary |
+| :--------------------------------------------------------------------------------------------: |
+| A Kaizo IronMON variant with an easier path through Brawley, Tate and Liza and Steven. |
 
 # Murphverse Champions
 
