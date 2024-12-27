@@ -16,6 +16,7 @@ This is the main repository for all things BigMurph619!
 
 **[FRLG Monomon](https://github.com/BigMurph619/Monomon)** <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/BigMurph619/TheMurphVerse/blob/main/Images/Difficulty_rating_half_clover.png" width="20" height="40">    
 
+| Summary |
 | :--------------------------------------------------------------------------------------------: |
 | Kaizo IronMON variant with SmartAI on all trainers, more moves available, tougher gatekeeping. |
 
