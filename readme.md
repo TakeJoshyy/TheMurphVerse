@@ -41,18 +41,8 @@ This is the main landing page for the community challenges, if you're interested
 
 Upcoming: **[T1: FRLG Murphmon Tourney February 2025](https://github.com/BigMurph619/Murphmon-Tourney-Feb-2025-T1-/blob/main/readme.md)**
 
-EMERALD MONOMON TOURNEY Dec 2024
+**Murphverse Tournaments 2024**
 
 <p align="center">
-<img src="https://github.com/BigMurph619/TheMurphVerse/blob/main/Images/Emerald%20Monomon%20Tourney%20Dec%2024%20podium.png">
-
-FRLG MONOMON TOURNEY Oct 2024
-
-<p align="center">
-<img src="https://github.com/BigMurph619/TheMurphVerse/blob/main/Images/Mono%20tourney%20podium.png">
-
-FRLG MURPHMON TOURNEY Aug 2024
-
-<p align="center">
-<img src="https://github.com/BigMurph619/TheMurphVerse/blob/2316139f4d60834bb145540d0e10a768bbd82728/Images/FinalMurphmonPodium.png">
+<img src="https://github.com/DeathDoors/TheMurphVerse/blob/df9c13ac819078eafd99b5c7f03a6fc1a925de5a/Images/Tournaments%202024.png">
 
