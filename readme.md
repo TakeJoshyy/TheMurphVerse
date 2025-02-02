@@ -35,7 +35,7 @@ This is the main landing page for the community challenges, if you're interested
 
 **[Hall of Fame](https://github.com/BigMurph619/Hall-of-Fame/blob/main/README.md)**
 
-# Murphverse Tournaments History
+# History Of Murphverse Tournaments
 
 **[Murphleague](https://github.com/BigMurph619/MurphLeague-2025/blob/main/README.md)**
 
