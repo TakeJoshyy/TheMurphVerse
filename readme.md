@@ -41,6 +41,7 @@ This is the main repository for all things BigMurph619!
 
 Upcoming: **[T1: FRLG Murphmon Tourney February 2025](https://github.com/BigMurph619/Murphmon-Tourney-Feb-2025-T1-/blob/main/readme.md)**
 
+**Murphverse Tournaments 2024**
 
 <p align="center">
 <img src="https://github.com/DeathDoors/TheMurphVerse/blob/df9c13ac819078eafd99b5c7f03a6fc1a925de5a/Images/Tournaments%202024.png">
