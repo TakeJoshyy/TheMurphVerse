@@ -1,6 +1,6 @@
 ### TheMurphVerse
 
-This is the main repository for all things BigMurph619!
+This is the main landing page for the community challenges, if you're interested in joining here is the [Discord](https://discord.gg/c4Bzm3Ezpx)
 
 # Murph's Custom Rule Sets // Luck Needed Scale 1-5 <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40">
 
@@ -35,7 +35,7 @@ This is the main repository for all things BigMurph619!
 
 **[Hall of Fame](https://github.com/BigMurph619/Hall-of-Fame/blob/main/README.md)**
 
-# Murphverse Tournaments by BigMurph619
+# History Of Murphverse Tournaments
 
 **[Murphleague](https://github.com/BigMurph619/MurphLeague-2025/blob/main/README.md)**
 
@@ -46,3 +46,6 @@ Upcoming: **[T1: FRLG Murphmon Tourney February 2025](https://github.com/BigMurp
 <p align="center">
 <img src="https://github.com/DeathDoors/TheMurphVerse/blob/df9c13ac819078eafd99b5c7f03a6fc1a925de5a/Images/Tournaments%202024.png">
 
+# Credit
+
+A big thank you to Murph for all his efforts in bringing this community together!
