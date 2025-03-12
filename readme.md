@@ -1,8 +1,8 @@
-### TheMurphVerse
+# TheMurphVerse
 
 This is the main landing page for the community challenges, if you're interested in joining here is the [Discord](https://discord.gg/c4Bzm3Ezpx)
 
-# Murph's Custom Rule Sets // Luck Needed Scale 1-5 <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40">
+## Murph's Custom Rule Sets // Luck Needed Scale 1-5 <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40">
 
 **[FRLG Murphmon](https://github.com/TakeJoshyy/Murphmon)** <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/BigMurph619/TheMurphVerse/blob/5cc7aaba0f1f9f2bcdfb71cf7152d428531bcd31/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/BigMurph619/TheMurphVerse/blob/main/Images/Difficulty_rating_half_clover.png" width="20" height="40">    
 | Summary |
