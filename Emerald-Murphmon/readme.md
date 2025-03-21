@@ -127,7 +127,7 @@ Catch Rate set to "4"
 
 # RSE Murphmon Settings String
 
- Download the [rnqs file](https://github.com/BigMurph619/Emerald-Murphmon/blob/main/Emerald-Murphmon-Settings-String.rnqs) and can be used in the recommended randomizer
+ Download the [rnqs file](https://github.com/TakeJoshyy/TheMurphVerse/blob/94fb9985fc8aed092779c4a77e64dd9df6e60a85/Emerald-Murphmon/Emerald-Murphmon-Settings-String.rnqs) and can be used in the recommended randomizer
 
 [Java](https://www.java.com/en/download/manual.jsp)
 
