@@ -117,7 +117,7 @@ Catch Rate set to "5" (100% Catch Rate)
 
 # FRLG Monomon Settings String
 
-Download the [rnqs file](https://github.com/BigMurph619/Monomon/blob/0a3f529c7286215b49ec8e5cd1ccbe8418ccfff0/FRLG-Monomon-Settings-String.rnqs) and can be used in the recommended randomizer
+Download the [rnqs file](https://github.com/TakeJoshyy/TheMurphVerse/blob/e8e8f713f88f8b5fc1dffe13ea8db0556b298a9d/Monomon/FRLG-Monomon-Settings-String.rnqs) and can be used in the recommended randomizer
 
 These are NOT the same settings as Kaizo IronMON or Murphmon
 
@@ -172,7 +172,7 @@ These are NOT the same settings as Kaizo IronMON or Murphmon
     - You may not catch a wild mon unless it is a pivot option, Shiny, or needed for HM friend.
 
 # Credits
- - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/BigMurph619/TheMurphVerse)
+ - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/TakeJoshyy/TheMurphVerse/blob/e8e8f713f88f8b5fc1dffe13ea8db0556b298a9d/readme.md)
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
  - [PyroMike](https://github.com/PyroMikeGit) For the Smart AI Randomizer v2
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
