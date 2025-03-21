@@ -126,7 +126,7 @@ Catch Rate set to "4"
 321WRIEEjIBAAQABwCRAAKeBhsESQEACQACCQAuEgAAAAAABRi45ATkAYgICTIGBAIyHwUYEEZpcmUgUmVkIChVKSAxLjDkp0B148M4ig==
 ```
 
-If you prefer [rnqs file](https://github.com/BigMurph619/Murphmon/blob/e610a14a5c60a1e8b3fce344f5a23746b2c388ea/FRLG%20Murphmon%20Settings%20String.rnqs)
+If you prefer [rnqs file](https://github.com/TakeJoshyy/TheMurphVerse/blob/f9c2b3207a20e2d5f3bb1cdd24848aed60c2224a/Murphmon/FRLG%20Murphmon%20Settings%20String.rnqs)
 
 [Java](https://www.java.com/en/download/manual.jsp)
 
@@ -196,7 +196,7 @@ If you prefer [rnqs file](https://github.com/BigMurph619/Murphmon/blob/e610a14a5
 
 # Credits/Useful Links
  - Created by [BigMurph619](https://www.twitch.tv/bigmurph619)
- - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/BigMurph619/TheMurphVerse) 
+ - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/TakeJoshyy/TheMurphVerse/blob/f9c2b3207a20e2d5f3bb1cdd24848aed60c2224a/readme.md) 
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Super Kaizo IronMON
  - [PyroMike](https://github.com/PyroMikeGit) For the Smart AI Randomizer v2
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
