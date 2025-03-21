@@ -174,7 +174,7 @@ Download the [rnqs file](https://raw.githubusercontent.com/BigMurph619/Emerald-M
 15. You must defeat Steven after the E4 to beat Monomon. ALL moves (except HMs), held items, X items, etc. are allowed for this fight. Goodluck Challenger.
 
 # Credits/Useful Links
- - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/BigMurph619/TheMurphVerse)
+ - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/TakeJoshyy/TheMurphVerse/blob/6c1ba9d795d4b8aee9f45bc0d4940fa5363f7477/readme.md)
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
  - [PyroMike](https://github.com/PyroMikeGit) For the Smart AI Randomizer v2
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
