@@ -1,6 +1,6 @@
 # Tourney #1: Murphmon FRLG
 
-### [Murphmon](#Murphmon) | [Tourney Details](#Tourney) | [Tourney Points](#Point-Breakdown) | [Tourney Awards](#Awards) | [LeaderBoard](https://github.com/TakeJoshyy/Murphmon-Tourney-Feb-2025-T1-/blob/main/leaderboard.md)
+### [Murphmon](#Murphmon) | [Tourney Details](#Tourney) | [Tourney Points](#Point-Breakdown) | [Tourney Awards](#Awards) | [LeaderBoard](https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Murphmon-T1-Tourney-2025/leaderboard.md)
 
 ## Tourney
 
