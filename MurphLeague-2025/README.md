@@ -15,22 +15,22 @@ The 5 tournaments will have points awarded by placement as follows:
 | 4 for 7th          |
 | 3 for 8th          |
 | 2 for 9th          |
-| 1 for 10th or lower |
+| 1 for 10th         |
 
 ## MurphLeague Standings
 Updated at the conclusion of each tournament.
-|   Creator/Points   |
-| :----------------: |
-| 1st                |
-| 2nd                |
-| 3rd                |
-| 4th                |
-| 5th                |
-| 6th                |
-| 7th                |
-| 8th                |
-| 9th                |
-| etc.               |
+|   Creator/Points   | Creator        | Points |
+| :----------------: | :------------: | :----: |
+| 1st                | BennyTots      | 15     |
+| 2nd                | Roflmaogamers1 | 12     |
+| 3rd                | CaptDanieldore | 10     |
+| 4th                | BeMidge        | 8      |
+| 5th                | Reilnur        | 6      |
+| 6th                | Kennyladdd     | 5      |
+| 7th                | Brae12321      | 4      |
+| 8th                | AitchKay       | 3      |
+| 9th                | SlothGoss      | 2      |
+| 10th               | CamMan52       | 1      |
 
 Competitors' cumulative league points across all 5 tournaments will decide who makes the 8 competitor playoff. Details of the format for the playoff are to come.
 
@@ -39,9 +39,8 @@ Competitors' cumulative league points across all 5 tournaments will decide who m
 | :-----------------------------------: |
 | Many of our tournaments include "awards pools" with entry fees to be eligible for awards. Participation in MurphLeague does NOT require entry fees and you are still eligible to make the playoffs |
 | Playoff awards TBA |
-| Tournament tentative schedule: first First through the following 3rd Sunday in the months of February(T1), April(T2), June(T3), August(T4), October(T5) and December(Playoff). |
-| T1 info: [Murphleague 2025 T1](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/Murphmon-T1-Tourney-2025/readme.md) |
-| [T1 Leader Board](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/Murphmon-T1-Tourney-2025/leaderboard.md) |
+| Tournament tentative schedule: First through the following 3rd Sunday in the months of February(T1), April(T2), June(T3), August(T4), October(T5) and December(Playoff). |
+| T1 info: [Murphleague 2025 T1](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/Murphmon-T1-Tourney-2025/readme.md) - [T1 Leader Board](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/Murphmon-T1-Tourney-2025/leaderboard.md) |
 
 ## Participation Info
 | Links/Participation/FAQ |
