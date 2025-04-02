@@ -33,9 +33,9 @@ This is the main landing page for the community challenges, if you're interested
 
 # History Of Murphverse Tournaments
 
-**[Murphleague](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/MurphLeague-2025/README.md)**
+**[Murphleague](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/1.MurphLeague-2025)**
 
-**[T1: FRLG Murphmon Tourney February 2025](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/Murphmon-T1-Tourney-2025/readme.md)**
+**[T1: FRLG Murphmon Tourney February 2025](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/2.Murphmon-T1-Tourney-2025/leaderboard.md)**
 
 **Murphverse Tournaments 2024**
 
