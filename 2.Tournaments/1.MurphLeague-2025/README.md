@@ -41,6 +41,7 @@ Competitors' cumulative league points across all 5 tournaments will decide who m
 | Playoff awards TBA |
 | Tournament tentative schedule: First through the following 3rd Sunday in the months of February(T1), April(T2), June(T3), August(T4), October(T5) and December(Playoff). |
 | T1 info: [Murphleague 2025 T1](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/Murphmon-T1-Tourney-2025/readme.md) - [T1 Leader Board](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/Murphmon-T1-Tourney-2025/leaderboard.md) |
+| T2 info: Monomon 2025 T2 |
 
 ## Participation Info
 | Links/Participation/FAQ |
