@@ -42,6 +42,8 @@ This is the main landing page for the community challenges, if you're interested
 <p align="center">
 <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/df9c13ac819078eafd99b5c7f03a6fc1a925de5a/Images/Tournaments%202024.png">
 
+*[The Scrolls](https://github.com/BigMurph619/The-Scrolls)*
+
 # Credit
 
 A big thank you to Murph for all his efforts in bringing this community together!
