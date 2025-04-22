@@ -57,7 +57,7 @@ Competitors' cumulative league points across all 5 tournaments will decide who m
 | Links/Participation/FAQ |
 | :-----------------: |
 | [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/readme.md) |
-| If you would like to be part of future Murphverse tournaments and/or the MurphLeague join the [MurphMob discord](https://discord.gg/ctYty73VAT) |
+| If you would like to be part of future Murphverse tournaments and/or the MurphLeague join the [MurphVerse discord](https://discord.gg/ctYty73VAT) |
 | Murphverse tournaments are NOT official IronMON Tourney Hub tournaments. However, we highly encourage you to check out the following links for IronMON setup, official IronMON rulesets, official IronMON tournies and the creators responsible for bringing this great content to the Pokemon community. |
 | IronMON setup and rules: [IronMON Discord](https://discord.com/invite/jFPYsZAhjX) |
 | Creator of IronMON (the foundation and inspiration behind Murphverse challenges): [iateyourpie](https://www.twitch.tv/iateyourpie) |
