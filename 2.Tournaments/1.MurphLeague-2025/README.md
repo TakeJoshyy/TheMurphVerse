@@ -15,11 +15,11 @@ The 5 tournaments will have points awarded by placement as follows:
 | 4 for 7th          |
 | 3 for 8th          |
 | 2 for 9th          |
-| 1 for 10th         |
+| 1 for 10th and on  |
 
 ## MurphLeague Standings
 Updated at the conclusion of each tournament.
-|   Creator/Points   | Creator        | Points |
+|   Standing         | Creator        | Points |
 | :----------------: | :------------: | :----: |
 | 1st                | BennyTots      | 15     |
 | 2nd                | Roflmaogamers1 | 12     |
@@ -30,7 +30,17 @@ Updated at the conclusion of each tournament.
 | 7th                | Brae12321      | 4      |
 | 8th                | AitchKay       | 3      |
 | 9th                | SlothGoss      | 2      |
-| 10th               | CamMan52       | 1      |
+| Tied - 10th        | Kyroteck       | 1      |
+| Tied - 10th        | Kipoterp       | 1      |
+| Tied - 10th        | Banana_Sen     | 1      |
+| Tied - 10th        | Batcam22       | 1      |
+| Tied - 10th        | Imtyp0         | 1      |
+| Tied - 10th        | DorktownPhantom| 1      |
+| Tied - 10th        | Freestob       | 1      |
+| Tied - 10th        | Domanski95     | 1      |
+| Tied - 10th        | McPlumber1     | 1      |
+| Tied - 10th        | TheBrokenPirates       | 1      |
+| 20th               | BigMurph619       | 0      |
 
 Competitors' cumulative league points across all 5 tournaments will decide who makes the 8 competitor playoff. Details of the format for the playoff are to come.
 
