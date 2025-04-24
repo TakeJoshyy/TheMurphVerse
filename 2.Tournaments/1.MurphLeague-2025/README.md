@@ -30,6 +30,7 @@ Updated at the conclusion of each tournament.
 | 7th                | Brae12321      | 4      |
 | 8th                | AitchKay       | 3      |
 | 9th                | SlothGoss      | 2      |
+| Tied - 10th        | CamMan52       | 1      |
 | Tied - 10th        | Kyroteck       | 1      |
 | Tied - 10th        | Kipoterp       | 1      |
 | Tied - 10th        | Banana_Sen     | 1      |
