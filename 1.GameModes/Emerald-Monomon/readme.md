@@ -86,37 +86,9 @@ All shinies are free catches or kills.
 
 # Settings
 
-Kaizo/Survival/Murphverse Emerald should use a 60% level boost to Foe and Wild Pokemon instead of 50%. The Randomizer program has a hard limit of 50%, thus a workaround is required to reach 60%:
-First load the vanilla Emerald ROM (or patched ROM) and apply this settings string:
+Emerald Monomon uses its own patch, RNQS file, and Randomizer. Please note that using the Kaizo IronMON settings will NOT work despite heavily inspiring this game mode.
 
-321AAgEAQT8AP8AAgEEAAEeRAABFAAAFABABAABAAAAAAAAAAAAuAS4AQAICTIGBAAyAAIAC0VtZXJhbGQgKFUpunJmsePDOIo=
-
-Click "Randomize (Save)". This is your new "Source ROM"
-Now you have a ROM ready to use the Monomon setting strings below
-Load the "Source ROM" from step 2 into the randomizer, then load the Monomon string below
-Randomize (Save). You're ready to play.
-
-Settings String Notes: 
-
-All Pokémon, movesets, and items are randomized.
-
-All Pokemon must have Fluctuating Growth Rates. 
-
-All opponents must have Smart AI(requires patch or SmartAI randomizer). 
-
-BOSS and IMPORTANT trainers must have sensible and consumable held items.
-
-All move tutors and TMs must be randomized. 
-
-Static Pokémon MUST NOT have level increase. 
-
-`No "Make Evolutions Easier".`
-
-Forced Fully Evolved at Level 30. 
-
-All Boss trainers must have 3 additional Pokemon.
-
-Catch Rate set to "5" (100% Catch Rate)
+The monomon patch includes Quality of life enhancements developed by DrMaple and pathing, movement, and encounter rate changes developed by BigMurph619.
 
 # RSE Monomon Settings String
 
