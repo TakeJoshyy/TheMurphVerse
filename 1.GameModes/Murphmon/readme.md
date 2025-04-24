@@ -80,7 +80,7 @@ Any non-consumable held items except items for repelling or escaping wild encoun
 
 **NOTE:** You are allowed to use a banned move either through **Transform, metronome or after copying it using Mimic or Mirror Move.**
 
-Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc. cannot be used on bosses AFTER the Safari Zone Pivot has been made (Gym Leaders and Pokemon League).
+Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc. cannot be used on bosses AFTER the Safari Zone Pivot has been made (Gym Leaders and Pokemon League). EXCEPTION: Any Pokemon 440 BST or lower may use Setup moves on bosses.
 
 # Other General Rules
 
