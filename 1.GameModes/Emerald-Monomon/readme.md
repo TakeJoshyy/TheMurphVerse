@@ -92,13 +92,14 @@ The monomon patch includes Quality of life enhancements developed by DrMaple and
 
 # RSE Monomon Settings String
 
-Download the [rnqs file](https://raw.githubusercontent.com/BigMurph619/Emerald-Monomon/refs/heads/main/Emerald-Monomon-Settings-String.rnqs) and can be used in the recommended randomizer
+Emerald Murphmon/Monomon Patch
 
-**To download rnqs right click and save link as.**
+RNQS download [rnqs file](https://raw.githubusercontent.com/BigMurph619/Emerald-Monomon/refs/heads/main/Emerald-Monomon-Settings-String.rnqs)
+321WRIEEjIBAAQABwCRAAKeBhsECQEACQACCQAuEgAAAAAABBi45ATkAYYICTIGBAIyGwUgAAQYuAAAAAALRW1lcmFsZCAoVSnuBUa848M4ig==
 
 [Java](https://www.java.com/en/download/manual.jsp)
 
-[Recommended Randomizer](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/tag/smart-ai-v2)
+[Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
 
 # Specific Game Rules
 
