@@ -90,16 +90,14 @@ Emerald Monomon uses its own patch, RNQS file, and Randomizer. Please note that 
 
 The monomon patch includes Quality of life enhancements developed by DrMaple and pathing, movement, and encounter rate changes developed by BigMurph619.
 
-# RSE Monomon Settings String
-
-Emerald Murphmon/Monomon Patch
+Emerald Murphmon/Monomon [Patch](
 
 RNQS download [rnqs file](https://raw.githubusercontent.com/BigMurph619/Emerald-Monomon/refs/heads/main/Emerald-Monomon-Settings-String.rnqs)
 321WRIEEjIBAAQABwCRAAKeBhsECQEACQACCQAuEgAAAAAABBi45ATkAYYICTIGBAIyGwUgAAQYuAAAAAALRW1lcmFsZCAoVSnuBUa848M4ig==
 
-[Java](https://www.java.com/en/download/manual.jsp)
-
 [Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
+
+[Java](https://www.java.com/en/download/manual.jsp)
 
 # Specific Game Rules
 
