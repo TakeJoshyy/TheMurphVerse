@@ -72,7 +72,7 @@ Any non-consumable held items except items for repeling or escaping wild encount
 
 **NOTE:** You are allowed to use a banned move either through **Transform, metronome or after copying it using Mimic or Mirror Move.**
 
-Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl, Belly Drum` etc. cannot be used on bosses (Gym Leaders and Pokemon League).
+Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl, Belly Drum` etc. cannot be used on bosses (Gym Leaders and Pokemon League). EXCEPTION: Any Pokemon 440 BST or lower may use Setup moves on bosses.
 
 # Other General Rules
 
@@ -86,47 +86,18 @@ All shinies are free catches or kills.
 
 # Settings
 
-Kaizo/Survival/Murphverse Emerald should use a 60% level boost to Foe and Wild Pokemon instead of 50%. The Randomizer program has a hard limit of 50%, thus a workaround is required to reach 60%:
-First load the vanilla Emerald ROM (or patched ROM) and apply this settings string:
+Emerald Monomon uses its own patch, RNQS file, and Randomizer. Please note that using the Kaizo IronMON settings will NOT work despite heavily inspiring this game mode.
 
-321AAgEAQT8AP8AAgEEAAEeRAABFAAAFABABAABAAAAAAAAAAAAuAS4AQAICTIGBAAyAAIAC0VtZXJhbGQgKFUpunJmsePDOIo=
+The monomon patch includes Quality of life enhancements developed by DrMaple and pathing, movement, and encounter rate changes developed by BigMurph619.
 
-Click "Randomize (Save)". This is your new "Source ROM"
-Now you have a ROM ready to use the Monomon setting strings below
-Load the "Source ROM" from step 2 into the randomizer, then load the Monomon string below
-Randomize (Save). You're ready to play.
+Download and apply Emerald Murphmon/Monomon patch to your vanilla, legally obtained Emerald ROM [Patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/Emerald%20Murphmon%20and%20Monomon%20PatchI.ips)
 
-Settings String Notes: 
+RNQS download [rnqs file](https://raw.githubusercontent.com/BigMurph619/Emerald-Monomon/refs/heads/main/Emerald-Monomon-Settings-String.rnqs)
+321WRIEEjIBAAQABwCRAAKeBhsECQEACQACCQAuEgAAAAAABBi45ATkAYYICTIGBAIyGwUgAAQYuAAAAAALRW1lcmFsZCAoVSnuBUa848M4ig==
 
-All Pokémon, movesets, and items are randomized.
-
-All Pokemon must have Fluctuating Growth Rates. 
-
-All opponents must have Smart AI(requires patch or SmartAI randomizer). 
-
-BOSS and IMPORTANT trainers must have sensible and consumable held items.
-
-All move tutors and TMs must be randomized. 
-
-Static Pokémon MUST NOT have level increase. 
-
-`No "Make Evolutions Easier".`
-
-Forced Fully Evolved at Level 30. 
-
-All Boss trainers must have 3 additional Pokemon.
-
-Catch Rate set to "5" (100% Catch Rate)
-
-# RSE Monomon Settings String
-
-Download the [rnqs file](https://raw.githubusercontent.com/BigMurph619/Emerald-Monomon/refs/heads/main/Emerald-Monomon-Settings-String.rnqs) and can be used in the recommended randomizer
-
-**To download rnqs right click and save link as.**
+You are highly encouraged to use the linked randomizer as others have not worked in the past. [Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
 
 [Java](https://www.java.com/en/download/manual.jsp)
-
-[Recommended Randomizer](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/tag/smart-ai-v2)
 
 # Specific Game Rules
 
@@ -171,12 +142,14 @@ Download the [rnqs file](https://raw.githubusercontent.com/BigMurph619/Emerald-M
 
 14. Trainer Hill is banned. SS Anne is allowed.
 
-15. You must defeat Steven after the E4 to beat Monomon. ALL moves (except HMs), held items, X items, etc. are allowed for this fight. Goodluck Challenger.
+15. You must defeat Steven after the E4 to beat Monomon. ALL moves (except HMs), held items, X items, etc. are allowed for this fight.
+
+Goodluck Challenger.
 
 # Credits/Useful Links
  - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/TakeJoshyy/TheMurphVerse/blob/6c1ba9d795d4b8aee9f45bc0d4940fa5363f7477/readme.md)
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
- - [PyroMike](https://github.com/PyroMikeGit) For the Smart AI Randomizer v2
+ - [Something Smart](https://github.com/something-smart) For the Modified Randomizer
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
  - [kelseyyoung](https://kelseyyoung.github.io/EmeraldIronmonMap/) RSE Interactive Map
 
