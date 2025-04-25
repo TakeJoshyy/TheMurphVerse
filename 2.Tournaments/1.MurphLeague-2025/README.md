@@ -41,7 +41,7 @@ Updated at the conclusion of each tournament.
 | Tied - 10th        | Domanski95     | 1      |
 | Tied - 10th        | McPlumber1     | 1      |
 | Tied - 10th        | TheBrokenPirates       | 1      |
-| 20th               | BigMurph619       | 0      |
+| 21st               | BigMurph619       | 0      |
 
 Competitors' cumulative league points across all 5 tournaments will decide who makes the 8 competitor playoff. Details of the format for the playoff are to come.
 
