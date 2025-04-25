@@ -94,43 +94,18 @@ All shinies are free catches or kills.
 
 # Settings
 
-Randomize the game. 
+Firered Murphmon uses its own patch, RNQS file, and Randomizer. Please note that using the Super Kaizo IronMON settings will NOT work despite heavily inspiring this game mode.
 
-All Pokémon, movesets, and items are randomized, with Trainer Pokémon & Wild Pokémon levels increased by 50%. 
+The Murphmon patch includes Quality of life enhancements developed by DrMaple and encounter rate/Safari Fishing changes developed by BigMurph619.
 
-All Pokemon must have Fluctuating Growth Rates. 
+Download and apply Firered Murphmon/Monomon patch to your vanilla, legally obtained Firered ROM [Patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/Emerald%20Murphmon%20and%20Monomon%20PatchI.ips)
 
-All opponents must have Smart AI(requires patch or SmartAI randomizer). 
+RNQS download [rnqs file](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Murphmon/Emerald-Murphmon-Settings-String.rnqs)
+321WRIEEjIBAAQABwCRAAKeBhsESQEACQACCQAuEgAAAAAABBi45ATkAYgICTIGBAIyHwUYAAQYuAAAAAAQRmlyZSBSZWQgKFUpIDEuMeVEAlzjwziK
 
-ALL opponents must have sensible and consumable held items. 
-
-All move tutors, TMs, and items must be randomized. 
-
-Static Pokémon MUST NOT have level increase. 
-
-`No "Make Evolutions Easier".`
-
-Forced Fully Evolved at Level 30. 
-
-All Boss trainers must have 6 Pokemon. 
-
-Catch Rate set to "4"
-
-**Note:** Ensure you set your battle style to “Shift” in game for Pewter Gym fights for best value.
-
-**Note:** Return battle style to “Set” after Brock fight to avoid accidental illegal swapping.
-
-# FRLG Murphmon Settings String
-
-```bash
-321WRIEEjIBAAQABwCRAAKeBhsESQEACQACCQAuEgAAAAAABRi45ATkAYgICTIGBAIyHwUYEEZpcmUgUmVkIChVKSAxLjDkp0B148M4ig==
-```
-
-If you prefer [rnqs file](https://github.com/TakeJoshyy/TheMurphVerse/blob/f9c2b3207a20e2d5f3bb1cdd24848aed60c2224a/Murphmon/FRLG%20Murphmon%20Settings%20String.rnqs)
+You are highly encouraged to use the linked randomizer as others have not worked in the past. [Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
 
 [Java](https://www.java.com/en/download/manual.jsp)
-
-[Recommended Randomizer](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/tag/smart-ai-v2)
 
 # Specific Game Rules
 
