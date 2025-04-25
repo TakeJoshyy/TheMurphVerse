@@ -100,7 +100,7 @@ The Murphmon patch includes Quality of life enhancements developed by DrMaple an
 
 Download and apply Firered Murphmon/Monomon patch to your vanilla, legally obtained Firered ROM [Patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/Emerald%20Murphmon%20and%20Monomon%20PatchI.ips)
 
-RNQS download [rnqs file](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Murphmon/Emerald-Murphmon-Settings-String.rnqs)
+RNQS download [rnqs file](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Murphmon/FRLG%20Murphmon%20Settings%20String.rnqs)
 321WRIEEjIBAAQABwCRAAKeBhsESQEACQACCQAuEgAAAAAABBi45ATkAYgICTIGBAIyHwUYAAQYuAAAAAAQRmlyZSBSZWQgKFUpIDEuMeVEAlzjwziK
 
 You are highly encouraged to use the linked randomizer as others have not worked in the past. [Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
