@@ -35,7 +35,7 @@ This is the main landing page for the community challenges, if you're interested
 
 **[Murphleague](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/1.MurphLeague-2025)**
 
-**[T1: FRLG Murphmon Tourney February 2025](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/2.Murphmon-T1-Tourney-2025/leaderboard.md)**
+**[T1: FRLG Murphmon Tourney February 2025](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/2.FireRed-Murphmon-T1-Tourney-2025/leaderboard.md)**
 
 **Murphverse Tournaments 2024**
 
