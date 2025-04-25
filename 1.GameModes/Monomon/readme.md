@@ -155,7 +155,7 @@ You are highly encouraged to use the linked randomizer as others have not worked
 # Credits
  - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/TakeJoshyy/TheMurphVerse/blob/e8e8f713f88f8b5fc1dffe13ea8db0556b298a9d/readme.md)
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
- - [PyroMike](https://github.com/PyroMikeGit) For the Smart AI Randomizer v2
+ - [Something Smart](https://github.com/something-smart) For the Modified Randomizer
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
  - [kelseyyoung](https://kelseyyoung.github.io/FRLGIronmonMap/) FRLG Interactive Map
  - [kipoterp](https://ibb.co/c3BLXZP) Sevii Islands Map
