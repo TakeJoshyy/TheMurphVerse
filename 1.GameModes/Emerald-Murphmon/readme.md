@@ -164,7 +164,7 @@ You are highly encouraged to use the linked randomizer as others have not worked
 # Credits/Useful Links
  - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/TakeJoshyy/TheMurphVerse/blob/6c1ba9d795d4b8aee9f45bc0d4940fa5363f7477/readme.md)
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Super Kaizo IronMON
- - [PyroMike](https://github.com/PyroMikeGit) For the Smart AI Randomizer v2
+ - [Something Smart](https://github.com/something-smart) For the Modified Randomizer
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
  - [kelseyyoung](https://kelseyyoung.github.io/EmeraldIronmonMap/) RSE Interactive Map
  - [Safari Guide](https://docs.google.com/spreadsheets/d/1iDE-pEUebkSfIt_KW6akQ_eo5cOkBn28DXpdqOUJPO0/edit?usp=sharing)
