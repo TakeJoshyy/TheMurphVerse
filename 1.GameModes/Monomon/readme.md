@@ -93,37 +93,18 @@ All shinies are free catches or kills.
 
 # Settings
 
-Randomize the game. 
+Firered Monomon uses its own patch, RNQS file, and Randomizer. Please note that using the Super Kaizo IronMON settings will NOT work despite heavily inspiring this game mode.
 
-All Pokémon, movesets, and items are randomized, with Trainer Pokémon & Wild Pokémon levels increased by 50%. 
+The Monomon patch includes Quality of life enhancements developed by DrMaple and encounter rate/Safari Fishing changes developed by BigMurph619.
 
-All Pokemon must have Fluctuating Growth Rates. 
+Download and apply Firered Murphmon/Monomon patch to your vanilla, legally obtained Firered ROM [Patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Murphmon/Firered%20Murphmon%20and%20Monomon%20Patch.ips)
 
-All opponents must have Smart AI(requires patch or SmartAI randomizer). 
+RNQS download [rnqs file](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Monomon/FRLG-Monomon-Settings-String.rnqs)
+321WRIEEjIBAAQABwCRAAKeBhsECQEACQACCQAuEgAAAAAABBi45ATkAYYICTIGBAIyGwUgAAQYuAAAAAAQRmlyZSBSZWQgKFUpIDEuMSx3whbjwziK
 
-BOSS and IMPORTANT trainers must have sensible and consumable held items. 
+You are highly encouraged to use the linked randomizer as others have not worked in the past. [Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
 
-All move tutors, TMs, and items must be randomized. 
-
-Static Pokémon MUST NOT have level increase. 
-
-`No "Make Evolutions Easier".`
-
-Forced Fully Evolved at Level 30. 
-
-All Boss trainers must have 3 additional Pokemon. 
-
-Catch Rate set to "5" (100% Catch Rate)
-
-# FRLG Monomon Settings String
-
-Download the [rnqs file](https://github.com/TakeJoshyy/TheMurphVerse/blob/e8e8f713f88f8b5fc1dffe13ea8db0556b298a9d/Monomon/FRLG-Monomon-Settings-String.rnqs) and can be used in the recommended randomizer
-
-These are NOT the same settings as Kaizo IronMON or Murphmon
-
-[Java](https://www.java.com/en/download/manual.jsp) 
-
-[Recommended Randomizer](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/tag/smart-ai-v2)
+[Java](https://www.java.com/en/download/manual.jsp)
 
 # Specific Game Rules
 
@@ -174,7 +155,7 @@ These are NOT the same settings as Kaizo IronMON or Murphmon
 # Credits
  - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/TakeJoshyy/TheMurphVerse/blob/e8e8f713f88f8b5fc1dffe13ea8db0556b298a9d/readme.md)
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
- - [PyroMike](https://github.com/PyroMikeGit) For the Smart AI Randomizer v2
+ - [Something Smart](https://github.com/something-smart) For the Modified Randomizer
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
  - [kelseyyoung](https://kelseyyoung.github.io/FRLGIronmonMap/) FRLG Interactive Map
  - [kipoterp](https://ibb.co/c3BLXZP) Sevii Islands Map
