@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Murph League Standings</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Roboto:wght@400&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #1a1a1a 0%, #2c2c2c 100%);
+            color: #ffffff;
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+        h1 {
+            color: #ffff00;
+            font-family: 'Orbitron', sans-serif;
+            text-align: center;
+            font-size: 2.5em;
+            text-shadow: 0 0 10px #ffff00, 0 0 20px #ffff00;
+            animation: pulse 2s infinite ease-in-out;
+        }
+        p {
+            text-align: center;
+            font-size: 1em;
+            color: #cccccc;
+            margin-bottom: 20px;
+        }
+        .container {
+            background: rgba(0, 0, 0, 0.7);
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 0 20px rgba(255, 255, 0, 0.2);
+            animation: fadeIn 1s ease-in;
+        }
+        table {
+            width: 100%;
+            max-width: 700px;
+            border-collapse: separate;
+            border-spacing: 0;
+            margin: 0 auto;
+        }
+        th, td {
+            padding: 12px;
+            text-align: center;
+            border: 1px solid #ffff00;
+            transition: transform 0.2s, background-color 0.2s;
+        }
+        th {
+            background: #333333;
+            font-family: 'Orbitron', sans-serif;
+            text-transform: uppercase;
+            font-size: 1.1em;
+        }
+        td {
+            background: #262626;
+        }
+        tr:hover td {
+            background: #3a3a3a;
+            transform: scale(1.02);
+        }
+        /* Highlight top 3 standings */
+        tr:nth-child(2) td { /* 1st */
+            background: linear-gradient(45deg, #ffd700, #ffec8b);
+            color: #000;
+        }
+        tr:nth-child(3) td { /* 2nd */
+            background: linear-gradient(45deg, #c0c0c0, #e6e6e6);
+            color: #000;
+        }
+        tr:nth-child(4) td { /* 3rd */
+            background: linear-gradient(45deg, #cd7f32, #e4a672);
+            color: #000;
+        }
+        tr:nth-child(9) td {
+            border-bottom: 6px solid #ff0000;
+        }
+        /* Animations */
+        @keyframes pulse {
+            0% { text-shadow: 0 0 10px #ffff00, 0 0 20px #ffff00; }
+            50% { text-shadow: 0 0 15px #ffff00, 0 0 30px #ffff00; }
+            100% { text-shadow: 0 0 10px #ffff00, 0 0 20px #ffff00; }
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>MurphLeague Standings</h1>
+        <p>Updated at the conclusion of each tournament.</p>
+        <table>
+            <tr>
+                <th>Standing</th>
+                <th>Creator</th>
+                <th>Points</th>
+            </tr>
+            <tr><td>1st</td><td>BennyTots</td><td>15</td></tr>
+            <tr><td>2nd</td><td>Roflmaogamers1</td><td>12</td></tr>
+            <tr><td>3rd</td><td>CaptDanieldore</td><td>10</td></tr>
+            <tr><td>4th</td><td>BeMidge</td><td>8</td></tr>
+            <tr><td>5th</td><td>Reilnur</td><td>6</td></tr>
+            <tr><td>6th</td><td>Kennyladdd</td><td>5</td></tr>
+            <tr><td>7th</td><td>Brae12321</td><td>4</td></tr>
+            <tr><td>8th</td><td>AitchKay</td><td>3</td></tr>
+            <tr><td>9th</td><td>SlothGoss</td><td>2</td></tr>
+            <tr><td>Tied - 10th</td><td>CamMan52</td><td>1</td></tr>
+            <tr><td>Tied - 10th</td><td>Kyroteck</td><td>1</td></tr>
+            <tr><td>Tied - 10th</td><td>Kipoterp</td><td>1</td></tr>
+            <tr><td>Tied - 10th</td><td>Banana_Sen</td><td>1</td></tr>
+            <tr><td>Tied - 10th</td><td>Batcam22</td><td>1</td></tr>
+            <tr><td>Tied - 10th</td><td>Imtyp0</td><td>1</td></tr>
+            <tr><td>Tied - 10th</td><td>DorktownPhantom</td><td>1</td></tr>
+            <tr><td>Tied - 10th</td><td>Freestob</td><td>1</td></tr>
+            <tr><td>Tied - 10th</td><td>Domanski95</td><td>1</td></tr>
+            <tr><td>Tied - 10th</td><td>McPlumber1</td><td>1</td></tr>
+            <tr><td>Tied - 10th</td><td>TheBrokenPirates</td><td>1</td></tr>
+            <tr><td>21st</td><td>BigMurph619</td><td>0</td></tr>
+        </table>
+        <div>
+            <a href="../index.html">Back To MurphVerse</a>
+        </div>
+    </div>
+    
+</body>
+</html>
