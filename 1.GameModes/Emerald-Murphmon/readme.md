@@ -13,7 +13,7 @@ Permadeath: If your primary Pokemon faints, the game is over.
 
 No Shopping: **Except for any type of Pokeball or Repel.**
 
-You can only use items that you pick up, find as a held item on Pokemon or are given by an NPC.
+You can only use items that you pick up, find as a held item on Pokemon or are given by an NPC. NOTE: You may NOT pick berries off of trees.
 
 Select 3 “Favorites” prior to each run. These Pokemon are subject to the 555 BST or under rule.
 
