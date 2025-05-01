@@ -90,7 +90,7 @@ Emerald Monomon uses its own patch, RNQS file, and Randomizer. Please note that 
 
 The monomon patch includes Quality of life enhancements developed by DrMaple and pathing, movement, and encounter rate changes developed by BigMurph619.
 
-Download and apply Emerald Murphmon/Monomon patch to your vanilla, legally obtained Emerald ROM [Patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/Emerald%20Murphmon%20and%20Monomon%20PatchI.ips)
+Download and apply Emerald Murphmon/Monomon patch to your vanilla, legally obtained Emerald ROM [Patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/Emerald%20Murphmon%20and%20Monomon%20Patch%20with%20balanced%20encounters.ips)
 
 RNQS download [rnqs file](https://raw.githubusercontent.com/BigMurph619/Emerald-Monomon/refs/heads/main/Emerald-Monomon-Settings-String.rnqs)
 321WRIEEjIBAAQABwCRAAKeBhsECQEACQACCQAuEgAAAAAABBi45ATkAYYICTIGBAIyGwUgAAQYuAAAAAALRW1lcmFsZCAoVSnuBUa848M4ig==
