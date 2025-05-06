@@ -46,6 +46,8 @@ Updated at the conclusion of each tournament.
 | Tied - 21st        | Smolfan27  | 0      |
 | Tied - 21st        | ElectricSoldierPorygon2  | 0      |
 | Tied - 21st        | oxKINGLEOox | 0      |
+| Tied - 21st        | UceyChimchar | 0      |
+| Tied - 21st        | xoptoss | 0      |
 
 
 Competitors' cumulative league points across all 5 tournaments will decide who makes the 8 competitor playoff. Details of the format for the playoff are to come.
