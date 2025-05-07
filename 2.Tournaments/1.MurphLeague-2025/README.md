@@ -48,6 +48,7 @@ Updated at the conclusion of each tournament.
 | Tied - 21st        | oxKINGLEOox | 0      |
 | Tied - 21st        | UceyChimchar | 0      |
 | Tied - 21st        | xoptoss | 0      |
+| Tied - 21st        | attractivetoucan39 | 0      |
 
 
 Competitors' cumulative league points across all 5 tournaments will decide who makes the 8 competitor playoff. Details of the format for the playoff are to come.
@@ -57,9 +58,9 @@ Competitors' cumulative league points across all 5 tournaments will decide who m
 | :-----------------------------------: |
 | Many of our tournaments include "awards pools" with entry fees to be eligible for awards. Participation in MurphLeague does NOT require entry fees and you are still eligible to make the playoffs |
 | Playoff awards TBA |
-| Tournament tentative schedule: First through the following 3rd Sunday in the months of February(T1), May(T2), June(T3), August(T4), October(T5) and December(Playoff). |
+| Tournament tentative schedule: February(T1), May 9th-May 25th(T2), June 20th-July 6th(T3), August 1st-August17th(T4), September 19th-October 5th(T5) and November 7th-TBD(Playoff). |
 | T1 info: [Murphleague 2025 T1](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/Murphmon-T1-Tourney-2025/readme.md) - [T1 Leader Board](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/Murphmon-T1-Tourney-2025/leaderboard.md) |
-| T2 info: Monomon 2025 T2 |
+| T2 info: [Emerald Monomon 2025 T2](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/3.Emerald-Monomon-T2-Tourney-2025)  |
 
 ## Participation Info
 | Links/Participation/FAQ |
