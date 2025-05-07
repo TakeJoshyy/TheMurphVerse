@@ -1,6 +1,7 @@
 # T2-Tourney-2025-Emerald-Monomon
 
-MurphLeague Tourney #2 is Monomon Emerald
+[MurphLeague](https://github.com/TakeJoshyy/TheMurphVerse/edit/main/2.Tournaments/1.MurphLeague-2025/README.md 
+) Tourney #2 is Monomon Emerald
 
 Monomon Emerald: A Kaizo IronMON variant with an easier path through Brawley, Tate and Liza and Steven by allowing additional TMs/move tutors, balanced pathing, and map patches to lose less runs in the grass and to speed up the second half grind.
 
