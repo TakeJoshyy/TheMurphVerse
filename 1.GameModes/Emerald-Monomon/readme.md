@@ -32,7 +32,7 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 
 ---
 
-> Note: All caves may be re-entered at ANY time unless listed below. You may also re-enter Trick House Freely.
+> Note: All caves may be re-entered at ANY time unless listed below. You may also re-enter Trick House but treat each visit as a dungeon.
 
 |  **Dungeons** |
 | :-----------: |
