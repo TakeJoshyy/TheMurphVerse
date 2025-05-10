@@ -93,7 +93,7 @@ The monomon patch includes Quality of life enhancements developed by DrMaple and
 Download and apply Emerald Murphmon/Monomon patch to your vanilla, legally obtained Emerald ROM [Patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/Emerald%20Murphmon%20and%20Monomon%20Patch%20with%20balanced%20encounters.ips)
 
 RNQS download [rnqs file](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/Emerald-Monomon-Settings-String.rnqs)
-321WRIEEjIBAAQABwCRAAKeBhsECQEACQACCQAuEgAAAAAABBi45ATkAYYICTIGBAIyGwUgAAQYuAAAAAALRW1lcmFsZCAoVSnuBUa848M4ig==
+321WRIEEjIBAAQABwCRAAKeBhsECQEACQACCQAuEgAAAAAAhBi45ATkAYYICTIGBAIyGwUgAIQYuAAAAAALRW1lcmFsZCAoVSnZ1BZD48M4ig==
 
 You are highly encouraged to use the linked randomizer as others have not worked in the past. [Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
 
