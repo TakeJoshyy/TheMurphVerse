@@ -33,7 +33,7 @@ FREE.99
 | Defeat Macho Brace Family    (Optional)           |
 | Cycling road (Dungeon)                            |
 | Wattson                                           |
-| Full Clear Routes 111-114 (Not including the desert (Pre-Meteor Falls)      |
+| Full Clear Routes 111-114 [Not including the desert (Pre-Meteor Falls)]     |
 | Mt. Chimney Maxie                                 |
 | Flannery                                          |
 | Dad (2)                                           |
