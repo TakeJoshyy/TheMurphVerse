@@ -25,34 +25,34 @@ FREE.99
 | :-----------------------------------------------: |
 | Petalburg Woods Aqua Grunt                        |
 | Roxanne                                           |
-| Rustboro Rival                                    |
-| Soda Pop Shack Full Clear                         |
+| Rustboro Rival (Optional)                         |
+| Soda Pop Shack Full Clear (Optional)              |
 | Brawley (2)                                       |
 | Cycling Road Rival                                |
 | Mauville Wally                                    |
-| Defeat Macho Brace Family                         |
+| Defeat Macho Brace Family    (Optional)           |
 | Cycling road (Dungeon)                            |
 | Watson                                            |
-| Full Clear Pre-Meteor Falls (Including Doubles) note: clear everything BEFORE entering meteor falls. Obtaining this point does not include trainers north of Rustboro  |
+| Full Clear All Routes (Not Including Dungeons) Pre-Meteor Falls (Including Doubles) note: clear everything BEFORE entering Meteor Falls. Obtaining this point does not include trainers north of Rustboro  |
 | Mt. Chimney Maxie                                 |
 | Flannery                                          |
 | Dad (2)                                           |
-| Full Clear Weather Institute                      |
+| Full Clear Weather Institute  (Optional)          |
 | Weather Institute Rival                           |
 | Winona                                            |
 | Lilycove Rival                                    |
 | Mt. Pyre Aqua Clear                               |
-| Mt. Pyre full clear                               |
+| Mt. Pyre full clear  (Optional)                   |
 | Magma Hideout Maxie                               |
-| Magma Hideout Full Clear                          |
-| Aqua Hideout Full Clear                           |
+| Magma Hideout Full Clear (Optional)               |
+| Aqua Hideout Full Clear (Optional)                |
 | Level 80                                          |
 | Tate and Liza (2)                                 |
 | Maxie Doubles Fight                               |
 | Archie Underwater Hideout                         |
 | Juan                                              |
 | Wally                                             |
-| Full Clear VR                                     |
+| Full Clear VR  (Optional)                         |
 | Sidney                                            |
 | Phoebe                                            |
 | Glacia (2)                                        |
@@ -68,11 +68,13 @@ FREE.99
 | Fastest mach bike time (3 tries each run). Each run that makes it to cycling road will give you 3 tries to record your best time on the Mach Bike. Must be done at %100 speed. No practice runs, no redos. As you update your scores, update your best OVERALL time (from all runs, not each run). At the end of the tourney, whoever has the fastest time (confirmed with a clip) will earn 1 bonus tourney point. |
 | Make-a-wish foundation: Visit a sick little girl, make her laugh and earn a special gift! Send me a clip of your special prize and the meaning of friendship will earn you 1 bonus point!|
 
+Notes: Cycling Road is an Optional Dungeon - Treat as Dungeon for point at your own risk...you may leave to heal and come back but, you will not earn this point unless you clear all trainers in one go. Does NOT include the psychic underneath.
+
 ## Awards
 
 Earn points towards the [Murphleague](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/1.MurphLeague-2025).
 
-Top 3 placements will receive bits from Murph: 1st: 2500 bits, 2nd: 1500 bits, 3rd: 1000 bits. There is NO COST for the awards pool this tournament! Simply follow the instructions in the discord to join and be eligible.
+Top 3 placements will receive bits from Murph: 1st: 2500 bits, 2nd: 1500 bits, 3rd: 1000 bits. There is NO COST for the awards pool this tournament! Simply follow the instructions in the discord to join and be eligible. Also select prizes from the Pledge Page.
 
 ## Rules
 
