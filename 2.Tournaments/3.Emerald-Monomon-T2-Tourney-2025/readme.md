@@ -33,7 +33,7 @@ FREE.99
 | Defeat Macho Brace Family    (Optional)           |
 | Cycling road (Dungeon)                            |
 | Wattson                                           |
-| Full Clear All Routes (Not Including Dungeons) Pre-Meteor Falls (Including Doubles) note: clear everything BEFORE entering Meteor Falls. Obtaining this point does not include trainers north of Rustboro  |
+| Full Clear Routes 111-114 (Not including the desert (Pre-Meteor Falls)      |
 | Mt. Chimney Maxie                                 |
 | Flannery                                          |
 | Dad (2)                                           |
