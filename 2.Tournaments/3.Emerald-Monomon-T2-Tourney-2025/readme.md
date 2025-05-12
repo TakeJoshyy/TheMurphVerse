@@ -32,7 +32,7 @@ FREE.99
 | Mauville Wally                                    |
 | Defeat Macho Brace Family    (Optional)           |
 | Cycling road (Dungeon)                            |
-| Watson                                            |
+| Wattson                                           |
 | Full Clear All Routes (Not Including Dungeons) Pre-Meteor Falls (Including Doubles) note: clear everything BEFORE entering Meteor Falls. Obtaining this point does not include trainers north of Rustboro  |
 | Mt. Chimney Maxie                                 |
 | Flannery                                          |
