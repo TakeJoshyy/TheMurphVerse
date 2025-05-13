@@ -1,4 +1,4 @@
-# Murphmon Rules
+# Firered Murphmon Rules
 
 ### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [FRLG Specifics Rules](#specific-game-rules) | [Credits](#Credits)
 
