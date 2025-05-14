@@ -51,7 +51,7 @@ Updated at the conclusion of each tournament.
 | Tied - 21st        | attractivetoucan39 | 0      |
 
 
-Competitors' cumulative league points across all 5 tournaments will decide who makes the 8 competitor playoff. Details of the format for the playoff are to come.
+Competitors' cumulative league points across all 5 tournaments will decide who makes the 8 competitor playoff. Tiebreakers for positioning will be decided first by highest tourney finish, then by coinflip. Details of the format for the playoff are to come.
 
 ## Additional Info
 |       Details Subject to Update       |
