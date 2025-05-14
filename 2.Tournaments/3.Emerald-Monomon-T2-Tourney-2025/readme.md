@@ -1,6 +1,6 @@
 # T2-Tourney-2025-Emerald-Monomon
 
-[MurphLeague](https://github.com/TakeJoshyy/TheMurphVerse/edit/main/2.Tournaments/1.MurphLeague-2025/README.md 
+[MurphLeague](https://github.com/TakeJoshyy/TheMurphVerse/edit/main/2.Tournaments/1.MurphLeague-2025/README.md
 ) Tourney #2 is Monomon Emerald
 
 Monomon Emerald: A Kaizo IronMON variant with an easier path through Brawley, Tate and Liza and Steven by allowing additional TMs/move tutors, balanced pathing, and map patches to lose less runs in the grass and to speed up the second half grind.
@@ -12,6 +12,9 @@ Top 3 runs combined. Your cummulative points of your top 3 runs will decide your
 ### Dates
 May 9th - May 26th Midnight PST, USA.
 
+### Leaderboard
+
+[Leaderboard Found Here](https://takejoshyy.github.io/TheMurphVerse/pages/T2Standings.html)
 
 ### Cost of entry
 
@@ -60,7 +63,7 @@ FREE.99
 | Wallace (3)                                       |
 | Steven (5)                                        |
 
-## Bonus points 
+## Bonus points
 
 |        Bonus Points       |
 | :-----------------------: |
