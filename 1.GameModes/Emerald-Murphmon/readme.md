@@ -55,7 +55,7 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 
 # Banned items:
 
-Any non-consumable held items except items for repeling or escaping wild encounters. Reviving items. X Items are not allowed on the Elite 4 or Champion.
+Any non-consumable held items exceptfor everstone and items for repeling or escaping wild encounters. Reviving items. X Items are not allowed on the Elite 4 or Champion.
 
 **NOTE:** You may not use status healing flutes except when scouting wild Pokemon.
 
@@ -80,8 +80,6 @@ Any pure setup move that isn't temporary and doesn't deal damage, such as `Sword
 No healing outside of battle: PP, Health, or Status. You may use Rare Candy, PP UP, or PP MAX.
 
 You **DO NOT** have to let your Pokemon Evolve.
-
-You may only hold consumable held items.
 
 All shinies are free catches or kills.
 
