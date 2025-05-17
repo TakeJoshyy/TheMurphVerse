@@ -88,10 +88,11 @@ Emerald Monomon uses its own patch, RNQS file, and Randomizer. Please note that 
 
 The monomon patch includes Quality of life enhancements developed by DrMaple and pathing, movement, and encounter rate changes developed by BigMurph619.
 
-Download and apply Emerald Murphmon/Monomon patch to your vanilla, legally obtained Emerald ROM [Patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/Emerald%20Monomon%20and%20Murphmon%20Patch%202.0.ips)
+Download and apply Emerald Murphmon/Monomon patch to your vanilla, legally obtained Emerald ROM. [Patch Found Here Click Raw To Download](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/Emerald%20Monomon%20and%20Murphmon%20Patch%202.0.ips)
 
-RNQS download [rnqs file](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/Emerald-Monomon-Settings-String.rnqs)
-321WRIEEjIBAAQABwCRAAKeBhsECQEACQACCQAuEgAAAAAAhBi45ATkAYYICTIGBAIyGwUgAIQYuAAAAAALRW1lcmFsZCAoVSnZ1BZD48M4ig==
+RNQS download [rnqs File Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/Emerald-Monomon-Settings-String.rnqs)
+
+> The setting string for note: 321WRIEEjIBAAQABwCRAAKeBhsECQEACQACCQAuEgAAAAAAhBi45ATkAYYICTIGBAIyGwUgAIQYuAAAAAALRW1lcmFsZCAoVSnZ1BZD48M4ig==
 
 You are highly encouraged to use the linked randomizer as others have not worked in the past. [Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
 
