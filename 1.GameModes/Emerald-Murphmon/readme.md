@@ -102,7 +102,7 @@ You are highly encouraged to use the linked randomizer as others have not worked
 
 1. You may pick any mon you want in the bag that is 555 BST or lower. You may keep its held item. **No legendaries allowed.** If you evolve into a Pokemon that is over 555 BST, you may use that Pokemon so long as it aligns with Ability rules.
 
-2. All items and moves are allowed in the initial wild fight AND rival fight.
+2. All items, moves, and abilities are allowed through the first rival fight.
 
 3. Pivoting:
     - You may catch up to 3 total unique mons from any area prior to the Aqua Grunt in the forest (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and bag mon. You may keep items held by these Pokemon. 
