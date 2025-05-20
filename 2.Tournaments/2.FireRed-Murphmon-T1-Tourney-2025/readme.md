@@ -74,4 +74,4 @@ Awards will be given to 1st, 2nd, and 3rd place finishers. The top 3 will be rec
 Goodluck Challenger.
 ## Murphmon
 
-[Link to the murphmon rules!](https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Murphmon/readme.md)
+[Link to the murphmon rules!](https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/FireRed-Murphmon/readme.md)
