@@ -2,7 +2,7 @@
 
 IMPORTANT: Monomon and Murphmon are **UNOFFICIAL** ways of playing an IronMON-inspired challenge. All credits for the core idea of the challenge go to iateyourpie. This ruleset is used primarily for open tournament play hosted by BigMurph619 and moderators from the MurphVerse discord.
 
-### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [FRLG Specifics Rules](#specific-game-rules) | [Credits](#Credits)
+### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [FRLG Specifics Rules](#specific-game-rules) | [NATDEX](#NATDEX) | [DuoMon](#DuoMon) | [Credits](#Credits)
 
 # Core Game Rules
 
@@ -15,7 +15,7 @@ No Shopping: **Except for any type of Pokeball or Repel.**
 
 You can only use items that you pick up, find as a held item on Pokemon or are given by an NPC, no use of stores.
 
-Select 3 “Favorites” prior to each run. These Pokemon are subject to the 555 BST or under rule.
+Select 3 “Favorites” prior to each run. These Pokemon are subject to the 599 BST or under rule.
 
 Stolen Items: You may not keep stolen items from wild pokemon with moves like Thief, Covet, etc.  
 **Stealing them from a trainer battle is fine.**
@@ -109,7 +109,7 @@ You are highly encouraged to use the linked randomizer as others have not worked
 
 # Specific Game Rules
 
-1. You may pick any mon you want in the lab that is 555 BST or lower. You may keep its held item. **No legendaries allowed.** If you evolve into a Pokemon that is over 555 BST, you may use that Pokemon so long as it aligns with Ability rules.
+1. You may pick any mon you want in the lab that is 599 BST or lower. You may keep its held item. **No legendaries allowed.** If you evolve into a Pokemon that is over 599 BST, you may use that Pokemon so long as it aligns with Ability rules.
 
 2. All items, moves, and abilities are allowed in the lab.
 
@@ -168,6 +168,46 @@ You are highly encouraged to use the linked randomizer as others have not worked
 16. All held items found on pivot options/HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed. 
     - Purchased/gifted mon's items are not allowed i.e. Magikarp Route 4, Silph Co. Lapras, Dojo Hitmon. 
     - You may not catch a wild mon unless it is a pivot option, Shiny, or needed for HM friend.
+
+--------------------------------------------------
+
+#NATDEX
+
+NATDEX is a variant of Kaizo IronMON created by cyansixfour that includes all Pokemon and their variants, updated type charts and effectiveness including fairy typing, added in some fairy typing moves, and a few other quality of life changes. NATDEX Murphmon uses the 1.1.2 NATDEX patch with some additional changes to encounter rates in the early game and Safari pivoting for the Murphmon and Monomon  formats.
+
+The only rule changes are: You may have 9 favorites instead of 3 and legendaries are allowed as long as they are 599 BST or under.
+
+Settings and Setup:
+
+
+--------------------------------------------------
+
+#DuoMon
+
+If you are here and wanting to play this: 1. You're crazy. 2. I like you.
+
+DuoMon is the Doubles Battles take on this challenge and can be done with a NATDEX variation as well. 
+
+|Settings changes include the following|
+|-|
+|Standardize EXP Curves to: Medium Slow|
+|Trainer Pokémon: Double Battle Mode (enabled)|
+|Additional Pokémon for: Important Trainers +1, Regular Trainers +1, (Keep Boss Trainers +3)|
+
+##DuoMon Rules
+
+|All Regular FRLG Murphmon Rules Apply Except:|
+|-|
+|FRLG Specific Rule #15 Doubles Battles does not apply|
+|Pre-Jimmy pivoting: You may catch ANY unique Pokemon prior to fighting the first trainer as a pivot option (not limited to 3 like regular Murphmon). You may recieve exp from 1 wild Pokemon for each one of your runners (receiving EXP from a wild still locks in a Pokemon as a pivot). |
+| You cannot run the same Pokemon unless by evolving. i.e. Start with Blastoise and marshtomp, if marshtomp evolves into Blastoise that is ok|
+| Safari Pivoting: You must pivot off of BOTH Pokemon to new options that you have not progressed through the game with yet. You may select from 8 options instead of your normal 6. They may not be the same Pokemon unless by evolving. All other normal Murphmon Safari rules apply |
+
+MurphMon DuoMon Settings and Setup
+
+NATDEX MurphMon Duomon Settings and Setup
+
+--------------------------------------------------
 
 # Credits/Useful Links
  - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/TakeJoshyy/TheMurphVerse/blob/f9c2b3207a20e2d5f3bb1cdd24848aed60c2224a/readme.md) 
