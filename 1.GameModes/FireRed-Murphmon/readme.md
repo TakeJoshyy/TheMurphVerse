@@ -171,7 +171,7 @@ You are highly encouraged to use the linked randomizer as others have not worked
 
 --------------------------------------------------
 
-#NATDEX
+# NATDEX
 
 NATDEX is a variant of Kaizo IronMON created by cyansixfour that includes all Pokemon and their variants, updated type charts and effectiveness including fairy typing, added in some fairy typing moves, and a few other quality of life changes. NATDEX Murphmon uses the 1.1.2 NATDEX patch with some additional changes to encounter rates in the early game and Safari pivoting for the Murphmon and Monomon  formats.
 
@@ -182,7 +182,7 @@ Settings and Setup:
 
 --------------------------------------------------
 
-#DuoMon
+# DuoMon
 
 If you are here and wanting to play this: 1. You're crazy. 2. I like you.
 
@@ -194,7 +194,7 @@ DuoMon is the Doubles Battles take on this challenge and can be done with a NATD
 |Trainer Pokémon: Double Battle Mode (enabled)|
 |Additional Pokémon for: Important Trainers +1, Regular Trainers +1, (Keep Boss Trainers +3)|
 
-##DuoMon Rules
+## DuoMon Rules
 
 |All Regular FRLG Murphmon Rules Apply Except:|
 |-|
@@ -215,7 +215,8 @@ NATDEX MurphMon Duomon Settings and Setup
  - [Something Smart](https://github.com/something-smart) For the Modified Randomizer
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
  - [kelseyyoung](https://kelseyyoung.github.io/FRLGIronmonMap/) FRLG Interactive Map
+ - [CyanSMP64](https://github.com/CyanSMP64) NATDEX Adaptation
  - [kipoterp](https://ibb.co/c3BLXZP) Sevii Islands Map
  - [Safari Tracking Sheet](https://docs.google.com/spreadsheets/d/1FhwdFncNNF9plAkSF0eBrjodp_OFLh5xv4oBp2H42C4/edit?gid=2049712238#gid=2049712238)
 
-### [Top](#murphmon-rules) | [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [Fire Red Specifics Rules](#specific-game-rules)
+### [Top](#murphmon-rules) | [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [Fire Red Specifics Rules](#specific-game-rules) | [NATDEX](#NATDEX) | [DuoMon](#DuoMon) |
