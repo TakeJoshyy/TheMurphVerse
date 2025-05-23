@@ -4,7 +4,7 @@ IMPORTANT: Monomon and Murphmon are **UNOFFICIAL** ways of playing an IronMON-in
 
 Created by [BigMurph619](https://www.twitch.tv/bigmurph619)
 
-### [Core Game Rules](#core-game-rules) | [Settings](#settings) | [FRLG Game Specifics](#specific-game-rules) | [Credits](#Credits)
+### [Core Game Rules](#core-game-rules) | [Settings](#settings) | [FRLG Game Specifics](#specific-game-rules) | [NATDEX](#NATDEX) | [DuoMon](#DuoMon) | [Credits](#Credits)
 
 # Core Game Rules:
 
@@ -151,6 +151,43 @@ You are highly encouraged to use the linked randomizer as others have not worked
 14. All held items found on pivot options/HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed. 
     - Purchased/gifted mon's items are not allowed i.e. Magikarp Route 4, Silph Co. Lapras, Dojo Hitmon. 
     - You may not catch a wild mon unless it is a pivot option, Shiny, or needed for HM friend.
+   
+--------------------------------------------------
+
+# NATDEX
+
+NATDEX is a variant of Kaizo IronMON created by cyansixfour that includes all Pokemon and their variants, updated type charts and effectiveness including fairy typing, added in some fairy typing moves, and a few other quality of life changes. NATDEX Murphmon uses the 1.1.2 NATDEX patch with some additional changes to encounter rates in the early game and Safari pivoting for the Murphmon and Monomon formats.
+
+The only rule changes are: You may have 9 favorites instead of 3 and legendaries are allowed as long as they are 599 BST or under.
+
+### Settings and Setup:
+
+
+--------------------------------------------------
+
+# DuoMon
+
+DuoMon is the Doubles Battles take on this challenge and can be done with a NATDEX variation as well. 
+
+|Settings changes include the following|
+|-|
+|Standardize EXP Curves to: Medium Slow|
+|Trainer Pokémon: Double Battle Mode (enabled)|
+|Additional Pokémon for: Important Trainers +1, Regular Trainers +1, (Keep Boss Trainers +3)|
+
+## DuoMon Rules
+
+|All Regular FRLG Monomon Rules Apply Except:|
+|-|
+|FRLG Specific Rule #15 Doubles Battles does not apply|
+|Pre-Jimmy pivoting: You may catch ANY unique Pokemon prior to fighting the first trainer as a pivot option (not limited to 3 like regular Monomon). You may recieve exp from 1 wild Pokemon for each one of your runners (receiving EXP from a wild still locks in a Pokemon as a pivot). |
+| You cannot run the same Pokemon unless by evolving. i.e. Start with Blastoise and marshtomp, if marshtomp evolves into Blastoise that is ok|
+
+### DuoMon Settings and Setup
+
+### NATDEX Duomon Settings and Setup
+
+--------------------------------------------------
 
 # Credits
  - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/TakeJoshyy/TheMurphVerse/blob/e8e8f713f88f8b5fc1dffe13ea8db0556b298a9d/readme.md)
@@ -158,7 +195,8 @@ You are highly encouraged to use the linked randomizer as others have not worked
  - [Something Smart](https://github.com/something-smart) For the Modified Randomizer
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
  - [kelseyyoung](https://kelseyyoung.github.io/FRLGIronmonMap/) FRLG Interactive Map
+ - [CyanSMP64](https://github.com/CyanSMP64) NATDEX Adaptation
  - [kipoterp](https://ibb.co/c3BLXZP) Sevii Islands Map
  - [kelseyyoung](https://kelseyyoung.github.io/EmeraldIronmonMap/) RSE Interactive Map
 
-### [Top](#monomon-rules) | [Core Game Rules](#core-game-rules) | [Settings](#settings) | [FRLG Game Specific](#specific-game-rules)
+### [Top](#monomon-rules) | [Core Game Rules](#core-game-rules) | [Settings](#settings) | [FRLG Game Specific](#specific-game-rules) | [NATDEX](#NATDEX) | [DuoMon](#DuoMon)
