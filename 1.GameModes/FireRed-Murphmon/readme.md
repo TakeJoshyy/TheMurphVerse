@@ -177,7 +177,7 @@ NATDEX is a variant of Kaizo IronMON created by cyansixfour that includes all Po
 
 The only rule changes are: You may have 9 favorites instead of 3 and legendaries are allowed as long as they are 599 BST or under.
 
-Settings and Setup:
+### Settings and Setup:
 
 
 --------------------------------------------------
@@ -203,9 +203,9 @@ DuoMon is the Doubles Battles take on this challenge and can be done with a NATD
 | You cannot run the same Pokemon unless by evolving. i.e. Start with Blastoise and marshtomp, if marshtomp evolves into Blastoise that is ok|
 | Safari Pivoting: You must pivot off of BOTH Pokemon to new options that you have not progressed through the game with yet. You may select from 8 options instead of your normal 6. They may not be the same Pokemon unless by evolving. All other normal Murphmon Safari rules apply |
 
-MurphMon DuoMon Settings and Setup
+### MurphMon DuoMon Settings and Setup
 
-NATDEX MurphMon Duomon Settings and Setup
+### NATDEX MurphMon Duomon Settings and Setup
 
 --------------------------------------------------
 
