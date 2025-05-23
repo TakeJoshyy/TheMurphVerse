@@ -50,8 +50,12 @@ This is the main landing page for the community challenges, tournaments, and mor
 
 **[Murphleague](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/1.MurphLeague-2025)**
 
+
+
 **[T1: FRLG Murphmon Tourney February 2025](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/2.FireRed-Murphmon-T1-Tourney-2025/leaderboard.md)**
+
 **[T2: Emerald Monomon May 2025](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/3.Emerald-Monomon-T2-Tourney-2025)**
+
 T3: Heartgold Monomon (Soon)
 
 **Murphverse Tournament Podiums 2024**
