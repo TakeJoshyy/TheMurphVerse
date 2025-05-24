@@ -156,12 +156,21 @@ You are highly encouraged to use the linked randomizer as others have not worked
 
 # NATDEX
 
-NATDEX is a variant of Kaizo IronMON created by cyansixfour that includes all Pokemon and their variants, updated type charts and effectiveness including fairy typing, added in some fairy typing moves, and a few other quality of life changes. NATDEX Murphmon uses the 1.1.2 NATDEX patch with some additional changes to encounter rates in the early game and Safari pivoting for the Murphmon and Monomon formats.
+NATDEX is a variant of Kaizo IronMON created by cyansixfour that includes all Pokemon and their variants, updated type charts and effectiveness including fairy typing, added in some fairy typing moves, and a few other quality of life changes. NATDEX Monomon uses the 1.1.2 NATDEX patch with some additional changes to encounter rates in the early game and Safari pivoting for the Murphmon and Monomon formats.
 
 The only rule changes are: You may have 9 favorites instead of 3 and legendaries are allowed as long as they are 599 BST or under.
 
 ### Settings and Setup:
 
+This mode utilizes its own patch, tracker extension and randomizer.
+
+The patch utilizes cyansixfour's v1.1.2 patch with some additional changes to encounter rates made by BigMurph619 specifically for Murphmon and Monomon. NOTE: Do NOT use this patch to play NATDEX IronMON as it is catered specifically for this challenge. Download and apply this [patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Murphmon/Natdex%20Firered%20Murphmon%20and%20monomon%20Patch.bps) to your vanilla, legally obtained Firered v1.1 ROM. 
+
+Utilize the v1.1.2 NatDexExtension and randomizer that can be found [here](https://github.com/CyanSMP64/NatDexExtension/releases/download/v1.1.2/NatDexExtension_v1.1.2.zip)
+
+[NATDEX Firered Monomon Settings String](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Monomon/Firered%20NATDEX%20Monomon.rnqs)
+
+Doubles: [NATDEX Firered Murphmon Duomon Settings String](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Monomon/Firered%20NATDEX%20Duomon.rnqs)
 
 --------------------------------------------------
 
@@ -185,7 +194,7 @@ DuoMon is the Doubles Battles take on this challenge and can be done with a NATD
 
 ### DuoMon Settings and Setup
 
-### NATDEX Duomon Settings and Setup
+Utilize standard Firered Monomon Setup Guidleines with [this settings string](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Monomon/Firered%20Duomon.rnqs)
 
 --------------------------------------------------
 
