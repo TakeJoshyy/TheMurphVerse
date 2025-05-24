@@ -4,7 +4,7 @@ IMPORTANT: Monomon and Murphmon are **UNOFFICIAL** ways of playing an IronMON-in
 
 Created by [BigMurph619](https://www.twitch.tv/bigmurph619)
 
-### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [RSE Specifics Rules](#specific-game-rules) | [Credits](#Credits)
+### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [RSE Specifics Rules](#specific-game-rules) | [NATDEX](#NATDEX) | [DuoMon](#DuoMon) | [Credits](#Credits)
 
 # Core Game Rules
 
@@ -17,7 +17,7 @@ No Shopping: **Except for any type of Pokeball or Repel.**
 
 You can only use items that you pick up, find as a held item on Pokemon or are given by an NPC. NOTE: You may NOT pick berries off of trees.
 
-Select 3 “Favorites” prior to each run. These Pokemon are subject to the 555 BST or under rule.
+Select 3 “Favorites” prior to each run. These Pokemon are subject to the 599 BST or under rule.
 
 Stolen Items: You may not keep stolen items from wild pokemon with moves like Thief, Covet, etc.  
 **Stealing them from a trainer battle is fine.**
@@ -102,7 +102,7 @@ You are highly encouraged to use the linked randomizer as others have not worked
 
 # Specific Game Rules
 
-1. You may pick any mon you want in the bag that is 555 BST or lower. You may keep its held item. **No legendaries allowed.** If you evolve into a Pokemon that is over 555 BST, you may use that Pokemon so long as it aligns with Ability rules.
+1. You may pick any mon you want in the bag that is 599 BST or lower. You may keep its held item. **No legendaries allowed.** If you evolve into a Pokemon that is over 599 BST, you may use that Pokemon so long as it aligns with Ability rules.
 
 2. All items, moves, and abilities are allowed through the first rival fight.
 
@@ -147,11 +147,50 @@ You are highly encouraged to use the linked randomizer as others have not worked
 
 Goodluck Challenger.
 
+--------------------------------------------------
+
+# NATDEX
+
+NATDEX is a variant of Kaizo IronMON created by cyansixfour that includes all Pokemon and their variants, updated type charts and effectiveness including fairy typing, added in some fairy typing moves, and a few other quality of life changes. NATDEX Murphmon uses the 1.1.2 NATDEX patch with some additional changes to encounter rates in the early game and Safari pivoting for the Murphmon and Monomon formats.
+
+The only rule changes are: You may have 9 favorites instead of 3 and legendaries are allowed as long as they are 599 BST or under.
+
+### Settings and Setup:
+
+
+--------------------------------------------------
+
+# DuoMon
+
+DuoMon is the Doubles Battles take on this challenge and can be done with a NATDEX variation as well. 
+
+|Settings changes include the following|
+|-|
+|Standardize EXP Curves to: Medium Slow|
+|Trainer Pokémon: Double Battle Mode (enabled)|
+|Additional Pokémon for: Important Trainers +1, Regular Trainers +1, (Keep Boss Trainers +3)|
+
+## DuoMon Rules
+
+|All Regular Emerald Monomon Rules Apply Except:|
+|-|
+|Emerald Specific Rule #10 Tate and Liza Lad does not apply|
+|Emerald Specific Rule #11 Doubles Battles does not apply|
+|Pre-Aqua Grunt pivoting: You may catch ANY unique Pokemon prior to fighting the first trainer as a pivot option (not limited to 3 like regular Monomon). You may recieve exp from 1 wild Pokemon for each one of your runners (receiving EXP from a wild still locks in a Pokemon as a pivot). |
+| You cannot run the same Pokemon unless by evolving. i.e. Start with Blastoise and marshtomp, if marshtomp evolves into Blastoise that is ok|
+
+### DuoMon Settings and Setup
+
+### NATDEX Duomon Settings and Setup
+
+--------------------------------------------------
+
 # Credits/Useful Links
  - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/TakeJoshyy/TheMurphVerse/blob/6c1ba9d795d4b8aee9f45bc0d4940fa5363f7477/readme.md)
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
  - [Something Smart](https://github.com/something-smart) For the Modified Randomizer
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
  - [kelseyyoung](https://kelseyyoung.github.io/EmeraldIronmonMap/) RSE Interactive Map
+ - [CyanSMP64](https://github.com/CyanSMP64) NATDEX Adaptation
 
-### [Top](#monomon-rules) | [Core Game Rules](#core-game-rules) | [Settings](#settings) | [RSE Game Specific](#specific-game-rules)
+### [Top](#monomon-rules) | [Core Game Rules](#core-game-rules) | [Settings](#settings) | [RSE Game Specific](#specific-game-rules) | [NATDEX](#NATDEX) | [DuoMon](#DuoMon)
