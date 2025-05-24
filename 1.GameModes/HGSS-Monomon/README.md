@@ -153,6 +153,8 @@ DuoMon is the Doubles Battles take on this challenge.
 
 ### DuoMon Settings and Setup
 
+Follow standard Heartgold Monomon setup and use [this settings string](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/HGSS-Monomon/Heartgold%20Duomon.rnqs)
+
 --------------------------------------------------
 
 # Credits/Useful Links
