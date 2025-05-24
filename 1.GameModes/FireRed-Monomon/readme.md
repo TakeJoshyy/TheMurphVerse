@@ -170,7 +170,7 @@ Utilize the v1.1.2 NatDexExtension and randomizer that can be found [here](https
 
 [NATDEX Firered Monomon Settings String](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Monomon/Firered%20NATDEX%20Monomon.rnqs)
 
-Doubles: [NATDEX Firered Murphmon Duomon Settings String](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Monomon/Firered%20NATDEX%20Duomon.rnqs)
+Doubles: [NATDEX Firered Duomon Settings String](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Monomon/Firered%20NATDEX%20Duomon.rnqs)
 
 --------------------------------------------------
 
