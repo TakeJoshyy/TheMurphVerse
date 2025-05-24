@@ -175,6 +175,8 @@ DuoMon is the Doubles Battles take on this challenge.
 
 ### MurphMon DuoMon Settings and Setup
 
+Follow standard Heartgold Murphmon setup guidelines and use [this settings string](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/HGSS-Murphmon/Heartgold%20Murphmon%20Duomon.rnqs)
+
 --------------------------------------------------
 
 # Credits/Useful Links
