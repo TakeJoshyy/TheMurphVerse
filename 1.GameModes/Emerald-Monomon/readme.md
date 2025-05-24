@@ -39,6 +39,7 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 |  **Dungeons** |
 | :-----------: |
 |All Gyms       |
+| Slateport Museum While Team Aqua is present |
 |Soda Pop Shack |
 |Mt. Chimney While Team Magma is Present |
 |Weather Institute |
