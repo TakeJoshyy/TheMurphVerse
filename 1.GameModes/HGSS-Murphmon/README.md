@@ -4,7 +4,7 @@ IMPORTANT: Monomon and Murphmon are **UNOFFICIAL** ways of playing an IronMON-in
 
 Created by [BigMurph619](https://www.twitch.tv/bigmurph619)
 
-### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [HGSS Specific Rules](#specific-game-rules) | [Credits](#Credits)
+### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [Heartgold Specific Rules](#specific-game-rules) | [Credits](#Credits) | [DuoMon](#DuoMon)
 
 # Core Game Rules
 
@@ -149,6 +149,34 @@ Murphmon Pivoting: You must pivot to a new Pokemon that has not progressed you t
 
 Good luck Challenger.
 
+--------------------------------------------------
+
+# DuoMon
+
+If you are here and wanting to play this: 1. You're crazy. 2. I like you.
+
+DuoMon is the Doubles Battles take on this challenge. 
+
+|Settings changes include the following|
+|-|
+|Standardize EXP Curves to: Medium Slow|
+|Trainer Pokémon: Double Battle Mode (enabled)|
+|Additional Pokémon for: Important Trainers +1, Regular Trainers +1, (Keep Boss Trainers +3)|
+
+## DuoMon Rules
+
+|All Regular Heartgold Murphmon Rules Apply Except:|
+|-|
+|Heartgold Specifc rule #5 BugsyBuddy does not apply|
+| You may not use your HM buddy for fighting, if it is brought into battle you must immediately switch out |
+|Pre-Bellsprout Tower pivoting: You may catch ANY unique Pokemon prior to Bellsprout tower/Falkner as a pivot option (not limited to 3 like regular Murphmon). You may recieve exp from 1 wild Pokemon for each one of your runners (receiving EXP from a wild still locks in a Pokemon as a pivot). |
+| You cannot run the same Pokemon unless by evolving. i.e. Start with Blastoise and marshtomp, if marshtomp evolves into Blastoise that is ok|
+| Bug Catching Contest Pivoting: You must pivot off of BOTH Pokemon to new options that you have not progressed through the game with yet. You may select from 8 options instead of your normal 6. They may not be the same Pokemon unless by evolving. All other normal Murphmon Bug Catching Contest rules apply |
+
+### MurphMon DuoMon Settings and Setup
+
+--------------------------------------------------
+
 # Credits/Useful Links
  - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/TakeJoshyy/TheMurphVerse/blob/6c1ba9d795d4b8aee9f45bc0d4940fa5363f7477/readme.md)
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Super Kaizo IronMON
@@ -156,4 +184,4 @@ Good luck Challenger.
  - [OnlySpaghettiCode](https://github.com/Brian0255/NDS-Ironmon-Tracker) For the NDS Ironmon Tracker
  - [kelseyyoung](https://kelseyyoung.github.io/HGSSIronmonMap/) HGSS Interactive Map
 
-### [Top](#monomon-rules) | [Core Game Rules](#core-game-rules) | [Settings](#settings) | [HGSS Game Specific](#specific-game-rules)
+### [Top](#monomon-rules) | [Core Game Rules](#core-game-rules) | [Settings](#settings) | [HGSS Game Specific](#specific-game-rules) | [DuoMon](#DuoMon)
