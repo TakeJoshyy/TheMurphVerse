@@ -197,6 +197,5 @@ DuoMon is the Doubles Battles take on this challenge and can be done with a NATD
  - [kelseyyoung](https://kelseyyoung.github.io/FRLGIronmonMap/) FRLG Interactive Map
  - [CyanSMP64](https://github.com/CyanSMP64) NATDEX Adaptation
  - [kipoterp](https://ibb.co/c3BLXZP) Sevii Islands Map
- - [kelseyyoung](https://kelseyyoung.github.io/EmeraldIronmonMap/) RSE Interactive Map
 
 ### [Top](#monomon-rules) | [Core Game Rules](#core-game-rules) | [Settings](#settings) | [FRLG Game Specific](#specific-game-rules) | [NATDEX](#NATDEX) | [DuoMon](#DuoMon)
