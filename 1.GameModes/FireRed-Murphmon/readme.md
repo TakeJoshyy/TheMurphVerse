@@ -179,6 +179,16 @@ The only rule changes are: You may have 9 favorites instead of 3 and legendaries
 
 ### Settings and Setup:
 
+This mode utilizes its own patch, tracker extension and randomizer.
+
+The patch utilizes cyansixfour's v1.1.2 patch with some additional changes to encounter rates made by BigMurph619 specifically for Murphmon and Monomon. NOTE: Do NOT use this patch to play NATDEX IronMON as it is catered specifically for this challenge. Download and apply this [patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Murphmon/Natdex%20Firered%20Murphmon%20and%20monomon%20Patch.bps) to your vanilla, legally obtained Firered v1.1 ROM. 
+
+Utilize the v1.1.2 NatDexExtension and randomizer that can be found [here](https://github.com/CyanSMP64/NatDexExtension/releases/download/v1.1.2/NatDexExtension_v1.1.2.zip)
+
+[NATDEX Firered Murphmon Settings String](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Murphmon/NATDEX%20Firered%20Murphmon%20rnqs.rnqs)
+
+Doubles: [NATDEX Firered Murphmon Duomon Settings String](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Murphmon/NATDEX%20Firered%20Murphmon%20Duomon%20rnqs.rnqs)
+
 
 --------------------------------------------------
 
@@ -206,7 +216,7 @@ DuoMon is the Doubles Battles take on this challenge and can be done with a NATD
 
 ### MurphMon DuoMon Settings and Setup
 
-### NATDEX MurphMon Duomon Settings and Setup
+Utilize standard Firered Murphmon Setup Guidleines with [this settings string](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Murphmon/Firered%20Murphmon%20Duomon.rnqs)
 
 --------------------------------------------------
 
