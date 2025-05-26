@@ -200,7 +200,7 @@ DuoMon is the Doubles Battles take on this challenge and can be done with a NATD
 
 ### MurphMon DuoMon Settings and Setup
 
-### NATDEX MurphMon Duomon Settings and Setup
+Refer to standard Emerald Murphmon setup instructions but use [this settings string](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Murphmon/Emerald%20Murphmon%20Duomon.rnqs)
 
 --------------------------------------------------
 
