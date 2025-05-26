@@ -19,37 +19,33 @@ The 5 tournaments will have points awarded by placement as follows:
 
 ## MurphLeague Standings
 Updated at the conclusion of each tournament.
-|   Standing         | Creator        | Points |
-| :----------------: | :------------: | :----: |
-| 1st                | BennyTots      | 15     |
-| 2nd                | Roflmaogamers1 | 12     |
-| 3rd                | CaptDanieldore | 10     |
-| 4th                | BeMidge        | 8      |
-| 5th                | Reilnur        | 6      |
-| 6th                | Kennyladdd     | 5      |
-| 7th                | Brae12321      | 4      |
-| 8th                | AitchKay       | 3      |
-| 9th                | SlothGoss      | 2      |
-| Tied - 10th        | CamMan52       | 1      |
-| Tied - 10th        | Kyroteck       | 1      |
-| Tied - 10th        | Kipoterp       | 1      |
-| Tied - 10th        | Banana_Sen     | 1      |
-| Tied - 10th        | Batcam22       | 1      |
-| Tied - 10th        | Imtyp0         | 1      |
-| Tied - 10th        | DorktownPhantom| 1      |
-| Tied - 10th        | Freestob       | 1      |
-| Tied - 10th        | Domanski95     | 1      |
-| Tied - 10th        | McPlumber1     | 1      |
-| Tied - 10th        | TheBrokenPirates  | 1      |
-| Tied - 21st        | BigMurph619  | 0      |
-| Tied - 21st        | AlecSweatpants | 0      |
-| Tied - 21st        | Smolfan27  | 0      |
-| Tied - 21st        | ElectricSoldierPorygon2  | 0      |
-| Tied - 21st        | oxKINGLEOox | 0      |
-| Tied - 21st        | UceyChimchar | 0      |
-| Tied - 21st        | xoptoss | 0      |
-| Tied - 21st        | attractivetoucan39 | 0      |
-
+|   Standing         | Creator            | Points |
+| :----------------: | :------------:     | :----: |
+| 1st                | BennyTots          | 25     |
+| 2nd                | CaptDanieldore     | 25     |
+| 3rd                | Roflmaogamers1     | 20     |
+| 3th                | Reilnur            | 18     |
+| 4th                | BeMidge            | 9      |
+| 5th                | DorktownPhantom    | 7      |
+| 6th                | Kennyladdd         | 7      |
+| 7th                | Banana_Sen         | 6      |
+| 8th                | CamMan52           | 5      |
+| 9th                | Brae12321          | 4      |
+| 10th               | AitchKay           | 3      |
+| 11th               | oxKINGLEOox        | 3      |
+| Tied - 12th        | SlothGoss          | 2      |
+| Tied - 12th        | TheBrokenPirates   | 2      |
+| Tied - 12th        | Kipoterp           | 2      |
+| Tied - 12th        | Batcam22           | 2      |
+| Tied - 12th        | Freestob           | 2      |
+| Tied - 12th        | Domanski95         | 2      |
+| Tied - 12th        | McPlumber1         | 2      |
+| Tied - 13th        | Imtyp0             | 1      |
+| Tied - 13th        | AlecSweatpants     | 1      |
+| Tied - 13th        | Smolfan27          | 1      |
+| Tied - 13th        | xoptoss            | 1      |
+| Tied - 13th        | attractivetoucan39 | 1      |
+| Tied - 13th        | Kyroteck           | 1      |
 
 Competitors' cumulative league points across all 5 tournaments will decide who makes the 8 competitor playoff. Tiebreakers for positioning will be decided first by highest tourney finish, then by coinflip. Details of the format for the playoff are to come.
 
