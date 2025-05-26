@@ -178,9 +178,9 @@ The patch utilizes cyansixfour's v1.1.2 patch with some additional changes to en
 
 Utilize the v1.1.2 NatDexExtension and randomizer that can be found [here](https://github.com/CyanSMP64/NatDexExtension/releases/download/v1.1.2/NatDexExtension_v1.1.2.zip)
 
-[NATDEX Emerald Murphmon Settings String](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Murphmon/NATDEX%20Firered%20Murphmon%20rnqs.rnqs)
+[NATDEX Emerald Murphmon Settings String](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Murphmon/Emerald%20NATDEX%20Murphmon.rnqs)
 
-Doubles: [NATDEX Emerald Murphmon Duomon Settings String](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Murphmon/NATDEX%20Firered%20Murphmon%20Duomon%20rnqs.rnqs)
+Doubles: [NATDEX Emerald Murphmon Duomon Settings String](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Murphmon/Emerald%20NATDEX%20Murphmon%20Duomon.rnqs)
 
 --------------------------------------------------
 
@@ -198,7 +198,7 @@ DuoMon is the Doubles Battles take on this challenge and can be done with a NATD
 
 ## DuoMon Rules
 
-|All Regular FRLG Murphmon Rules Apply Except:|
+|All Regular Emerald Murphmon Rules Apply Except:|
 |-|
 |Emerald Specific Rule #14 Tate and Liza Battle does not apply|
 |Emerald Specific Rule #15 Doubles Battles does not apply|
