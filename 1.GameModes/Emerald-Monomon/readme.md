@@ -182,7 +182,7 @@ DuoMon is the Doubles Battles take on this challenge and can be done with a NATD
 
 ### DuoMon Settings and Setup
 
-### NATDEX Duomon Settings and Setup
+Refer to standard Emerald Monomon setup instructions but use [this settings string](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/Emerald%20Duomon.rnqs)
 
 --------------------------------------------------
 
