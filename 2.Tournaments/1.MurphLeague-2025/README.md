@@ -24,28 +24,28 @@ Updated at the conclusion of each tournament.
 | 1st                | BennyTots          | 25     |
 | 2nd                | CaptDanieldore     | 25     |
 | 3rd                | Roflmaogamers1     | 20     |
-| 3th                | Reilnur            | 18     |
-| 4th                | BeMidge            | 9      |
-| 5th                | DorktownPhantom    | 7      |
-| 6th                | Kennyladdd         | 7      |
-| 7th                | Banana_Sen         | 6      |
-| 8th                | CamMan52           | 5      |
-| 9th                | Brae12321          | 4      |
-| 10th               | AitchKay           | 3      |
-| 11th               | oxKINGLEOox        | 3      |
-| Tied - 12th        | SlothGoss          | 2      |
-| Tied - 12th        | TheBrokenPirates   | 2      |
-| Tied - 12th        | Kipoterp           | 2      |
-| Tied - 12th        | Batcam22           | 2      |
-| Tied - 12th        | Freestob           | 2      |
-| Tied - 12th        | Domanski95         | 2      |
-| Tied - 12th        | McPlumber1         | 2      |
-| Tied - 13th        | Imtyp0             | 1      |
-| Tied - 13th        | AlecSweatpants     | 1      |
-| Tied - 13th        | Smolfan27          | 1      |
-| Tied - 13th        | xoptoss            | 1      |
-| Tied - 13th        | attractivetoucan39 | 1      |
-| Tied - 13th        | Kyroteck           | 1      |
+| 4th                | Reilnur            | 18     |
+| 5th                | BeMidge            | 9      |
+| 6th                | DorktownPhantom    | 7      |
+| 7th                | Kennyladdd         | 7      |
+| 8th                | Banana_Sen         | 6      |
+| 9th                | CamMan52           | 5      |
+| 10th               | Brae12321          | 4      |
+| 11th               | AitchKay           | 3      |
+| 12th               | oxKINGLEOox        | 3      |
+| Tied - 13th        | SlothGoss          | 2      |
+| Tied - 13th        | TheBrokenPirates   | 2      |
+| Tied - 13th        | Kipoterp           | 2      |
+| Tied - 13th        | Batcam22           | 2      |
+| Tied - 13th        | Freestob           | 2      |
+| Tied - 13th        | Domanski95         | 2      |
+| Tied - 13th        | McPlumber1         | 2      |
+| Tied - 14th        | Imtyp0             | 1      |
+| Tied - 14th        | AlecSweatpants     | 1      |
+| Tied - 14th        | Smolfan27          | 1      |
+| Tied - 14th        | xoptoss            | 1      |
+| Tied - 14th        | attractivetoucan39 | 1      |
+| Tied - 14th        | Kyroteck           | 1      |
 
 Competitors' cumulative league points across all 5 tournaments will decide who makes the 8 competitor playoff. Tiebreakers for positioning will be decided first by highest tourney finish, then by coinflip. Details of the format for the playoff are to come.
 
@@ -56,7 +56,7 @@ Competitors' cumulative league points across all 5 tournaments will decide who m
 | Playoff awards TBA |
 | Tournament tentative schedule: February(T1), May 9th-May 25th(T2), June 20th-July 6th(T3), August 1st-August17th(T4), September 19th-October 5th(T5) and November 7th-TBD(Playoff). |
 | T1 info: [Firered Murphmon T1](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/Murphmon-T1-Tourney-2025/readme.md) - [T1 Leader Board](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/Murphmon-T1-Tourney-2025/leaderboard.md) |
-| T2 info: [Emerald Monomon 2025 T2](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/3.Emerald-Monomon-T2-Tourney-2025)  |
+| T2 info: [Emerald Monomon 2025 T2](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/3.Emerald-Monomon-T2-Tourney-2025) - [T2 Leader Board](https://takejoshyy.github.io/TheMurphVerse/pages/T2Standings.html) |
 
 ## Participation Info
 | Links/Participation/FAQ |
