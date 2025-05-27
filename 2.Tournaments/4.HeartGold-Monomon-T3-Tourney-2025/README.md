@@ -14,7 +14,7 @@ June 20th - July 6th Midnight EST, USA.
 
 ### Leaderboard
 
-[Leaderboard Found Here](https://takejoshyy.github.io/TheMurphVerse/pages/T2Standings.html)
+[Leaderboard Found Here Soon]()
 
 ### Cost of entry
 
@@ -31,17 +31,17 @@ You may enter this tourney for free and be eligible for Murphleague points. Ther
 | Union Cave Full Clear First Visit                 |
 | Slowpoke Exec                                     |
 | Azalea Rival                                      |
-| Bugsy (2)                                             |
+| Bugsy (2)                                         |
 | Full Clear prior to Ecruteak City                 |
 | Whitney                                           |
 | Burned Tower Rival                                |
 | Speak With Jasmine                                |
 | Full Clear Lighthouse                             |
-| Morty (2)                                             |
+| Morty (2)                                         |
 | Eusine                                            |
 | Full Clear Prior to Chuck                         |
 | Chuck                                             |
-| Jasmine (2)                                          |
+| Jasmine (2)                                       |
 | Full Clear Lake of Rage                           |
 | Exec Arianna                                      |
 | Full Clear Hideout                                |
