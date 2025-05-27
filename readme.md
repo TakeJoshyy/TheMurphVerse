@@ -56,7 +56,7 @@ This is the main landing page for the community challenges, tournaments, and mor
 
 **[T2: Emerald Monomon May 2025](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/3.Emerald-Monomon-T2-Tourney-2025)**
 
-T3: Heartgold Monomon (Soon)
+**[T3: Heartgold Monomon](https://github.com/BigMurph619/T3-HeartGold-Monomon)**
 
 **Murphverse Tournament Podiums 2024**
 
