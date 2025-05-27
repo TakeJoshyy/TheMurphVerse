@@ -21,8 +21,8 @@ The 5 tournaments will have points awarded by placement as follows:
 Updated at the conclusion of each tournament.
 |   Standing         | Creator            | Points |
 | :----------------: | :------------:     | :----: |
-| 1st                | BennyTots          | 25     |
-| 2nd                | CaptDanieldore     | 25     |
+| Tied - 1st         | BennyTots          | 25     |
+| Tied - 1st         | CaptDanieldore     | 25     |
 | 3rd                | Roflmaogamers1     | 20     |
 | 4th                | Reilnur            | 18     |
 | 5th                | BeMidge            | 9      |
@@ -40,12 +40,12 @@ Updated at the conclusion of each tournament.
 | Tied - 13th        | Freestob           | 2      |
 | Tied - 13th        | Domanski95         | 2      |
 | Tied - 13th        | McPlumber1         | 2      |
-| Tied - 14th        | Imtyp0             | 1      |
-| Tied - 14th        | AlecSweatpants     | 1      |
-| Tied - 14th        | Smolfan27          | 1      |
-| Tied - 14th        | xoptoss            | 1      |
-| Tied - 14th        | attractivetoucan39 | 1      |
-| Tied - 14th        | Kyroteck           | 1      |
+| Tied - 20th        | Imtyp0             | 1      |
+| Tied - 20th        | AlecSweatpants     | 1      |
+| Tied - 20th        | Smolfan27          | 1      |
+| Tied - 20th        | xoptoss            | 1      |
+| Tied - 20th        | attractivetoucan39 | 1      |
+| Tied - 20th        | Kyroteck           | 1      |
 
 Competitors' cumulative league points across all 5 tournaments will decide who makes the 8 competitor playoff. Tiebreakers for positioning will be decided first by highest tourney finish, then by coinflip. Details of the format for the playoff are to come.
 
