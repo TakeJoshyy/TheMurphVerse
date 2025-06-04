@@ -172,6 +172,7 @@ DuoMon is the Doubles Battles take on this challenge.
 |Pre-Bellsprout Tower pivoting: You may catch ANY unique Pokemon prior to Bellsprout tower/Falkner as a pivot option (not limited to 3 like regular Murphmon). You may recieve exp from 1 wild Pokemon for each one of your runners (receiving EXP from a wild still locks in a Pokemon as a pivot). |
 | You cannot run the same Pokemon unless by evolving. i.e. Start with Blastoise and marshtomp, if marshtomp evolves into Blastoise that is ok|
 | Bug Catching Contest Pivoting: You must pivot off of BOTH Pokemon to new options that you have not progressed through the game with yet. You may select from 8 options instead of your normal 6. They may not be the same Pokemon unless by evolving. All other normal Murphmon Bug Catching Contest rules apply |
+| Dark Void is banned |
 
 ### MurphMon DuoMon Settings and Setup
 
