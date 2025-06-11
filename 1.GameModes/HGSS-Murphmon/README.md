@@ -57,9 +57,9 @@ Any non-consumable held items except everstone and items for repeling or escapin
 
 # Banned Abilities:
 
-`Battle Armor / Shell Armor / Pure Power / Huge Power`.
+`Battle Armor / Shell Armor / Pure Power / Huge Power / Magic Guard / No Guard (With OHKO or sleep moves only)`.
 
-**NOTE**: Pure Power and huge power are allowed so long as you NEVER use a physical attacking move. Pickup is allowed on primary Pokemon (you may not use pickup items from HM friend). Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.
+**NOTE**: Pure Power and huge power are allowed so long as you NEVER use a physical attacking move. Poison Heal is allowed but you may not intentionally heal by getting poisoned by wild. Pickup is allowed on primary Pokemon (you may not use pickup items from HM friend). Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.
 
 # Banned Moves:
 
