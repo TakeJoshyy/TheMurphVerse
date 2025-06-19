@@ -1,6 +1,6 @@
 export const leaderboard = [
   ["OxKingLeooX", "0", "0", "https://www.twitch.tv/oxkingleoox"],
-  ["McPlumber",  "0", "0", "https://www.twitch.tv/mcplumber1"],
+  ["McPlumber1",  "0", "0", "https://www.twitch.tv/mcplumber1"],
   ["KennyLaddd",  "0", "0", "https://www.twitch.tv/kennyladdd"],
   ["BennyTots",  "0", "0", "https://www.twitch.tv/bennytots"],
   ["CaptDanieldore",  "0", "0", "https://www.twitch.tv/captdanieldore"],
@@ -14,8 +14,8 @@ export const leaderboard = [
   ["BigMurph619",  "0", "0", "https://www.twitch.tv/bigmurph619"],
   ["CamMan52",  "0", "0", "https://www.twitch.tv/camman52"],
   ["Freestob",  "0", "0", "https://www.twitch.tv/freestob"],
-  ["HolyNightDragon",  "0", "0", "https://www.twitch.tv/holynightdragon"],
+  ["ElectricSoldierPorygon2",  "0", "0", "https://www.twitch.tv/ElectricSoldierPorygon2"],
   ["Ceedsy",  "0", "0", "https://www.twitch.tv/ceedsy"],
-  ["Banana Sen",  "0", "0", "https://www.twitch.tv/banana_sen"],
-  ["Triple",  "0", "0", "https://www.twitch.tv/imtripleshuriken"], 
+  ["Banana_Sen",  "0", "0", "https://www.twitch.tv/banana_sen"],
+  ["imtripleshuriken",  "0", "0", "https://www.twitch.tv/imtripleshuriken"], 
 ];
