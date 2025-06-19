@@ -14,7 +14,7 @@ June 20th - July 6th Midnight EST, USA.
 
 ### Leaderboard
 
-[Leaderboard Found Here Soon]()
+[T3 Leaderboard](https://takejoshyy.github.io/TheMurphVerse/pages/T3/index.html)
 
 ### Cost of entry
 
