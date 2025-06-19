@@ -57,7 +57,7 @@ Any non-consumable held items except everstone and items for repeling or escapin
 
 # Banned Abilities:
 
-`Battle Armor / Shell Armor / Pure Power / Huge Power / Magic Guard / No Guard (With OHKO or sleep moves only)`.
+`Battle Armor / Shell Armor / Pure Power / Huge Power / Magic Guard`.
 
 **NOTE**: Pure Power and huge power are allowed so long as you NEVER use a physical attacking move. Poison Heal is allowed but you may not intentionally heal by getting poisoned by wild. Pickup is allowed only if you do not keep pickup items. Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.
 
@@ -70,6 +70,8 @@ Any non-consumable held items except everstone and items for repeling or escapin
 **NOTE:** You are allowed to use a banned move either through **Transform, metronome or after copying it using Mimic or Mirror Move.**
 
 Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl, Belly Drum` etc. cannot be used on bosses (Gym Leaders and Pokemon League). EXCEPTION: Any Pokemon 440 BST or lower may use Setup moves on bosses.
+
+OHKO and Sleep Moves are banned if you have No Guard as an ability (These moves and ability are only banned in conjunction with one another).
 
 # Other General Rules
 
