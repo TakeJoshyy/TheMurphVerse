@@ -43,6 +43,7 @@ All held items found on pivot options/HM friend catches are allowed to be kept. 
 |  **Dungeons** |
 | :-----------: |
 | All buildings with trainers in Johto except Pokemon Centers |
+| Slowpoke Well While Team Rocket is Present |
 | All Gyms |
 
 >Forests are NOT dungeons
