@@ -32,8 +32,8 @@ You may enter this tourney for free and be eligible for Murphleague points. Ther
 | Slowpoke Exec                                     |
 | Azalea Rival                                      |
 | Bugsy (2)                                         |
-| Full Clear prior to Ecruteak City                 |
 | Whitney                                           |
+| Full Clear prior to Ecruteak City                 |
 | Burned Tower Rival                                |
 | Speak With Jasmine                                |
 | Full Clear Lighthouse                             |
