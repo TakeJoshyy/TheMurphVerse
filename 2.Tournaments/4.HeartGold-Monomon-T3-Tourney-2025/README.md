@@ -88,6 +88,14 @@ Earn points towards the [Murphleague](https://github.com/TakeJoshyy/TheMurphVers
 
 50% (in bits) of tourney awards pool entrants donations. Any awards promised by the "Pledge Page" community (Updated as pledges come in).
 
+- oxkingleoox - Get a gardevior umbreon or absol the furthest - 20 subs
+- Richard Jefferson - For 1st-10th - 69 bits each
+- BrokenPirates - Furthest Houndoom Run - 10 subs
+- Samuwell - Get a Torterra the furthest - gift sub
+- CamMan52 - The sickest evo/evo line of the whole tourney - 5 pack of subs
+- Rofl - First person who beats Archer with a mon that has some type of combo, Drizzle + Thunder, Compoundeyes + Sleep, Legal Sleep + Nightmare - 5 gifted subs
+- McPlumber - Winner - gift sub
+
 ## Rules
 
 Note: PLEASE read, follow, and ask questions about these rules. These are NOT the same rules as Kaizo IronMON despite being heavily inspired by them. With prize pools on the line, we do not take negligence to the rules lightly...if you heck up, ask someone in the discord. (CamMan52 is the final say on penalties).
