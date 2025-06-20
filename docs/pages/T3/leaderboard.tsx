@@ -3,7 +3,7 @@ export const leaderboard = [
   ["McPlumber1",  "0", "0", "https://www.twitch.tv/mcplumber1"],
   ["KennyLaddd",  "0", "0", "https://www.twitch.tv/kennyladdd"],
   ["BennyTots",  "0", "0", "https://www.twitch.tv/bennytots"],
-  ["CaptDanieldore",  "0", "0", "https://www.twitch.tv/captdanieldore"],
+  ["CaptDanieldore",  "3", "5", "https://www.twitch.tv/captdanieldore"],
   ["Batcam22",  "0", "0", "https://www.twitch.tv/batcam22"],
   ["RoflmaoGamers1",  "0", "0", "https://www.twitch.tv/roflmaogamers1"],
   ["DorktownPhantom",  "0", "0", "https://www.twitch.tv/dorktown_phantom"],
