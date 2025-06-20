@@ -92,4 +92,4 @@ Earn points towards the [Murphleague](https://github.com/TakeJoshyy/TheMurphVers
 
 Note: PLEASE read, follow, and ask questions about these rules. These are NOT the same rules as Kaizo IronMON despite being heavily inspired by them. With prize pools on the line, we do not take negligence to the rules lightly...if you heck up, ask someone in the discord. (CamMan52 is the final say on penalties).
 
-[Link to the Monomon rules!](https://github.com/BigMurph619/Heartgold-Monomon)
+[Link to the Monomon rules!](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/HGSS-Monomon/README.md)
