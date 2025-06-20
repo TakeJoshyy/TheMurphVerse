@@ -1,4 +1,4 @@
-export const leaderboard = [
+[
   ["OxKingLeooX", "0", "0", "https://www.twitch.tv/oxkingleoox"],
   ["McPlumber1",  "0", "0", "https://www.twitch.tv/mcplumber1"],
   ["KennyLaddd",  "0", "0", "https://www.twitch.tv/kennyladdd"],
