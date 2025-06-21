@@ -32,8 +32,8 @@ You can only enter a dungeon once with your primary Pokemon unless the story req
 You may not use healing stations in Dungeons.
 You must clear (Game progression without leaving to heal) Dungeons before exiting (Beat All Trainers in Gyms clear needed game progress elsewhere).
 
-All held items found on pivot options/HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed. 
-    - Purchased/gifted mon's items are not allowed. 
+All held items found on pivot options/HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed.
+    - Purchased/gifted mon's items are not allowed.
     - You may not catch a wild mon unless it is a pivot option, Shiny, or needed for HM friend.
 
 ---
@@ -88,9 +88,7 @@ Heartgold Monomon utilizes the [Super Kaizo Patch](https://github.com/PyroMikeGi
 
 Download and apply the patch to your vanilla, legally obtained Heartgold ROM.
 
-RNQS download [rnqs File Found Here](https://github.com/BigMurph619/HGSS-Monomon/blob/main/HGSS%20Monomon%20Settings.rnqs)
-
-> RNQS: 321WRIEEgIkAQAAAACRAAKeBhsECQEACQACCQAuEgAAAAAAzBCI5ATkQYYICTIGBQIyAAUgAMwQiAAAAAIVUG9rZW1vbiBIZWFydEdvbGQgKFUpVC1aPuPDOIo=
+RNQS download [rnqs File Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/HGSS-Monomon/HGSS%20Monomon%20Settings.rnqs)
 
 You MUST use SomethingSmart's randomizer with this settings string: [Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
 
@@ -114,7 +112,7 @@ Both Java and the NDS IronMON Tracker by OnlySpaghettiCode are used for this cha
 2. All items, moves, and abilities are allowed through the first rival fight.
 
 3. Pivoting:
-    - You may catch up to 3 total unique mons from any area prior to Bellsprout Tower (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and bag mon. You may keep items held by these Pokemon. 
+    - You may catch up to 3 total unique mons from any area prior to Bellsprout Tower (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and bag mon. You may keep items held by these Pokemon.
     - You must choose your pivot before entering Bellsprout Tower and Falkner's Gym. You may fight trainers freely prior. Once receiving exp from a wild Pokemon or entering Bellsprout Tower or Falkner's gym, you are locked in.
     - You may receive EXP from 1 wild mon prior to entering Bellsprout Tower but you MUST run the mon that received EXP and avoid receiving additional EXP from wilds at all costs. You may NOT catch any other Pokemon for their items or info after receving EXP from a wild.
     - You may use any Mon at the front of your party until you lock in your pivot.
@@ -138,7 +136,7 @@ Good luck Challenger.
 
 # DuoMon
 
-DuoMon is the Doubles Battles take on this challenge. 
+DuoMon is the Doubles Battles take on this challenge.
 
 |Settings changes include the following|
 |-|

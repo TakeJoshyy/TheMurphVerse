@@ -62,12 +62,12 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 |Pull your weight                                            |Each Family member must have 1 and ONLY 1 of the HMs: Cut(before Surge), Fly(before Erika), Strength(before Koga), Surf(Before Sabrina). No changing. Rock Smash at your own discretion.              |
 |You must beat Surge before cutting towards Rock Tunnel      |You may not return to Vermiliion after beating Surge. You’re getting the idea, no going back to places unless I say so.                                                                               |
 |WE'RE LOST!                                                 |After Rock Tunnel: The pathing of the mid game gets weird, you’re on a road trip, stay in the spirit of the challenge, follow all rules, and tell a good story!                                       |
-|The Haunted House: Dress up for Halloween!                  |You may only hold clothing or accessory based non consumable items. [Allowed Items](#Haunted-House-Items).                                                                                           |
+|The Haunted House: Dress up for Halloween!                  |You may only hold clothing or accessory based non consumable items. [Allowed Items](#Haunted-House-Items).                                                                                            |
 |Trick or Treat Clause                                       |If you find a rare candy in the tower, you may use the Heal Pad once and retrieve the item.                                                                                                           |
 |Road Trip, Not Fly Trip                                     |You may not use Fly outside of battle.                                                                                                                                                                |
 |NO ONE CARES KIMMY!                                         |No one wants to see the lame Power Plant, you may only enter during memory lane...Kimmy did a virtual tour.                                                                                           |
 |Oh! This way!                                               |You may not return to Celadon after snorlax awakenings...until memory lane. "We're lost!" no longer applies.                                                                                          |
-|Avoid the bad part of town                                  |Mob takeovers!? Psycho goth baddie Gym Leader!? You may not enter Saffron until we get that defensive badge boost from Koga UNLESS the kids get kidnapped. You may ONLY do the Dojo quest if kidnapped|         
+|Avoid the bad part of town                                  |Mob takeovers!? Psycho goth baddie Gym Leader!? You may not enter Saffron until we get that defensive badge boost from Koga UNLESS the kids get kidnapped. You may ONLY do the Dojo quest if kidnapped|
 |Hitchhiker clause (Applies only to the roadblock Snorlaxes) |You may pick up one, none or both of the Hitchhikers. You must wake them both up before continuing south. Catch and bring them to Fuschia City. [Hitchhiker encounters](#hitchhiker-encounters)       |
 |Safari Souvenir                                             |You may catch 1 unique Pokemon per family member from the Safari zone at a chance for information and held items. No fishing allowed, DAD!                                                            |
 |Move Deleter is Banned.                                     |I don’t trust that guy, ain’t nothin’ free in this world - Dad Probably                                                                                                                               |
@@ -77,7 +77,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 
 ---
 
-# Haunted House Items 
+# Haunted House Items
 
 Exp Share, Quick Claw, Choice Band, King’s Rock, Amulet Coin, Focus Band, BlackGlasses, Black Belt, Mystic Water, Sharp Beak, TwistedSpoon, and Silk Scarf. You may not hold other items.
 

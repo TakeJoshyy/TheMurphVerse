@@ -33,7 +33,7 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 
 ---
 
-> Note: All caves are dungeons except on Sevii Islands. 
+> Note: All caves are dungeons except on Sevii Islands.
 
 |  **Dungeons** |
 | :-----------: |
@@ -75,7 +75,7 @@ NOTE: You may not use status healing flutes except the poke flute for waking Sno
 
 # Banned Moves:
 
-`Any pure Healing Moves` **(Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)** **NOTE:** Moves that damage heal like Giga Drain are allowed 
+`Any pure Healing Moves` **(Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)** **NOTE:** Moves that damage heal like Giga Drain are allowed
 
 **Note:** Both `Spore & Assist` are banned
 
@@ -112,19 +112,19 @@ You are highly encouraged to use the linked randomizer as others have not worked
 
 2. All items, moves, and abilities are allowed in the lab.
 
-3. Pivoting: 
-    - You may catch up to 3 total unique mons from any area (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and lab mon. You may keep items held by Pokemon. 
+3. Pivoting:
+    - You may catch up to 3 total unique mons from any area (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and lab mon. You may keep items held by Pokemon.
     - You must pivot before the first trainer fight after the lab. You may NOT pivot again after fighting the first trainer.
     - You may receive EXP from 1 wild mon prior to fighting the first trainer but you MUST run the mon that received EXP and avoid receiving additional EXP from wilds at all costs. You may NOT catch any other Pokemon for their items or info after receving EXP from a wild.
     - You may use any Mon at the front of your party until you lock in your pivot. (If a mon dies of poison outside of battle AND you have another Pokemon in your party the run may continue but the poisoned Pokemon is Permadead)
-    - You may catch 1 free favorite each. You may catch a second of the same favorite but it will count towards your 3 pivots. 
+    - You may catch 1 free favorite each. You may catch a second of the same favorite but it will count towards your 3 pivots.
     - Banned ability mons don't count towards your catches UNLESS you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon).
 
 4. All hidden items are allowed. You may only obtain step items once each.
 
-5. All found, Traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed (i.e. mega punch/kick guys after mt. Moon). **No HMs.** 
-    - You may only relearn Sketch once from the move relearner. 
-    - You may use Sketch multiple times if you receive the move in any other capacity. 
+5. All found, Traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed (i.e. mega punch/kick guys after mt. Moon). **No HMs.**
+    - You may only relearn Sketch once from the move relearner.
+    - You may use Sketch multiple times if you receive the move in any other capacity.
     - Please note that there are 100% catch rates in Monomon, so throwing balls will not work to scout moves. You may use flutes so long as they don't impact the battle (i.e. wake up sleep, cure confuse, etc.) to scout moves for Sketch.
 
 6. You must beat Misty before “Dig” Rocket.
@@ -139,17 +139,17 @@ You are highly encouraged to use the linked randomizer as others have not worked
 
 11. You must beat Sabrina before entering the Pokemon Mansion.
 
-12. Sevii islands are treated as "overworld". All items allowed, all exp allowed, etc. 
-    - You may return to Sevii islands at any point. 
+12. Sevii islands are treated as "overworld". All items allowed, all exp allowed, etc.
+    - You may return to Sevii islands at any point.
     - You may use a second HM friend for Rock Smash as needed.
 
-13. Double battles: 
-    - You may use any legal second mon you have already caught. 
-    - You may attack freely with the second mon and it may hold legal held items. 
+13. Double battles:
+    - You may use any legal second mon you have already caught.
+    - You may attack freely with the second mon and it may hold legal held items.
     - You may only have 2 Pokemon in your party.
 
-14. All held items found on pivot options/HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed. 
-    - Purchased/gifted mon's items are not allowed i.e. Magikarp Route 4, Silph Co. Lapras, Dojo Hitmon. 
+14. All held items found on pivot options/HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed.
+    - Purchased/gifted mon's items are not allowed i.e. Magikarp Route 4, Silph Co. Lapras, Dojo Hitmon.
     - You may not catch a wild mon unless it is a pivot option, Shiny, or needed for HM friend.
    
 --------------------------------------------------
@@ -164,7 +164,7 @@ The only rule changes are: You may have 9 favorites instead of 3 and legendaries
 
 This mode utilizes its own patch, tracker extension and randomizer.
 
-The patch utilizes cyansixfour's v1.1.2 patch with some additional changes to encounter rates made by BigMurph619 specifically for Murphmon and Monomon. NOTE: Do NOT use this patch to play NATDEX IronMON as it is catered specifically for this challenge. Download and apply this [patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Murphmon/Natdex%20Firered%20Murphmon%20and%20monomon%20Patch.bps) to your vanilla, legally obtained Firered v1.1 ROM. 
+The patch utilizes cyansixfour's v1.1.2 patch with some additional changes to encounter rates made by BigMurph619 specifically for Murphmon and Monomon. NOTE: Do NOT use this patch to play NATDEX IronMON as it is catered specifically for this challenge. Download and apply this [patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Murphmon/Natdex%20Firered%20Murphmon%20and%20monomon%20Patch.bps) to your vanilla, legally obtained Firered v1.1 ROM.
 
 Utilize the v1.1.2 NatDexExtension and randomizer that can be found [here](https://github.com/CyanSMP64/NatDexExtension/releases/download/v1.1.2/NatDexExtension_v1.1.2.zip)
 
@@ -176,7 +176,7 @@ Doubles: [NATDEX Firered Duomon Settings String](https://github.com/TakeJoshyy/T
 
 # DuoMon
 
-DuoMon is the Doubles Battles take on this challenge and can be done with a NATDEX variation as well. 
+DuoMon is the Doubles Battles take on this challenge and can be done with a NATDEX variation as well.
 
 |Settings changes include the following|
 |-|

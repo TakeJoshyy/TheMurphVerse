@@ -109,18 +109,18 @@ You are highly encouraged to use the linked randomizer as others have not worked
 
 3. Pivoting:
     - You may catch up to 3 total unique mons from any area prior to the Aqua Grunt in the forest (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and bag mon. You may keep items held by these Pokemon. 
-    - You must pivot before the Aqua Grunt in the forest. You may fight trainers freely prior to the Aqua Grunt. You may NOT pivot again until the Safari Zone. 
+    - You must pivot before the Aqua Grunt in the forest. You may fight trainers freely prior to the Aqua Grunt. You may NOT pivot again until the Safari Zone.
     - You may receive EXP from 1 wild mon prior to fighting the Aqua Grunt but you MUST run the mon that received EXP and avoid receiving additional EXP from wilds at all costs. You may NOT catch any other Pokemon for their items or info after receving EXP from a wild.
     - You may use any Mon at the front of your party until you lock in your pivot. (If a mon dies of poison outside of battle AND you have another Pokemon in your party the run may continue but the poisoned Pokemon is Permadead)
-    - You may catch 1 free favorite each. You may catch a second of the same favorite but it will count towards your 3 pivots. 
+    - You may catch 1 free favorite each. You may catch a second of the same favorite but it will count towards your 3 pivots.
     - Banned ability mons don't count towards your catches UNLESS you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon). You may catch until you find one without illegal ability (if there is one).
 
 4. "Brawl Buddy": 
-    - You may catch a second Pokemon to fight with in the Dewford City Gym only 
-    - This must be the first Pokemon you encounter in Dewford Cave. 
-    - There are no restrictions[Illegal abilities/BSTs allowed]. 
-    - Catch the first encounter or bust. 
-    - Brawlbuddy may faint but your primary Pokemon cannot. 
+    - You may catch a second Pokemon to fight with in the Dewford City Gym only
+    - This must be the first Pokemon you encounter in Dewford Cave.
+    - There are no restrictions[Illegal abilities/BSTs allowed].
+    - Catch the first encounter or bust.
+    - Brawlbuddy may faint but your primary Pokemon cannot.
     - You may use Brawlbuddy to lead fights, multiple swaps, or any way you see fit **EXCEPT using illegal moves.**
 
 5. All hidden items are allowed.
@@ -152,8 +152,8 @@ You are highly encouraged to use the linked randomizer as others have not worked
 
 15. Double battles: You may NOT attack with your second Pokemon. All abilities, however, are allowed. You may fight the camera crew once per location. Avoid bringing additional Pokemon into Doubles Battles by forgetting/re-learning HM moves as needed. There should be no need for more than 2 Pokemon in your party at any time.
 
-16. All held items found on pivot options/HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed. 
-    - Purchased/gifted mon's items are not allowed i.e. Weather Institute Castform. 
+16. All held items found on pivot options/HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed.
+    - Purchased/gifted mon's items are not allowed i.e. Weather Institute Castform.
     - You may not catch a wild mon unless it is a pivot option, Shiny, or needed for HM friend.
    
 17. You may use the lotto once in hopes of a PP UP
@@ -174,7 +174,7 @@ The only rule changes are: You may have 9 favorites instead of 3 and legendaries
 
 This mode utilizes its own patch, tracker extension and randomizer.
 
-The patch utilizes cyansixfour's v1.1.2 patch with some additional changes to encounter rates made by BigMurph619 specifically for Murphmon and Monomon. NOTE: Do NOT use this patch to play NATDEX IronMON as it is catered specifically for this challenge. Download and apply this [patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/Emerald%20NATDEX%20Murphmon%20and%20monomon%20patch.bps) to your vanilla, legally obtained Emerald ROM. 
+The patch utilizes cyansixfour's v1.1.2 patch with some additional changes to encounter rates made by BigMurph619 specifically for Murphmon and Monomon. NOTE: Do NOT use this patch to play NATDEX IronMON as it is catered specifically for this challenge. Download and apply this [patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/Emerald%20NATDEX%20Murphmon%20and%20monomon%20patch.bps) to your vanilla, legally obtained Emerald ROM.
 
 Utilize the v1.1.2 NatDexExtension and randomizer that can be found [here](https://github.com/CyanSMP64/NatDexExtension/releases/download/v1.1.2/NatDexExtension_v1.1.2.zip)
 
@@ -188,7 +188,7 @@ Doubles: [NATDEX Emerald Murphmon Duomon Settings String](https://github.com/Tak
 
 If you are here and wanting to play this: 1. You're crazy. 2. I like you.
 
-DuoMon is the Doubles Battles take on this challenge and can be done with a NATDEX variation as well. 
+DuoMon is the Doubles Battles take on this challenge and can be done with a NATDEX variation as well.
 
 |Settings changes include the following|
 |-|
