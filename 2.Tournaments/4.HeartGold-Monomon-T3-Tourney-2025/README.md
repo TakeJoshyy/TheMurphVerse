@@ -39,7 +39,7 @@ You may enter this tourney for free and be eligible for Murphleague points. Ther
 | Full Clear Lighthouse                             |
 | Morty (2)                                         |
 | Eusine                                            |
-| Full Clear Prior to Chuck                         |
+| Full Clear Prior to Chuck (Not including caves)   |
 | Chuck                                             |
 | Jasmine (2)                                       |
 | Full Clear Lake of Rage                           |
