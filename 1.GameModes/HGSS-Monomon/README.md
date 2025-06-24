@@ -17,6 +17,8 @@ No Shopping: **Except for any type of Pokeball or Repel.**
 
 All hidden items are allowed to be picked up. You can only use items that you pick up, find as a held item on Pokemon or are given by an NPC. NOTE: You may NOT pick berries off of trees.
 
+You may only catch or select Pokemon that are 599 BST or below. If you evolve into a 600+ BST Pokemon, that's fine.
+
 Select 4 “Favorites” prior to each run. These Pokemon are subject to the 599 BST or under rule.
 
 Stolen Items: You may not keep stolen items from wild pokemon with moves like Thief, Covet, etc.  
