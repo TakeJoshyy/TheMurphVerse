@@ -92,7 +92,7 @@ Download and apply the patch to your vanilla, legally obtained Heartgold ROM.
 
 RNQS download [rnqs File Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/HGSS-Monomon/HGSS%20Monomon%20Settings.rnqs)
 
-You MUST use SomethingSmart's randomizer with this settings string: [Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
+You MUST use SomethingSmart's randomizer with this settings string: [Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer/releases/tag/v2.3)
 
 Both Java and the NDS IronMON Tracker by OnlySpaghettiCode are used for this challenge. [Java](https://www.java.com/en/download/manual.jsp)
 
