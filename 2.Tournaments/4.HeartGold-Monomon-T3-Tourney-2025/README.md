@@ -51,7 +51,7 @@ You may enter this tourney for free and be eligible for Murphleague points. Ther
 | Full Clear Radio Tower |
 | Clear all trainers routes 44, 45, and 46 |
 | Defeat Clair (2) |
-| Kimoo Girls |
+| Kimono Girls |
 | VR Rival |
 | Will |
 | Koga |
