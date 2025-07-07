@@ -1,6 +1,6 @@
 # MurphLeague-2025
 
-MurphLeague is league made up of 5 qualifying tournaments and an 8 person playoff final.
+MurphLeague is league made up of 5 qualifying tournaments and an 8 person [playoff final](https://github.com/BigMurph619/Murphleague-2025-Championship).
 
 ## League Points Breakdown
 The 5 tournaments will have points awarded by placement as follows:
@@ -55,8 +55,9 @@ Competitors' cumulative league points across all 5 tournaments will decide who m
 | Many of our tournaments include "awards pools" with entry fees to be eligible for awards. Participation in MurphLeague does NOT require entry fees and you are still eligible to make the playoffs |
 | Playoff awards TBA |
 | Tournament tentative schedule: February(T1), May 9th-May 25th(T2), June 20th-July 6th(T3), August 1st-August17th(T4), September 19th-October 5th(T5) and November 7th-TBD(Playoff). |
-| T1 info: [Firered Murphmon T1](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/Murphmon-T1-Tourney-2025/readme.md) - [T1 Leader Board](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/Murphmon-T1-Tourney-2025/leaderboard.md) |
-| T2 info: [Emerald Monomon 2025 T2](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/3.Emerald-Monomon-T2-Tourney-2025) - [T2 Leader Board](https://takejoshyy.github.io/TheMurphVerse/pages/T2Standings.html) |
+| T1 info: [T1: Firered Murphmon](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/Murphmon-T1-Tourney-2025/readme.md) - [T1 Leader Board](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/Murphmon-T1-Tourney-2025/leaderboard.md) |
+| T2 info: [T2: Emerald Monomon](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/3.Emerald-Monomon-T2-Tourney-2025) - [T2 Leader Board](https://takejoshyy.github.io/TheMurphVerse/pages/T2Standings.html) |
+| T3 info: [T3: Heartgold Monomon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/4.HeartGold-Monomon-T3-Tourney-2025/README.md) - [T3 Leader Board](https://takejoshyy.github.io/TheMurphVerse/pages/T3/index.html) |
 
 ## Participation Info
 | Links/Participation/FAQ |
