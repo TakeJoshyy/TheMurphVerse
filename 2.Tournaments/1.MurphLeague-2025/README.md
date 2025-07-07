@@ -21,7 +21,6 @@ The 5 tournaments will have points awarded by placement as follows:
 Updated at the conclusion of each tournament.
 |   Standing         | Creator            | Points |
 | :----------------: | :------------:     | :----: |
-
 | 1st                | Roflmaogamers1     | 35     |
 | Tied - 2nd         | BennyTots          | 26     |
 | Tied - 2nd         | CaptDanieldore     | 26     |
