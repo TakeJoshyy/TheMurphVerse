@@ -166,10 +166,18 @@
     }
 
     function initializeLeaderboard() {
-      data.sort((a, b) => b.score - a.score);
+      
+      const murph = data.find(p => p.name === "BigMurph619");
+      const others = data.filter(p => p.name !== "BigMurph619");
+
+      // Sort everyone else
+      others.sort((a, b) => b.score - a.score);
+
       const tbody = document.getElementById('lb-body');
       tbody.innerHTML = '';
-      data.forEach((p, i) => {
+
+      // Add sorted players
+      others.forEach((p, i) => {
         const tr = document.createElement('tr');
         tr.onclick = () => showPlayer(p.name);
         tr.innerHTML = `
@@ -181,7 +189,20 @@
         tbody.appendChild(tr);
       });
 
-      const topPlayers = data.slice(0, 5);
+      // Add BigMurph619 at the bottom, if present
+      if (murph) {
+        const tr = document.createElement('tr');
+        tr.onclick = () => showPlayer(murph.name);
+        tr.innerHTML = `
+          <td>N/A</td>
+          <td>${murph.name}</td>
+          <td>${murph.score}</td>
+          <td>${murph.seed}</td>
+          <td><a href="${murph.twitch}" target="_blank">Watch</a></td>`;
+        tbody.appendChild(tr);
+      }
+
+      const topPlayers = others.slice(0, 5);
       new Chart(document.getElementById('barChart').getContext('2d'), {
         type: 'bar',
         data: {
