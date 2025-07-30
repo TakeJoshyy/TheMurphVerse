@@ -2,7 +2,7 @@
 
 IMPORTANT: Monomon and Murphmon are **UNOFFICIAL** ways of playing an IronMON-inspired challenge. All credits for the core idea of the challenge go to iateyourpie. This ruleset is used primarily for open tournament play hosted by BigMurph619 and moderators from the MurphVerse discord.
 
-### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [FRLG Specifics Rules](#specific-game-rules) | [NATDEX](#NATDEX) | [DuoMon](#DuoMon) | [Credits](#Credits)
+### [Core Game Rules](#core-games-rules) | [Settings](#settings) | [FRLG Specifics Rules](#specific-game-rules) | [NATDEX](#natdex) | [DuoMon](#duomon) | [Credits](#credits)
 
 # Core Game Rules
 

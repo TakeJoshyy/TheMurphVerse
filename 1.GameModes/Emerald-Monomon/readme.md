@@ -4,7 +4,7 @@ IMPORTANT: Monomon and Murphmon are **UNOFFICIAL** ways of playing an IronMON-in
 
 Created by [BigMurph619](https://www.twitch.tv/bigmurph619)
 
-### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [RSE Specifics Rules](#specific-game-rules) | [NATDEX](#NATDEX) | [DuoMon](#DuoMon) | [Credits](#Credits)
+### [Core Game Rules](#core-games-rules) | [Settings](#settings) | [RSE Specifics Rules](#specific-game-rules) | [NATDEX](#natdex) | [DuoMon](#duomon) | [Credits](#credits)
 
 # Core Game Rules
 
