@@ -36,6 +36,7 @@
   <table>
     <thead>
       <tr>
+        <th>Rank</th>
         <th>Name</th>
         <th>Score</th>
         <th>Seed</th>
@@ -44,6 +45,11 @@
     <tbody id="obs-body"></tbody>
   </table>
   <script>
+    function getOrdinal(n) {
+      const s = ["th", "st", "nd", "rd"], v = n % 100;
+      return n + (s[(v - 20) % 10] || s[v] || s[0]);
+    }
+
     fetch('T4.json')
       .then(r => r.json())
       .then(data => {
@@ -54,14 +60,14 @@
 
         const tbody = document.getElementById('obs-body');
         tbody.innerHTML = '';
-        others.forEach(p => {
+        others.forEach((p, i) => {
           const tr = document.createElement('tr');
-          tr.innerHTML = `<td>${p.name}</td><td>${p.score}</td><td>${p.seed}</td>`;
+          tr.innerHTML = `<td>${getOrdinal(i + 1)}</td><td>${p.name}</td><td>${p.score}</td><td>${p.seed}</td>`;
           tbody.appendChild(tr);
         });
         if (murph) {
           const tr = document.createElement('tr');
-          tr.innerHTML = `<td>${murph.name}</td><td>${murph.score}</td><td>${murph.seed}</td>`;
+          tr.innerHTML = `<td>N/A</td><td>${murph.name}</td><td>${murph.score}</td><td>${murph.seed}</td>`;
           tbody.appendChild(tr);
         }
       });
