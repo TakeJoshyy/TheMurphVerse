@@ -97,7 +97,7 @@ Firered Monomon uses its own patch, RNQS file, and Randomizer. Please note that 
 
 The Monomon patch includes Quality of life enhancements developed by DrMaple and encounter rate/Safari Fishing changes developed by BigMurph619.
 
-Download and apply Firered Murphmon/Monomon patch to your vanilla, legally obtained Firered ROM [Patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Murphmon/Firered%20Murphmon%20and%20Monomon%20Patch.ips)
+Download and apply Firered Murphmon/Monomon patch to your vanilla, legally obtained Firered ROM [Patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/afef012e357e00a26157fdd67df5a65941b59cb7/1.GameModes/FireRed-Murphmon/Firered%20Murphmon%20and%20Monomon%20Patch.ips)
 
 RNQS download [rnqs file](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Monomon/FRLG-Monomon-Settings-String.rnqs)
 321WRIEEjIBAAQABwCRAAKeBhsECQEACQACCQAuEgAAAAAABBi45ATkAYYICTIGBAIyGwUgAAQYuAAAAAAQRmlyZSBSZWQgKFUpIDEuMSx3whbjwziK
