@@ -39,10 +39,10 @@ Your cumulative score is your 3 best runs combined. All points are worth 1 point
 | Rock Tunnel Full Clear    |
 | Defeat Gio in Hideout (2) |
 | Full Clear Rocket Hideout |
+| Erika (2)                 |
 | Tower Rival               |
 | Rescue Fuji               |
 | Tower Full Clear          |
-| Erika (2)                 |
 | Koga  (2)                 |
 | Dojo                      |
 | Silph Rival               |
@@ -59,7 +59,7 @@ Your cumulative score is your 3 best runs combined. All points are worth 1 point
 | Lance (2)                 |
 | Champ (3)                 |
 
-  43 Points available 
+  44 Points available 
 
 
 |        Bonus Points       |
