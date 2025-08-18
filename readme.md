@@ -60,6 +60,8 @@ We also have a website found here -> https://takejoshyy.github.io/TheMurphVerse/
 
 **[T3: Heartgold Monomon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/4.HeartGold-Monomon-T3-Tourney-2025/README.md)**
 
+**[T4: FRLG Monomon Natdex](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/5.FireRed-Monomon-NatDex-T4-Tourney-2025/README.md)**
+
 **Murphverse Tournament Podiums 2024**
 
 <p align="center">
