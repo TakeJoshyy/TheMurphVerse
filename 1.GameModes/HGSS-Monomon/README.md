@@ -151,7 +151,7 @@ DuoMon is the Doubles Battles take on this challenge.
 |All Regular Heartgold Monomon Rules Apply Except:|
 |-|
 | You may not use your HM buddy for fighting, if it is brought into battle you must immediately switch out |
-|Pre-Bellsprout Tower pivoting: You may catch ANY unique Pokemon prior to Bellsprout tower/Falkner as a pivot option (not limited to 3 like regular Murphmon). You may recieve exp from 1 wild Pokemon for each one of your runners (receiving EXP from a wild still locks in a Pokemon as a pivot). |
+|Pre-Bellsprout Tower pivoting: You may catch up to 5 unique Pokemon prior to Bellsprout tower/Falkner as a pivot option in addition to your lab starter. You may recieve exp from 1 wild Pokemon for each one of your runners (receiving EXP from a wild still locks in a Pokemon as a pivot). |
 | You cannot run the same Pokemon unless by evolving. i.e. Start with Blastoise and marshtomp, if marshtomp evolves into Blastoise that is ok|
 | Dark Void is banned |
 
