@@ -202,7 +202,7 @@ DuoMon is the Doubles Battles take on this challenge and can be done with a NATD
 |-|
 |Emerald Specific Rule #14 Tate and Liza Battle does not apply|
 |Emerald Specific Rule #15 Doubles Battles does not apply|
-|Pre-Aqua Grunt pivoting: You may catch ANY unique Pokemon prior to fighting the first trainer as a pivot option (not limited to 3 like regular Murphmon). You may recieve exp from 1 wild Pokemon for each one of your runners (receiving EXP from a wild still locks in a Pokemon as a pivot). |
+|Pre-Aqua Grunt pivoting: You may catch up to 5 Pokemon as pivot options in addition to your lab starter. You may receive exp from 1 wild Pokemon for each one of your runners (receiving EXP from a wild still locks in a Pokemon as a pivot). |
 | You cannot run the same Pokemon unless by evolving. i.e. Start with Blastoise and marshtomp, if marshtomp evolves into Blastoise that is ok|
 | No BrawlBuddy |
 | Safari Pivoting: You must pivot off of BOTH Pokemon to new options that you have not progressed through the game with yet. You may select from 8 options instead of your normal 6. They may not be the same Pokemon unless by evolving. All other normal Murphmon Safari rules apply |
