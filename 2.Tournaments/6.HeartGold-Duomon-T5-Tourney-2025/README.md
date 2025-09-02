@@ -18,7 +18,7 @@ Seed limit: 50. Cumulative score will be your 3 highest scoring runs combined.
 
 Cost of entry: Free, unless you would like to be entered into the prize pool in which case you will need to donate 500 bits to Reilnur's channel.
 
-[Leader board found here](https://takejoshyy.github.io/TheMurphVerse/pages/T5/T5-Leaderboard.html)
+[Leader board found here](https://takejoshyy.github.io/TheMurphVerse/pages/T5/index.html)
 
 ## Point Breakdown
 
@@ -93,5 +93,6 @@ Additional awards may be committed by members of the community through the Pledg
 Note: PLEASE read, follow, and ask questions about these rules. These are NOT the same rules as Kaizo IronMON despite being heavily inspired by them. With prize pools on the line, we do not take negligence to the rules lightly...if you heck up, ask someone in the discord. (CamMan52 is the final say on penalties).
 
 [Link to the Duomon rules!](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/HGSS-Monomon#duomon-rules)
+
 
 
