@@ -88,24 +88,19 @@ The MurphVerse Patch for HeartGold adds Smart AI for all trainers and includes s
 
 **Full changelog:**
 
-    - Adds PyroMike's Smart AI Patch, including SilverstarStream and Foulton's HGSS Intro Patch
-    
-    - Adds warps to Route 29, Cherrygrove City beach, and Route 30 to allow for skipping grass encounters
-    
-    - Elm's assistant gives a Smoke Ball in addition to the 5 potions
-    
-    - Modified Elder Li's "illegal TM" text to better suit MurphVerse rules
-    
-    - Start screen now shows "MURPHVERSE EDITION"
-    
-    - Rebalanced encounters in Routes 29, 30, 31, 32, and 46. Did not rebalance Dark Cave because doing so seems to crash the tracker.
+    Adds PyroMike's Smart AI Patch, including SilverstarStream and Foulton's HGSS Intro Patch
+    Adds warps to Route 29, Cherrygrove City beach, and Route 30 to allow for skipping grass encounters
+    Elm's assistant gives a Smoke Ball in addition to the 5 potions    
+    Modified Elder Li's "illegal TM" text to better suit MurphVerse rules
+    Start screen now shows "MURPHVERSE EDITION"
+    Rebalanced encounters in Routes 29, 30, 31, 32, and 46. Did not rebalance Dark Cave because doing so seems to crash the tracker.
     
 
 There are two versions of the MurphVerse Patch:
 
-    - [with Limiter](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/HGSS-Murphmon/HeartGoldMurphverseLimiter.xdelta): Keeps the game's 30 FPS framerate limiter
+[with Limiter](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/HGSS-Murphmon/HeartGoldMurphverseLimiter.xdelta): Keeps the game's 30 FPS framerate limiter
     
-    - [no Limiter](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/HGSS-Murphmon/HeartGoldMurphverseNoLimiter.xdelta): Removes the framerate limiter, allowing faster gameplay
+[no Limiter](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/HGSS-Murphmon/HeartGoldMurphverseNoLimiter.xdelta): Removes the framerate limiter, allowing faster gameplay
 
 # Settings
 
