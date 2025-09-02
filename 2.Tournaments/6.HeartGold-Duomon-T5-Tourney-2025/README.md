@@ -65,6 +65,8 @@ Your cumulative score is your 3 best runs combined. All milestones are worth 1 p
 |Blue|
 |Red (5)|
 
+Total available points: 50
+
 ## Bonus points
 
 |        Bonus Points       |
@@ -74,18 +76,22 @@ Your cumulative score is your 3 best runs combined. All milestones are worth 1 p
 | Voltorb Flip Game: Whoever reaches the highest level wins 1 bonus point. 3 Voltorbs blows per run. |
 | Pokeathlon - You may compete in the Pokeathlon once per seed AND purchase 1 item with your rewards after. The competitor with the highest score achieved in a single attempt will earn 1 bonus point. |
 | Good guess! Guess the PRIMARY typing of the randomized Red Gyarados in a clip and earn 1 bonus point (non-repeatable) |
+| Plates up! The competitor who collects the most plates of a unique type (in a single run) will earn 1 bonus point |
 
 Tiebreakers - Pokeathlon score, coinflip.
 
 
 ## Awards
 
-Earn points towards the [Murphleague](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/1.MurphLeague-2025).
+All participants will earn points towards the [Murphleague](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/1.MurphLeague-2025).
 
-50% (in bits) of tourney awards pool entrants donations. Any awards promised by the "Pledge Page" community (Updated as pledges come in).
+50% of entry fees donated to the host Reilnur will be distributed among the top-three finishers in the award pool: 50% to 1st place, 30% to 2nd place, 20% to 3rd place.
+
+Additional awards may be committed by members of the community through the Pledge Page in Murph's Discord.
 
 ## Rules
 
 Note: PLEASE read, follow, and ask questions about these rules. These are NOT the same rules as Kaizo IronMON despite being heavily inspired by them. With prize pools on the line, we do not take negligence to the rules lightly...if you heck up, ask someone in the discord. (CamMan52 is the final say on penalties).
 
 [Link to the Duomon rules!](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/HGSS-Monomon#duomon-rules)
+
