@@ -12,7 +12,7 @@ Duomon is a Kaizo IronMON-inspired game mode, created by BigMurph619, featuring 
 
 T5 is hosted by [Reilnur](https://www.twitch.tv/reilnur). Dates: September 18th 11:59 PM EST - October 5th 11:59 PM EST.
 
-> You must be in the [MurphVerse discord](https://discord.gg/fNX4geCU) and all seeds must be live for the entire run and have a VOD available.
+> You must be in the [MurphVerse discord](https://discord.gg/fhrBdGhTvA) and all seeds must be live for the entire run and have a VOD available.
 
 Seed limit: 50 (subject to change). Cumulative score will be your 3 highest scoring runs combined.
 
@@ -93,6 +93,7 @@ Additional awards may be committed by members of the community through the Pledg
 Note: PLEASE read, follow, and ask questions about these rules. These are NOT the same rules as Kaizo IronMON despite being heavily inspired by them. With prize pools on the line, we do not take negligence to the rules lightly...if you heck up, ask someone in the discord. (CamMan52 is the final say on penalties).
 
 [Link to the Duomon rules!](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/HGSS-Monomon#duomon-rules)
+
 
 
 
