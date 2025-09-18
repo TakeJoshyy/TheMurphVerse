@@ -90,9 +90,10 @@ Additional awards may be committed by members of the community through the Pledg
 
 ## Rules
 
-Note: PLEASE read, follow, and ask questions about these rules. These are NOT the same rules as Kaizo IronMON despite being heavily inspired by them. With prize pools on the line, we do not take negligence to the rules lightly...if you heck up, ask someone in the discord. (CamMan52 is the final say on penalties).
+Note: PLEASE read, follow, and ask questions about these rules. These are NOT the same rules as Kaizo IronMON despite being heavily inspired by them. With prize pools on the line, we do not take negligence to the rules lightly...if you heck up, ask someone in the discord. (Reilnur is the final say on penalties).
 
 [Link to the Duomon rules!](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/HGSS-Monomon#duomon-rules)
+
 
 
 
