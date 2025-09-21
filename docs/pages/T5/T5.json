@@ -1,5 +1,5 @@
 [
-    { "name": "BennyTots",         "score": 0, "seed": 0, "twitch": "https://twitch.tv/bennytots" },
+    { "name": "BennyTots",         "score": 26, "seed": 9, "twitch": "https://twitch.tv/bennytots" },
     { "name": "CamMan52",          "score": 11, "seed": 8, "twitch": "https://www.twitch.tv/camman52" },
     { "name": "Reilnur",           "score": 2, "seed": 3, "twitch": "https://www.twitch.tv/reilnur" },
     { "name": "BigMurph619",       "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/bigmurph619"},
@@ -7,10 +7,10 @@
     { "name": "OxKingLeooX",       "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/oxkingleoox"},
     { "name": "RoflmaoGamers1",    "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/roflmaogamers1"},
     { "name": "ImTripleShuriken",  "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/imtripleshuriken"},
-    { "name": "Samuwell",          "score": 0, "seed": 4, "twitch": "https://www.twitch.tv/samuwell1997"},
+    { "name": "Samuwell",          "score": 5, "seed": 8, "twitch": "https://www.twitch.tv/samuwell1997"},
     { "name": "Batcam22",          "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/batcam22"},
-    { "name": "BemidgeGaming",     "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/bemidgegaming"},
-    { "name": "McPlumber1",        "score": 7, "seed": 4, "twitch": "https://www.twitch.tv/mcplumber1"},
+    { "name": "BemidgeGaming",     "score": 1, "seed": 7, "twitch": "https://www.twitch.tv/bemidgegaming"},
+    { "name": "McPlumber1",        "score": 14, "seed": 5, "twitch": "https://www.twitch.tv/mcplumber1"},
     { "name": "Mushrambo53",       "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/mushrambo53"},
     { "name": "Ceedsy",            "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/ceedsy"}
 ]
