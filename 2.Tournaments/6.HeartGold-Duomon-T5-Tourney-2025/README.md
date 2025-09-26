@@ -72,7 +72,7 @@ Total available points: 50
 |        Bonus Points       |
 | :-----------------------: |
 | Any Pokemon pair with a combined BST of 900 or lower will accumulate DOUBLE points. If either Pokemon evolves and takes the combined BST over 900, the pair will resume receiving standard points.                |
-| Voltorb Flip Game: Whoever reaches the highest level wins 1 bonus point. 3 Voltorbs blows per run. |
+| Voltorb Flip Game: Whoever reaches the highest level wins 1 bonus point. 3 Voltorbs blows per run. You do NOT need to fully restart after a Voltorb blow. |
 | Pokeathlon - You may compete in the Pokeathlon once per seed AND purchase 1 item with your rewards after. The competitor with the highest score achieved in a single attempt will earn 1 bonus point. |
 | Good guess! Guess the PRIMARY typing of the randomized Red Gyarados in a clip and earn 1 bonus point (non-repeatable) |
 | Plates up! The competitor who collects the most plates of a unique type (in a single run) will earn 1 bonus point |
@@ -93,6 +93,7 @@ Additional awards may be committed by members of the community through the Pledg
 Note: PLEASE read, follow, and ask questions about these rules. These are NOT the same rules as Kaizo IronMON despite being heavily inspired by them. With prize pools on the line, we do not take negligence to the rules lightly...if you heck up, ask someone in the discord. (Reilnur is the final say on penalties).
 
 [Link to the Duomon rules!](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/HGSS-Monomon#duomon-rules)
+
 
 
 
