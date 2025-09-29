@@ -13,5 +13,6 @@
     { "name": "McPlumber1",        "score": 24, "seed": 31, "twitch": "https://www.twitch.tv/mcplumber1"},
     { "name": "Mushrambo53",       "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/mushrambo53"},
     { "name": "Ceedsy",            "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/ceedsy"},
-    { "name": "Slammer",           "score": 22, "seed": 14, "twitch": "https://www.twitch.tv/iamslammer"}
+    { "name": "Slammer",           "score": 22, "seed": 14, "twitch": "https://www.twitch.tv/iamslammer"},
+    { "name": "Banana_Sen",        "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/banana_sen"} 
 ]
