@@ -22,8 +22,8 @@ Updated at the conclusion of each tournament.
 |   Standing         | Creator            | Points |
 | :----------------: | :------------:     | :----: |
 | 1st                | Roflmaogamers1     | 45     |
-| 2nd                | CaptDanieldore     | 41     |
-| 3rd                | BennyTots          | 42     |
+| 2nd                | BennyTots          | 42     |
+| 3rd                | CaptDanieldore     | 41     |
 | 4th                | Reilnur            | 26     |
 | 5th                | BeMidge            | 24     |
 | 6th                | Samuwell           | 23     |
