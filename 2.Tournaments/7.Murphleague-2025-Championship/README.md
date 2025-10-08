@@ -1,6 +1,6 @@
  # Murphleague-2025-Championship
 
-The Murphleague 2025 Championship will be decided by a 3-part open tournament series hosted by [BigMurph619](https://www.twitch.tv/bigmurph619). The playoffs will be held from November 6th 11:59 PM EST - November 24th 11:59 PM EST. The breakdown will be as follows:
+The Murphleague 2025 Championship will be decided by a 3-part open tournament series hosted by [BigMurph619](https://www.twitch.tv/bigmurph619). The playoffs will be held from November 6th 11:59 PM EST - November 23rd 11:59 PM EST. The breakdown will be as follows:
 
 -30 Seeds of [Emerald NATDEX Duomon](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/Emerald-Monomon#NATDEX)
 
