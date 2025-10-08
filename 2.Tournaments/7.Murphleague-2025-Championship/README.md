@@ -1,12 +1,12 @@
  # Murphleague-2025-Championship
 
-The Murphleague 2025 Championship will be decided by a 3-part open tournament series hosted by [BigMurph619](https://www.twitch.tv/bigmurph619). The playoffs will be held from November 7th Midnight PST - November 24th Midnight PST. The breakdown will be as follows:
+The Murphleague 2025 Championship will be decided by a 3-part open tournament series hosted by [BigMurph619](https://www.twitch.tv/bigmurph619). The playoffs will be held from November 6th 11:59 PM EST - November 24th 11:59 PM EST. The breakdown will be as follows:
 
--40 Seeds of [Emerald NATDEX Duomon](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/Emerald-Monomon#NATDEX)
+-30 Seeds of [Emerald NATDEX Duomon](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/Emerald-Monomon#NATDEX)
 
--50 Seeds of [Heartgold Murphmon](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/HGSS-Murphmon)
+-40 Seeds of [Heartgold Murphmon](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/HGSS-Murphmon)
 
--60 Seeds of [Firered Monomon](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/FireRed-Monomon)
+-50 Seeds of [Firered Monomon](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/FireRed-Monomon)
 
 Competitors' final score will be their cumulative score consisting of their top score from from each mode. (Best NATDEX Emerald Duomon + Best Heartgold Murphmon + Best Firered Monomon). Gamemode seeds must be completed in the order above though competitors will not be required to complete all seeds of each game mode if they are satisfied with their scores and would like more time for the other games.
 
