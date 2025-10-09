@@ -43,6 +43,8 @@ Competitors' final score will be their cumulative score consisting of their top 
 
 There will be no bonus points during playoffs
 
+All tie-breakers refer to seeds ran within playoffs. First Tie Breaker is wins, second tie-breaker is highest scoring seed, third tie-breaker is lowest BST total for scoring seeds (not including Murphmon pivot), 4th tie-breaker will be a sudden death in a Murphverse gamemode chosen by the highest seeded competitor remaining after all tie-breaks.
+
 ## Blessings and Banes
 
 Competitors will each draft both a "Blessing" and a "Bane" that will apply for the entirety of the playoffs. Draft order will be decided by competitors' final standings from the Murphleague regular season with higher seeds selecting first. The competitors must choose from the below options.
