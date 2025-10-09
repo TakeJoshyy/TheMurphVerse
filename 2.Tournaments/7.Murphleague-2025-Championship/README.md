@@ -50,7 +50,7 @@ Competitors will each draft both a "Blessing" and a "Bane" that will apply for t
 |BLESSINGS|BANES|
 |-|-|
 |MULLIGAN TOKEN - "Retry the Battle" and continue the run ONCE during each format | ROOKIE MISTAKE - On the first turn of combat against the FIRST trainer after the rival fight you must throw a ball.|
-|BATTLE PRO - You may equip any one non-consumable held item (Healing items not allowed). You must commit to the item you choose. | VAMPYRIC TOUCH - If you pick up a HP healing non-consumable held item (leftovers, shell bell) you must discard one HP heal that heals less than 50% of your current max HP, if you have one. |
+|BATTLE PRO - You may equip any one non-consumable held item (Healing items not allowed). You must commit to the item you choose for the rest of the seed. | VAMPYRIC TOUCH - If you pick up a HP healing non-consumable held item (leftovers, shell bell) you must discard one HP heal that heals less than 50% of your current max HP, if you have one. |
 | SHOPAHOLIC - You may purchase one item from any shop once per seed. | NO GUARANTEES - Must have one non 100% accurate in your moveset at earliest availability (cant miss moves count as 100 percent accurate) |
 | GIANT SLAYER - If your rival's ace is higher BST, you may purchase 1 healing item from the next accessible mart each time you defeat it | SIREN SONG - You cannot use items while an opponent has a water type pokemon on the field, you must attack |
 | ACE - beating a gym without taking damage allows you to purchase the smallest heal in that city. | GYM FEES - Must drop one hp or status healing item each time you enter a gym (if you have one) |
