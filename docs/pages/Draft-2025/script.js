@@ -27,7 +27,7 @@ const competitors = [
   { id: 'comp1', name: 'ROFLMAOGAMERS1' },
   { id: 'comp2', name: 'BENNYTOTS' },
   { id: 'comp3', name: 'CAPTDANIELDORE' },
-  { id: 'comp4', name: 'REILUR' },
+  { id: 'comp4', name: 'REILNUR' },
   { id: 'comp5', name: 'BEMIDGEGAMING' },
   { id: 'comp6', name: 'SAMUWELL' },
   { id: 'comp7', name: 'BATCAM22' },
