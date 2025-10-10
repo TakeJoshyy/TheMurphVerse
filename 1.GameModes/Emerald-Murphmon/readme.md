@@ -174,7 +174,7 @@ The only rule changes are: You may have 9 favorites instead of 3 and legendaries
 
 This mode utilizes its own patch, tracker extension and randomizer.
 
-The patch utilizes cyansixfour's v1.1.2 patch with some additional changes to encounter rates made by BigMurph619 specifically for Murphmon and Monomon. NOTE: Do NOT use this patch to play NATDEX IronMON as it is catered specifically for this challenge. Download and apply this [patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/Emerald%20NATDEX%20Murphmon%20and%20monomon%20patch.bps) to your vanilla, legally obtained Emerald ROM.
+The patch utilizes cyansixfour's v1.1.2 patch with some additional changes to encounter rates made by BigMurph619 specifically for Murphmon and Monomon. NOTE: Do NOT use this patch to play NATDEX IronMON as it is catered specifically for this challenge. Download and apply this [patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/CORRECTED%20Emerald%20Murphmon%20and%20Monomon%20NATDEX%20patch.bps) to your vanilla, legally obtained Emerald ROM.
 
 Utilize the v1.1.2 NatDexExtension and randomizer that can be found [here](https://github.com/CyanSMP64/NatDexExtension/releases/download/v1.1.2/NatDexExtension_v1.1.2.zip)
 
