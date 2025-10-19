@@ -87,6 +87,8 @@ All shinies are free catches or kills.
 
 # Settings
 
+[Setup Guide Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/setup.md)
+
 Emerald Monomon uses its own patch, RNQS file, and Randomizer. Please note that using the Kaizo IronMON settings will NOT work despite heavily inspiring this game mode.
 
 The monomon patch includes Quality of life enhancements developed by DrMaple and pathing, movement, and encounter rate changes developed by BigMurph619.
@@ -95,7 +97,6 @@ Download and apply Emerald Murphmon/Monomon patch to your vanilla, legally obtai
 
 RNQS download [rnqs File Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/Emerald-Monomon-Settings-String.rnqs)
 
-> The setting string for note: 321WRIEEjIBAAQABwCRAAKeBhsECQEACQACCQAuEgAAAAAAhBi45ATkAYYICTIGBAIyGwUgAIQYuAAAAAALRW1lcmFsZCAoVSnZ1BZD48M4ig==
 
 You are highly encouraged to use the linked randomizer as others have not worked in the past. [Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
 

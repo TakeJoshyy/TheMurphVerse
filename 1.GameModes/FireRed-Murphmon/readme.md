@@ -94,6 +94,8 @@ All shinies are free catches or kills.
 
 # Settings
 
+[Setup Guide Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/setup.md)
+
 Firered Murphmon uses its own patch, RNQS file, and Randomizer. Please note that using the Super Kaizo IronMON settings will NOT work despite heavily inspiring this game mode.
 
 The Murphmon patch includes Quality of life enhancements developed by DrMaple and encounter rate/Safari Fishing changes developed by BigMurph619.

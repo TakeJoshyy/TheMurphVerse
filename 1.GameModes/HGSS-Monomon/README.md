@@ -108,6 +108,8 @@ There are two versions of the MurphVerse Patch:
 
 Download and apply the above patch to your vanilla, legally obtained Heartgold ROM.
 
+[Setup Guide Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/setup.md)
+
 RNQS download [rnqs File Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/HGSS-Monomon/HGSS%20Monomon%20Settings.rnqs)
 
 You MUST use SomethingSmart's randomizer with this settings string: [Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer/releases/tag/v2.3)

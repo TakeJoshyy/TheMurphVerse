@@ -93,6 +93,8 @@ All shinies are free catches or kills.
 
 # Settings
 
+[Setup Guide Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/setup.md)
+
 Firered Monomon uses its own patch, RNQS file, and Randomizer. Please note that using the Super Kaizo IronMON settings will NOT work despite heavily inspiring this game mode.
 
 The Monomon patch includes Quality of life enhancements developed by DrMaple and encounter rate/Safari Fishing changes developed by BigMurph619.
@@ -100,7 +102,7 @@ The Monomon patch includes Quality of life enhancements developed by DrMaple and
 Download and apply Firered Murphmon/Monomon patch to your vanilla, legally obtained Firered ROM [Patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/afef012e357e00a26157fdd67df5a65941b59cb7/1.GameModes/FireRed-Murphmon/Firered%20Murphmon%20and%20Monomon%20Patch.ips)
 
 RNQS download [rnqs file](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Monomon/FRLG-Monomon-Settings-String.rnqs)
-321WRIEEjIBAAQABwCRAAKeBhsECQEACQACCQAuEgAAAAAABBi45ATkAYYICTIGBAIyGwUgAAQYuAAAAAAQRmlyZSBSZWQgKFUpIDEuMSx3whbjwziK
+
 
 You are highly encouraged to use the linked randomizer as others have not worked in the past. [Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
 

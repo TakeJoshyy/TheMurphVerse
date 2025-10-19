@@ -143,6 +143,8 @@ Receive 2 extra items per hitchhiker from the Fuschia Mart by delivering them to
 
 # Settings
 
+[Setup Guide Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/setup.md)
+
 Change your in game option "Battle Style" to "Shift". I recommend turning on "Show Team View" under "Setup" in the Tracker!
 | Standard AI, Type Themed areas wild Pokemon, Opponents 40% level increase, Strong Legendaries: Slow Exp, No Held Items on Opponents, Catch rate 100%          |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
