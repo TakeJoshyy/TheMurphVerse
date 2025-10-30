@@ -55,8 +55,8 @@ Both FireRed and Emerald have Natdex options, Natdex means that there are over 1
 If you choose the normal route you will need to download [this](https://github.com/something-smart/ironmon-randomizer) for later as this contains a .jar you will need.
 
 > [!TIP]
-> Normal option means that you will be use the .ips patch
-> Natdex you will use the .bps file and will also have to setup the Natdex v1.1.2 extension.
+> Normal option means that you will be use the .ips patch.
+> Natdex you will be using the .bps file and will also have to setup the Natdex v1.1.2 extension.
 
 ### Extensions
 
