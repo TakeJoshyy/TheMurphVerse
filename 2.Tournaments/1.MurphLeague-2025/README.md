@@ -65,6 +65,8 @@ Competitors' cumulative league points across all 5 tournaments will decide who m
 | T1 info: [T1: Firered Murphmon](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/Murphmon-T1-Tourney-2025/readme.md) - [T1 Leader Board](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/Murphmon-T1-Tourney-2025/leaderboard.md) |
 | T2 info: [T2: Emerald Monomon](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/3.Emerald-Monomon-T2-Tourney-2025) - [T2 Leader Board](https://takejoshyy.github.io/TheMurphVerse/pages/T2Standings.html) |
 | T3 info: [T3: Heartgold Monomon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/4.HeartGold-Monomon-T3-Tourney-2025/README.md) - [T3 Leader Board](https://takejoshyy.github.io/TheMurphVerse/pages/T3/index.html) |
+| T4 info: [T4: FRLG Monomon Natdex](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/5.FireRed-Monomon-NatDex-T4-Tourney-2025/README.md) - [T4 Leader Board](https://takejoshyy.github.io/TheMurphVerse/pages/T4/T4-Leaderboard.html) |
+| T5 info: [T5: HeartGold Duomon](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/6.HeartGold-Duomon-T5-Tourney-2025) - [T5 Leader Board](https://takejoshyy.github.io/TheMurphVerse/pages/T5/index.html) |
 
 ## Participation Info
 | Links/Participation/FAQ |
