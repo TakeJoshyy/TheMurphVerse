@@ -62,12 +62,11 @@ We also have a website found here -> https://takejoshyy.github.io/TheMurphVerse/
 
 **[T4: FRLG Monomon Natdex](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/5.FireRed-Monomon-NatDex-T4-Tourney-2025/README.md)**
 
+**[T5: HeartGold Duomon](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/6.HeartGold-Duomon-T5-Tourney-2025)**
+
+**[2025: Championship](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/7.Murphleague-2025-Championship)**
+
 **Murphverse Tournament Podiums 2024**
 
 <p align="center">
 <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/df9c13ac819078eafd99b5c7f03a6fc1a925de5a/Images/Tournaments%202024.png">
-
-# Credit
-
-This Community, its ideas, and the management of future undertakings are overseen by BigMurph619 and the "Rules Committee".
-TakeJoshyy, [KipoTerp](https://www.twitch.tv/kipoterp), [CamMan52](https://www.twitch.tv/camman52), [BennyTots](https://www.twitch.tv/bennytots), [Reilnur](https://www.twitch.tv/reilnur), [captdanieldore](https://www.twitch.tv/captdanieldore), [Domanski95](https://www.twitch.tv/domanski95), [bemidgegaming](https://www.twitch.tv/bemidgegaming)
