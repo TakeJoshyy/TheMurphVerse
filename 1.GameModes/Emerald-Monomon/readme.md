@@ -187,7 +187,7 @@ DuoMon is the Doubles Battles take on this challenge and can be done with a NATD
 |-|
 |Emerald Specific Rule #10 Tate and Liza Lad does not apply|
 |Emerald Specific Rule #11 Doubles Battles does not apply|
-|Pre-Aqua Grunt pivoting: You may catch up to 5 Pokemon as pivot options in addition to your lab starter. You may recieve exp from 1 wild Pokemon for each one of your runners (receiving EXP from a wild still locks in a Pokemon as a pivot). |
+|Pre-Aqua Grunt pivoting: You may catch up to 5 Pokemon as pivot options in addition to your lab starter. |
 | You cannot run the same Pokemon unless by evolving. i.e. Start with Blastoise and marshtomp, if marshtomp evolves into Blastoise that is ok|
 
 ### DuoMon Settings and Setup
