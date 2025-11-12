@@ -70,7 +70,7 @@ Any non-consumable held items except everstone and items for repeling or escapin
 
 **NOTE:** You are allowed to use a banned move either through **Transform, metronome or after copying it using Mimic or Mirror Move.**
 
-**Post-Pivot ONLY:** Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl, Belly Drum` etc. cannot be used on bosses (Gym Leaders and Pokemon League). EXCEPTION: Any Pokemon 440 BST or lower may use Setup moves on bosses.
+**Post-Bug Catching Pivot ONLY:** Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl, Belly Drum` etc. cannot be used on bosses (Gym Leaders and Pokemon League). EXCEPTION: Any Pokemon 440 BST or lower may use Setup moves on bosses.
 
 OHKO and Sleep Moves are banned if you have No Guard as an ability (These moves and ability are only banned in conjunction with one another).
 
