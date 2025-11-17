@@ -10,14 +10,14 @@ We also have a website found here -> https://takejoshyy.github.io/TheMurphVerse/
 | Summary |
 | :--------------------------------------------------------------------------------------------: |
 | Super Kaizo IronMON inspired rules with more items and moves available. |
-| NATDEX and Doubles Variants to be added soon! |
+| NATDEX and Doubles Variants Available! |
 
 **[FRLG Monomon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Monomon/readme.md)** <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_half_clover.png" width="20" height="40">    
 
 | Summary |
 | :--------------------------------------------------------------------------------------------: |
 | Kaizo IronMON inspired rules with SmartAI on all trainers, more moves available, tougher gatekeeping. |
-| NATDEX and Doubles Variants to be added soon! |
+| NATDEX and Doubles Variants Available! |
 
 **[FRLG Roadmon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-RoadMon/readme.md)** <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40">    
 | Summary |
@@ -28,25 +28,25 @@ We also have a website found here -> https://takejoshyy.github.io/TheMurphVerse/
 | Summary |
 | :--------------------------------------------------------------------------------------------: |
 | Super Kaizo IronMON inspired rules with an easier path through Brawley, Tate and Liza and Steven. |
-| NATDEX and Doubles Variants to be added soon! |
+| NATDEX and Doubles Variants Available! |
 
 **[Emerald Monomon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/readme.md)** <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40">
 | Summary |
 | :--------------------------------------------------------------------------------------------: |
 | Kaizo IronMON inspired rules with SmartAI, an easier path through Brawley, Tate and Liza and Steven, and more moves. |
-| NATDEX and Doubles Variants to be added soon! |
+| NATDEX and Doubles Variants Available! |
 
 **[Heartgold Murphmon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/HGSS-Murphmon/README.md)** <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_half_clover.png" width="20" height="40">
 | Summary |
 | :--------------------------------------------------------------------------------------------: |
 | Super Kaizo IronMON inspired rules with more moves and breaks up the gym gauntlet. |
-| Doubles Variant to be added soon! |
+| Doubles Variant Available! |
 
 **[Heartgold Monomon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/HGSS-Monomon/README.md)** <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40">
 | Summary |
 | :--------------------------------------------------------------------------------------------: |
 | Kaizo IronMON inspired rules with SmartAI, more moves, less rules in Kanto, and breaks up the gym gauntlet. |
-| Doubles Variant to be added soon! |
+| Doubles Variant Available! |
 
 # History Of Murphverse Tournaments
 
