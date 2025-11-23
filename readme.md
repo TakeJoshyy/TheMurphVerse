@@ -2,7 +2,6 @@
 
 This is the main landing page for the community challenges, tournaments, and more! If you're interested in joining here is the [Discord](https://discord.gg/c4Bzm3Ezpx)
 
-We also have a website found here -> https://takejoshyy.github.io/TheMurphVerse/
 
 ## Murph's Custom Rule Sets // Luck Needed Scale 1-5 <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40">
 
