@@ -6,6 +6,8 @@ We also have a website found here -> https://takejoshyy.github.io/TheMurphVerse/
 
 ## Murph's Custom Rule Sets // Luck Needed Scale 1-5 <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40">
 
+**[Murphmon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Murphmon/readme.md)**
+
 **[FRLG Monomon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Monomon/readme.md)** <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_half_clover.png" width="20" height="40">    
 
 | Summary |
