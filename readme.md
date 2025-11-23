@@ -6,12 +6,6 @@ We also have a website found here -> https://takejoshyy.github.io/TheMurphVerse/
 
 ## Murph's Custom Rule Sets // Luck Needed Scale 1-5 <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40">
 
-**[FRLG Murphmon](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/FireRed-Murphmon)** <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_half_clover.png" width="20" height="40">    
-| Summary |
-| :--------------------------------------------------------------------------------------------: |
-| Super Kaizo IronMON inspired rules with more items and moves available. |
-| NATDEX and Doubles Variants to be added soon! |
-
 **[FRLG Monomon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Monomon/readme.md)** <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_half_clover.png" width="20" height="40">    
 
 | Summary |
@@ -24,11 +18,6 @@ We also have a website found here -> https://takejoshyy.github.io/TheMurphVerse/
 | :--------------------------------------------------------------------------------------------: |
 | A survival IronMON inspired challenge based on a family roadtrip. |
 
-**[Emerald Murphmon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Murphmon/readme.md)** <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_half_clover.png" width="20" height="40">
-| Summary |
-| :--------------------------------------------------------------------------------------------: |
-| Super Kaizo IronMON inspired rules with an easier path through Brawley, Tate and Liza and Steven. |
-| NATDEX and Doubles Variants to be added soon! |
 
 **[Emerald Monomon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/readme.md)** <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40">
 | Summary |
@@ -36,11 +25,6 @@ We also have a website found here -> https://takejoshyy.github.io/TheMurphVerse/
 | Kaizo IronMON inspired rules with SmartAI, an easier path through Brawley, Tate and Liza and Steven, and more moves. |
 | NATDEX and Doubles Variants to be added soon! |
 
-**[Heartgold Murphmon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/HGSS-Murphmon/README.md)** <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_half_clover.png" width="20" height="40">
-| Summary |
-| :--------------------------------------------------------------------------------------------: |
-| Super Kaizo IronMON inspired rules with more moves and breaks up the gym gauntlet. |
-| Doubles Variant to be added soon! |
 
 **[Heartgold Monomon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/HGSS-Monomon/README.md)** <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40">
 | Summary |
