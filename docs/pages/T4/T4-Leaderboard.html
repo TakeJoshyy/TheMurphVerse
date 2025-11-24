@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>MurphLeague Tourney #4 2025</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body {
+      background: #faf3e0;
+      color: #5a3e2b;
+      font-family: 'Poppins', sans-serif;
+      padding: 2rem;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 1rem;
+    }
+    .tottip {
+      font-size: 0.9rem;
+      color: #8a6034;
+      margin-top: 0.5rem;
+      margin-bottom: 2rem;
+      text-align: center;
+    }
+    .table-container {
+      margin: 0 auto 2rem auto;
+      width: 60%;
+      overflow-x: auto;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #fff8f0;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    th, td {
+      padding: 0.75rem;
+      border-bottom: 1px solid #e0cdc3;
+      text-align: left;
+    }
+    th {
+      background: #ffe4b3;
+    }
+    tr {
+      cursor: pointer;
+    }
+    .charts {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      margin-top: 2rem;
+      gap: 1rem;
+    }
+    .chart-wrapper {
+      overflow-x: auto;
+      width: 60%;
+      margin: 0 auto 2rem auto;
+    }
+    canvas {
+      min-width: 600px;
+      max-width: 100%;
+      background: #fff8f0;
+      border: 1px solid #e0cdc3;
+      border-radius: 6px;
+    }
+    .modal {
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0, 0, 0, 0.7);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+    }
+    .modal.hidden {
+      display: none;
+    }
+    .modal-content {
+      background: #fff8f0;
+      padding: 1.5rem;
+      border-radius: 10px;
+      width: 95%;
+      max-width: 800px;
+      overflow-y: auto;
+      max-height: 90vh;
+    }
+    .modal-content iframe {
+      width: 100%;
+      height: 250px;
+      border: none;
+      margin-bottom: 1rem;
+    }
+    .modal-content .iframe-error {
+      color: red;
+      margin-bottom: 1rem;
+      display: none;
+    }
+    .modal-content canvas {
+      width: 100% !important;
+      height: 300px !important;
+      max-height: 300px;
+    }
+    .modal-content span {
+      float: right;
+      cursor: pointer;
+      font-size: 1.2rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>MurphLeague Tourney #4: FRLG Monomon NATDEX </h1>
+
+  <div class="tottip">Hosted by BennyTots 🥔</div>
+  <div class="tottip">Click on a participants name for performance information!</div>
+
+  <div class="table-container">
+    <table>
+      <thead>
+        <tr>
+          <th>Rank</th>
+          <th>Name</th>
+          <th>Score</th>
+          <th>Seeds</th>
+          <th>Twitch Link</th>
+        </tr>
+      </thead>
+      <tbody id="lb-body"></tbody>
+    </table>
+  </div>
+
+  <div class="chart-wrapper">
+    <canvas id="barChart"></canvas>
+  </div>
+
+  <!-- Player Modal -->
+  <div id="playerModal" class="modal hidden">
+    <div class="modal-content">
+      <span onclick="closeModal()">❌</span>
+      <h2 id="playerName"></h2>
+      <p id="playerInfo"></p>
+      <div id="iframeError" class="iframe-error">⚠️ Unable to load Twitch stream. Try opening it <a id="fallbackLink" href="#" target="_blank">directly</a>.</div>
+      <iframe id="twitchEmbed" allowfullscreen></iframe>
+      <canvas id="playerLineChart"></canvas>
+    </div>
+  </div>
+
+  <script>
+    let data = [];
+
+    fetch('T4.json')
+      .then(response => response.json())
+      .then(json => {
+        data = json;
+        initializeLeaderboard();
+      })
+      .catch(err => {
+        console.error("Failed to load leaderboard data:", err);
+        document.getElementById('lb-body').innerHTML = '<tr><td colspan="4">Error loading leaderboard.</td></tr>';
+      });
+
+    function getOrdinal(n) {
+      const s = ["th", "st", "nd", "rd"],
+        v = n % 100;
+      return n + (s[(v - 20) % 10] || s[v] || s[0]);
+    }
+
+    function initializeLeaderboard() {
+      
+      const murph = data.find(p => p.name === "BigMurph619");
+      const others = data.filter(p => p.name !== "BigMurph619");
+
+      // Sort everyone else
+      others.sort((a, b) => b.score - a.score);
+
+      const tbody = document.getElementById('lb-body');
+      tbody.innerHTML = '';
+
+      // Add sorted players
+      others.forEach((p, i) => {
+        const tr = document.createElement('tr');
+        tr.onclick = () => showPlayer(p.name);
+        tr.innerHTML = `
+          <td>${getOrdinal(i + 1)}</td>
+          <td>${p.name}</td>
+          <td>${p.score}</td>
+          <td>${p.seed}</td>
+          <td><a href="${p.twitch}" target="_blank">Watch</a></td>`;
+        tbody.appendChild(tr);
+      });
+
+      // Add BigMurph619 at the bottom, if present
+      if (murph) {
+        const tr = document.createElement('tr');
+        tr.onclick = () => showPlayer(murph.name);
+        tr.innerHTML = `
+          <td>N/A</td>
+          <td>${murph.name}</td>
+          <td>${murph.score}</td>
+          <td>${murph.seed}</td>
+          <td><a href="${murph.twitch}" target="_blank">Watch</a></td>`;
+        tbody.appendChild(tr);
+      }
+
+      const topPlayers = others.slice(0, 5);
+      new Chart(document.getElementById('barChart').getContext('2d'), {
+        type: 'bar',
+        data: {
+          labels: topPlayers.map(p => p.name),
+          datasets: [{ label: 'Score', data: topPlayers.map(p => p.score), backgroundColor: '#f4a261' }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          scales: { y: { beginAtZero: true } }
+        }
+      });
+    }
+
+    let playerChart;
+    function showPlayer(name) {
+      const p = data.find(x => x.name === name);
+      if (!p) return;
+
+      document.getElementById('playerName').textContent = p.name;
+      document.getElementById('playerInfo').innerHTML = `
+        Seeds: ${p.seed} | Score: ${p.score} |
+        <a href="${p.twitch}" target="_blank">Twitch Profile</a>
+      `;
+
+      const iframe = document.getElementById('twitchEmbed');
+      const errorBox = document.getElementById('iframeError');
+      const fallback = document.getElementById('fallbackLink');
+      errorBox.style.display = 'none';
+      iframe.style.display = 'block'; 
+      fallback.href = p.twitch;
+
+      // Load Twitch iframe
+      iframe.src = `https://player.twitch.tv/?channel=${p.twitch.split('/').pop()}&parent=localhost`;
+
+      // Timeout fallback if iframe fails
+      setTimeout(() => {
+        try {
+          if (!iframe.contentWindow || iframe.contentWindow.length === 0) {
+            iframe.style.display = 'none';
+            errorBox.style.display = 'block';
+          }
+        } catch (e) {
+          iframe.style.display = 'none';
+          errorBox.style.display = 'block';
+        }
+      }, 3000);
+
+      document.getElementById('playerModal').classList.remove('hidden');
+
+      // Build chart
+      if (playerChart) playerChart.destroy();
+      const labels = Array.from({ length: 14 }, (_, i) => `Day ${i + 1}`);
+      playerChart = new Chart(document.getElementById('playerLineChart').getContext('2d'), {
+        type: 'line',
+        data: {
+          labels,
+          datasets: [{
+            label: p.name,
+            data: p.history,
+            borderColor: '#e76f51',
+            fill: false,
+            tension: 0.3
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          scales: { y: { beginAtZero: true } }
+        }
+      });
+    }
+
+    function closeModal() {
+      document.getElementById('playerModal').classList.add('hidden');
+    }
+  </script>
+</body>
+</html>

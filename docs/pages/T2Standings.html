@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MurphLeague Tourney #2: Monomon Emerald Dashboard</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white font-sans antialiased">
+    <div class="container mx-auto px-4 py-8 md:px-6">
+        <!-- Header -->
+        <header class="text-center mb-10">
+            <h1 class="text-4xl md:text-5xl font-extrabold text-emerald-400">MurphLeague Tourney #2: Monomon Emerald</h1>
+            <p class="text-lg text-gray-300 mt-2">Running From May 9th To May 26th, Midnight PST, USA</p>
+        </header>
+
+        <!-- Main Content -->
+        <main class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+            <!-- Competitors List (span 1 column) -->
+            <section class="lg:col-span-1 bg-gray-800 p-6 rounded-lg shadow-xl">
+                <h2 class="text-2xl font-semibold text-emerald-300 mb-4 border-b border-gray-700 pb-2">Competitors</h2>
+                <ul class="space-y-4">
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/camman52" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="camman52">CamMan52</a>
+                        <span class="live-dot" id="live-camman52" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-camman52" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/captdanieldore" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="captdanieldore">CaptDanieldore</a>
+                        <span class="live-dot" id="live-captdanieldore" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-captdanieldore" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/thebrokenpirates" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="thebrokenpirates">TheBrokenPirates</a>
+                        <span class="live-dot" id="live-thebrokenpirates" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-thebrokenpirates" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/reilnur" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="reilnur">Reilnur</a>
+                        <span class="live-dot" id="live-reilnur" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-reilnur" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/bennytots" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="bennytots">BennyTots</a>
+                        <span class="live-dot" id="live-bennytots" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-bennytots" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/domanski95" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="domanski">Domanski</a>
+                        <span class="live-dot" id="live-domanski" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-domanski" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/holynightdragon" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="holynightdragon">HolyNightDragon</a>
+                        <span class="live-dot" id="live-holynightdragon" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-holynightdragon" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/roflmaogamers1" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="roflmaogamers1">RoflmaoGamers1</a>
+                        <span class="live-dot" id="live-roflmaogamers1" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-roflmaogamers1" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/bemidgegaming" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="bemidgegaming">BemidgeGaming</a>
+                        <span class="live-dot" id="live-bemidgegaming" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-bemidgegaming" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/freestob" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="freestob">Freestob</a>
+                        <span class="live-dot" id="live-freestob" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-freestob" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/oxkingleoox" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="oxkingleoox">OxKingLeooX</a>
+                        <span class="live-dot" id="live-oxkingleoox" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-oxkingleoox" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/smolfan27" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="smolfan27">Smolfan27</a>
+                        <span class="live-dot" id="live-smolfan27" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-smolfan27" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/kennyladdd" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="kennyladdd">KennyLaddd</a>
+                        <span class="live-dot" id="live-kennyladdd" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-kennyladdd" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/batcam22" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="batcam22">Batcam22</a>
+                        <span class="live-dot" id="live-batcam22" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-batcam22" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/bigmurph619" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="bigmurph619">BigMurph619</a>
+                        <span class="live-dot" id="live-bigmurph619" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-bigmurph619" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/alecsweatpants" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="alecsweatpants">AlecSweatpants</a>
+                        <span class="live-dot" id="live-alecsweatpants" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-alecsweatpants" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/kyroteck" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="kyroteck">Kyroteck</a>
+                        <span class="live-dot" id="live-kyroteck" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-kyroteck" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/xoptoss" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="xoptoss">Xoptoss</a>
+                        <span class="live-dot" id="live-xoptoss" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-xoptoss" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/mcplumber1" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="mcplumber1">MCPlumber1</a>
+                        <span class="live-dot" id="live-mcplumber1" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-mcplumber1" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/uceychimchar" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="uceychimchar">UceyChimchar</a>
+                        <span class="live-dot" id="live-uceychimchar" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-uceychimchar" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/kipoterp" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="kipoterp">Kipoterp</a>
+                        <span class="live-dot" id="live-kipoterp" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-kipoterp" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/dorktown_phantom" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="DorktownPhantom">DorktownPhantom</a>
+                        <span class="live-dot" id="live-dorktown" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-DorktownPhantom" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/banana_sen" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="BananaSen">Banana Sen</a>
+                        <span class="live-dot" id="live-banana" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-banana_sen" class="stream-embed"></div>
+                    </li>
+                    <li class="flex items-center justify-between">
+                        <a href="https://www.twitch.tv/attractivetoucan39" target="_blank" class="competitor-link text-blue-400 hover:underline focus:outline-none focus:ring focus:ring-blue-300 rounded" data-channel="AttractiveToucan">Attractive Toucan</a>
+                        <span class="live-dot" id="live-attractivetoucan" aria-label="Stream status indicator" title="Checking status..."></span>
+                        <div id="embed-attractivetoucan" class="stream-embed"></div>
+                    </li>
+                </ul>
+            </section> 
+
+            <!-- Standings Board (span 2 columns on large screens) -->
+            <section class="lg:col-span-2 bg-gray-800 p-6 rounded-lg shadow-xl">
+                <h2 class="text-2xl font-semibold text-emerald-300 mb-4 border-b border-gray-700 pb-2">Current Standings</h2>
+                <div class="overflow-x-auto">
+                    <table class="w-full text-left" id="standingsTable">
+                        <thead>
+                            <tr class="bg-gray-700 text-gray-200">
+                                <th scope="col" class="p-3 font-medium">Rank</th>
+                                <th scope="col" class="p-3 font-medium">Competitor</th>
+                                <th scope="col" class="p-3 font-medium">Points</th>
+                                <th scope="col" class="p-3 font-medium">Seeds Ran</th>
+                                <th scope="col" class="p-3 font-medium">League Standing</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">CamMan52</td>
+                                <td class="p-3">67</td>
+                                <td class="p-3">147</td>
+                                <td class="p-3">10th</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">CaptDanieldore</td>
+                                <td class="p-3">117</td>
+                                <td class="p-3">200</td>
+                                <td class="p-3">3rd</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">TheBrokenPirates</td>
+                                <td class="p-3">58</td>
+                                <td class="p-3">200</td> <!-- Done -->
+                                <td class="p-3">10th</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">Reilnur</td>
+                                <td class="p-3">109</td>
+                                <td class="p-3">200</td> <!-- Done -->
+                                <td class="p-3">5th</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">BennyTots</td>
+                                <td class="p-3">101</td>
+                                <td class="p-3">182</td>
+                                <td class="p-3">1st</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">Domanski</td>
+                                <td class="p-3">47</td>
+                                <td class="p-3">57</td>
+                                <td class="p-3">10th</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">HolyNightDragon</td>
+                                <td class="p-3">14</td>
+                                <td class="p-3">7</td>
+                                <td class="p-3">N/A</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">RoflmaoGamers1</td> 
+                                <td class="p-3">95</td>
+                                <td class="p-3">200</td> <!-- Done -->
+                                <td class="p-3">2nd</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">BemidgeGaming</td>
+                                <td class="p-3">56</td>
+                                <td class="p-3">103</td>
+                                <td class="p-3">4th</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">Freestob</td>
+                                <td class="p-3">35</td>
+                                <td class="p-3">134</td>
+                                <td class="p-3">10th</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">OxKingLeooX</td> <!-- Leooooooo-->
+                                <td class="p-3">65</td>
+                                <td class="p-3">200</td>
+                                <td class="p-3">21st</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">Smolfan27</td>
+                                <td class="p-3">4</td>
+                                <td class="p-3">10</td>
+                                <td class="p-3">21st</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">KennyLaddd</td>
+                                <td class="p-3">61</td>
+                                <td class="p-3">70</td>
+                                <td class="p-3">6th</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">Batcam</td>
+                                <td class="p-3">27</td>
+                                <td class="p-3">175</td>
+                                <td class="p-3">10th</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">AlecSweatpants</td>
+                                <td class="p-3">38</td>
+                                <td class="p-3">200</td>
+                                <td class="p-3">21st</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">Xoptoss</td>
+                                <td class="p-3">7</td>
+                                <td class="p-3">89</td>
+                                <td class="p-3">N/A</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">McPlumber</td>
+                                <td class="p-3">40</td>
+                                <td class="p-3">135</td>
+                                <td class="p-3">10th</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">Kipoterp</td>
+                                <td class="p-3">24</td>
+                                <td class="p-3">82</td>
+                                <td class="p-3">10th</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">DorktownPhantom</td>
+                                <td class="p-3">85</td>
+                                <td class="p-3">125</td>
+                                <td class="p-3">10th</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">Banana Sen</td>
+                                <td class="p-3">84</td>
+                                <td class="p-3">200</td> <!-- Done -->
+                                <td class="p-3">10th</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3"></td>
+                                <td class="p-3">Attractive Toucan</td>
+                                <td class="p-3">6</td>
+                                <td class="p-3">28</td>
+                                <td class="p-3">21st</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="overflow-x-auto">
+                    <table class="w-full text-left">
+                        <thead>
+                            <tr class="bg-gray-700 text-gray-200">
+                                <th scope="col" class="p-3 font-medium">Rank</th>
+                                <th scope="col" class="p-3 font-medium">Competitor</th>
+                                <th scope="col" class="p-3 font-medium">Points</th>
+                                <th scope="col" class="p-3 font-medium">Seeds Ran</th>
+                                <th scope="col" class="p-3 font-medium">League Standing</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3">Unranked</td>
+                                <td class="p-3">BigMurph</td>
+                                <td class="p-3">65</td>
+                                <td class="p-3">74</td>
+                                <td class="p-3">21st</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3">Unranked</td>
+                                <td class="p-3">UceyChimchar</td>
+                                <td class="p-3">0</td>
+                                <td class="p-3">0</td>
+                                <td class="p-3">N/A</td>
+                            </tr>
+                            <tr class="border-b border-gray-600 hover:bg-gray-700 transition duration-150 ease-in-out">
+                                <td class="p-3">Unranked</td>
+                                <td class="p-3">Kyroteck</td>
+                                <td class="p-3">0</td>
+                                <td class="p-3">0</td>
+                                <td class="p-3">10th</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- Tournament Info Section (span 3 columns on large screens) -->
+            <section class="lg:col-span-3 bg-gray-800 p-6 rounded-lg shadow-xl">
+                <h2 class="text-2xl font-semibold text-emerald-300 mb-4 border-b border-gray-700 pb-2">Tournament Info</h2>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div>
+                        <h3 class="text-xl font-medium text-emerald-300 mb-3">Rules</h3>
+                        <ul class="list-disc list-inside text-gray-300 space-y-2">
+                            <li>200 Seeds Max</li>
+                            <li>Have to be in the discord</li>
+                            <li>Follow The Linked Rules</li>
+                        </ul>
+                        <p class="mt-4 text-gray-400 text-sm" ><a href="https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/readme.md">The detailed ruleset</a></p>
+                    </div>
+
+                    <div>
+                        <h3 class="text-xl font-medium text-emerald-300 mb-3">Rewards Breakdown</h3>
+                        <ul class="space-y-3 text-gray-300">
+                            <li>
+                                <span class="font-semibold">First Place:</span> 3500 Bits + 11 subs + Custom Pokemon Cards
+                            </li>
+                            <li>
+                                <span class="font-semibold">Second Place:</span> 2500 Bits + 5 subs
+                            </li>
+                            <li>
+                                <span class="font-semibold">Third Place:</span> 2000 Bits
+                            </li>
+                            <li>
+                                <span class="font-semibold">Fourth Place:</span> 500 Bits
+                            </li>
+                            <li>
+                                <span class="font-semibold">Eighth Place:</span> 100 Bits
+                            </li>
+                            <li>
+                                <span class="font-semibold">Last Place:</span> 69 Bits
+                            </li>
+                            <li>
+                                <span class="font-semibold">Tolkien mystery prize potential</span>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h3 class="text-xl font-medium text-emerald-300 mb-3">Schedule</h3>
+                        <ul class="space-y-3 text-gray-300">
+                            <li>
+                                <span class="font-semibold">May 9th:</span> Start
+                            </li>
+                            
+                            <li>
+                                <span class="font-semibold">May 24th:</span> Finish
+                            </li>
+                        </ul> 
+                    </div>
+                    
+                </div>
+            </section>
+
+             <section class="lg:col-span-3 bg-gray-800 p-6 rounded-lg shadow-xl">
+                <h2 class="text-2xl font-semibold text-emerald-300 mb-4 border-b border-gray-700 pb-2">Latest Updates</h2>
+                <div class="space-y-4 text-gray-300">
+
+                    <article>
+                        <h3 class="font-semibold text-emerald-200">Tournament Finished</h3>
+                        <p class="text-sm text-gray-400">Posted on May 26th, 2025</p>
+                        <p class="mt-1">Thank you to everyone the participated and watched!</p>
+                    </article>
+
+                    <article>
+                        <h3 class="font-semibold text-emerald-200">May 24th: Third EMERALD MONOMON Winner Banana Sen </h3>
+                        <p class="text-sm text-gray-400">Posted on May 25th, 2025</p>
+                        <p class="mt-1">Won with a Mr. Mime</p>
+                    </article>
+
+                    <article>
+                        <h3 class="font-semibold text-emerald-200">May 21th: Second EMERALD MONOMON Winner CaptDanieldore </h3>
+                        <p class="text-sm text-gray-400">Posted on May 22th, 2025</p>
+                        <p class="mt-1">https://www.twitch.tv/videos/2465040272?t=02h50m05s</p>
+                    </article>
+
+                    <article>
+                        <h3 class="font-semibold text-emerald-200">May 20th: First Ever EMERALD MONOMON Winner kennyladdd!!!</h3>
+                        <p class="text-sm text-gray-400">Posted on May 20th, 2025</p>
+                        <p class="mt-1">https://www.twitch.tv/kennyladdd/clip/CreativeLivelySharkCharlietheUnicorn-SxijOiFN844IAHFD</p>
+                    </article>
+
+                    <article>
+                        <h3 class="font-semibold text-emerald-200">May 17th: One Week To Go!</h3>
+                        <p class="text-sm text-gray-400">Posted on May 17th, 2025</p>
+                        <p class="mt-1">With one week to go the top five looks like this; 1) RoflmaoGamers1 2) BennyTots 3) CaptDanieldore 4) Reilnur 5) CamMan52</p>
+                    </article>
+
+                    <article>
+                        <h3 class="font-semibold text-emerald-200">May 14th: Fierce Competitors</h3>
+                        <p class="text-sm text-gray-400">Posted on May 14th, 2025</p>
+                        <p class="mt-1">Another big shake up at the front as Roflmaogamers gets on another deep run and taking first place, meanwhile more double points runs gives Reilnur a healthy point boost. </p>
+                    </article>
+
+                    <article>
+                        <h3 class="font-semibold text-emerald-200">May 12th: Third Day 410 BST Runner</h3>
+                        <p class="text-sm text-gray-400">Posted on May 12th, 2025</p>
+                        <p class="mt-1">CaptDanieldore gets a 410 Sudowoodo on a massive run!</p>
+                    </article>
+
+                    <article>
+                        <h3 class="font-semibold text-emerald-200">May 11th: Second Day Full Of Runners</h3>
+                        <p class="text-sm text-gray-400">Posted on May 11th, 2025</p>
+                        <p class="mt-1">MurphLeague top three, are top three on the second day!</p>
+                    </article>
+
+                    <article>
+                        <h3 class="font-semibold text-emerald-200">May 10th: First Day Shocker</h3>
+                        <p class="text-sm text-gray-400">Posted on May 10th, 2025</p>
+                        <p class="mt-1">On the first day of the tournament Rofl manages to get all the way to E4!</p>
+                    </article>
+                    
+                    <article>
+                        <h3 class="font-semibold text-emerald-200">May 9th: Tournament Start</h3>
+                        <p class="text-sm text-gray-400">Posted on May 9th, 2025</p>
+                        <p class="mt-1">The Tournament Has Begun! Good luck to all participants!</p>
+                    </article>
+                    
+                    <article>
+                        <h3 class="font-semibold text-emerald-200">May 8th: Welcome Competitors!</h3>
+                        <p class="text-sm text-gray-400">Posted on May 8th, 2025</p>
+                        <p class="mt-1">Welcome to the MurphLeague Tourney #2! The dashboard is now live. Please familiarize yourselves with the rules. Good luck to all participants!</p>
+                    </article>
+                    <article>
+                         <h3 class="font-semibold text-emerald-200">April 25th: Tournament Announcement</h3>
+                        <p class="text-sm text-gray-400">Posted on April 25th, 2025</p>
+                        <p class="mt-1">Get ready for MurphLeague Tourney #2: Monomon Emerald! The tournament will run from May 9th to May 26th. Stay tuned for more details and competitor announcements.</p>
+                    </article>
+                   
+                </div>
+            </section>
+
+            <section class="lg:col-span-3 bg-gray-800 p-6 rounded-lg shadow-xl text-center">
+                <h2 class="text-2xl font-semibold text-emerald-300 mb-4 border-b border-gray-700 pb-2">Watch Live On Twitch</h2>
+                <p class="text-gray-300 leading-relaxed">Catch all the action live on the competitors' Twitch channels!</p>
+            </section>
+
+            <section class="lg:col-span-3 bg-gray-800 p-8 rounded-xl shadow-2xl text-center transition duration-300 hover:shadow-emerald-500/40">
+                <h2 class="text-3xl font-bold text-emerald-400 mb-6 border-b-2 border-emerald-600 pb-3">
+                  Back To The Murphverse
+                </h2>
+                <a 
+                  class="inline-block mt-2 text-lg font-medium text-blue-400 hover:text-blue-300 hover:underline transition duration-200" 
+                  href="../index.html"
+                >
+                  Click Here
+                </a>
+            </section>
+              
+        </main>
+
+        <footer class="mt-10 text-center text-gray-500 text-sm">
+            Site By TakeJoshyy
+        </footer>
+    </div>
+
+    <script>
+        const competitors = [
+            'camman52',
+            'captdanieldore',
+            'thebrokenpirates',
+            'reilnur',
+            'bennytots',
+            'domanski',
+            'holynightdragon',
+            'roflmaogamers1',
+            'bemidgegaming',
+            'freestob',
+            'oxkingleoox',
+            'smolfan27',
+            'kennyladdd',
+            'batcam22',
+            'bigmurph619',
+            'alecsweatpants',
+            'kyroteck',
+            'xoptoss',
+            'mcplumber1',
+            'uceychimchar',
+            'kipoterp'
+        ];
+
+        function sortLeaderboard() {
+            const table = document.getElementById('standingsTable');
+            const tbody = table.tBodies[0];
+            const rows = Array.from(tbody.rows);
+
+            
+            rows.sort((a, b) => {
+                const pointsA = parseInt(a.cells[2].textContent.trim());
+                const pointsB = parseInt(b.cells[2].textContent.trim());
+                const seedsA = parseInt(a.cells[3].textContent.trim());
+                const seedsB = parseInt(b.cells[3].textContent.trim());
+
+                if (pointsA !== pointsB) return pointsB - pointsA; 
+                return seedsA - seedsB; 
+            });
+
+            
+            rows.forEach((row, index) => {
+                row.cells[0].textContent = index + 1; 
+                tbody.appendChild(row); 
+            });
+        }
+
+        window.onload = sortLeaderboard;
+
+    </script>
+</body>
+</html>
