@@ -39,17 +39,17 @@ This is the main landing page for the community challenges, tournaments, and mor
 
 
 
-**[T1: FRLG Murphmon Tourney February 2025](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/2.FireRed-Murphmon-T1-Tourney-2025/leaderboard.md)**
+**[T1: FRLG Murphmon Tourney February 2025](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/MurphLeague-2025/2.FireRed-Murphmon-T1-Tourney-2025/leaderboard.md)**
 
-**[T2: Emerald Monomon May 2025](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/3.Emerald-Monomon-T2-Tourney-2025)**
+**[T2: Emerald Monomon May 2025](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/MurphLeague-2025/3.Emerald-Monomon-T2-Tourney-2025)**
 
-**[T3: Heartgold Monomon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/4.HeartGold-Monomon-T3-Tourney-2025/README.md)**
+**[T3: Heartgold Monomon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/MurphLeague-2025/4.HeartGold-Monomon-T3-Tourney-2025/README.md)**
 
-**[T4: FRLG Monomon Natdex](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/5.FireRed-Monomon-NatDex-T4-Tourney-2025/README.md)**
+**[T4: FRLG Monomon Natdex](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/MurphLeague-2025/5.FireRed-Monomon-NatDex-T4-Tourney-2025/README.md)**
 
-**[T5: HeartGold Duomon](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/6.HeartGold-Duomon-T5-Tourney-2025)**
+**[T5: HeartGold Duomon](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/MurphLeague-2025/6.HeartGold-Duomon-T5-Tourney-2025)**
 
-**[2025: Championship](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/7.Murphleague-2025-Championship)**
+**[2025: Championship](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/MurphLeague-2025/7.Murphleague-2025-Championship)**
 
 **Murphverse Tournament Podiums 2024**
 
