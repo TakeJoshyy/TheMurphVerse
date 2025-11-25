@@ -1,6 +1,6 @@
 # MurphLeague-2025
 
-MurphLeague is league made up of 5 qualifying tournaments and an 8 person [playoff final](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/7.Murphleague-2025-Championship).
+MurphLeague is league made up of 5 qualifying tournaments and an 8 person [playoff final](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/MurphLeague-2025/7.Murphleague-2025-Championship).
 
 ## League Points Breakdown
 The 5 tournaments will have points awarded by placement as follows:
