@@ -37,7 +37,7 @@
 
 ## Abilities:
 
-|Pure Power and huge power are allowed so long as you NEVER use a physical attacking move.|
+|Pure Power and huge power are by default illegal abilities but, allowed so long as you NEVER use a physical attacking move.|
 |-|
 |<div align="center">Pickup is allowed only if you do not keep pickup items.</div>  |
 |<div align="center">Pokemon 420 BST or Lower are exempt from ALL banned abilities/combos and may be used freely.</div>  |
@@ -56,6 +56,7 @@
 |<div align="center">Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc. cannot be used on bosses AFTER the Safari Zone/Bug Catching Pivot has been made (Gym Leaders and Pokemon League). EXCEPTION: Any Pokemon 440 BST or lower may use Setup moves on bosses.</div>  |
 |<div align="center">All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed. </div>  |
 |<div align="center">Sketch - You may ONLY use Sketch in a trainer battle. Sketching on a wild Pokemon is no longer allowed. You may only relearn Sketch once from the move relearner. You may use Sketch multiple times if you receive the move in any other capacity.</div>  |
+|<div align="center">Beat up - You may use beat up with up to 3 total Pokemon in your party (4 in Duomon). You should never need more than 2 HM friends.</div>  |
 
 ---
 
@@ -67,7 +68,7 @@
 |<div align="center">You must select a Pokemon under 600 BST unless you are playing the NATDEX variant of the game. All "pivot" options are subject to this BST as well.</div>  |
 |<div align="center">You may catch 3 UNIQUE pivot options from the areas prior to the lock-in point. You may keep the items held by these Pokemon.</div>  |
 |<div align="center">Pivoting is dynamic, meaning you may run any Pokemon at the front of your party during the pivoting phase. As long the Pokemon in the front of your party lives, the run may continue (a Pokemon that dies to overworld poison damage may no longer be used -- but it must not be in the front of your party).</div>  |
-|<div align="center">Evolving into a Pokemon over the BST limit is ok. Additionally, evolving into a Pokemon with an illegal ability warrants an additional pivot if it happens before the lockin point OR if after the lock-in point, is COMPLETELY legal to be ran with no restrictions.</div>  |
+|<div align="center">Evolving into a Pokemon over the BST limit is ok. Additionally, evolving into a Pokemon with an illegal ability warrants an additional pivot if it happens before the lockin point. If evo occurs after the lock-in point, it is COMPLETELY legal to be ran with no restrictions.</div>  |
 |<div align="center">You may get 1 of each favorite as a free catch (selecting it in the lab awards 1 additional pivot option). Additionally, selecting a Pokemon with an illegal ability awards 1 additional pivot option.</div>  |
 |<div align="center">Pokemon may only receive EXP from a wild once prior to the early game lock in point or from required game progression encounters. Receiving EXP from a wild after the "Lock in" point should be avoided at all costs. Receiving EXP from a second wild Pokemon prior to the "Lock in" point disqualifies it from being ran and must be deposited ASAP. All shinies are free catches or kills and do not count towards EXP or catch rules.</div>  |
 |<div align="center">"Catch and release" is allowed ONLY for unescapable situations such as Block. Moves such as Fire Spin that are temporary do not warrant catch and release. You may catch, then release the Pokemon without looking at any information to prevent it from counting as a pivot option.</div>  |
@@ -263,6 +264,8 @@ Notable Settings:
     -Opponents all have useful, consumable held items.
     -Opponents all have 'Smart' AI (Built into the patch for each game.
     -All Pokemon, items, level up moves, move tutors, and abilities are randomized.
+    -Perish Song is removed
+    -Mythical Pokemon experience is fixed (increased)
 
 ---
 
