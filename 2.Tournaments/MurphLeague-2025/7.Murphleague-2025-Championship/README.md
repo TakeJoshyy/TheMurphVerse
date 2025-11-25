@@ -70,7 +70,7 @@ Competitors will each draft both a "Blessing" and a "Bane" that will apply for t
 
 Title of the Murphleague 2025 Champion. Engraved Trophy, 5 Charizard Cards. Custom emotes from kipoterp.
 
-<img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/7.Murphleague-2025-Championship/MurphLeague-2025/Images/murphleague%20trophy.jpg" width="300" height="350"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/MurphLeague-2025/7.Murphleague-2025-Championship/Images/charizard%20cards.png" width="300" height="300">
+<img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/MurphLeague-2025/7.Murphleague-2025-Championship/Images/murphleague%20trophy.jpg" width="300" height="350"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/MurphLeague-2025/7.Murphleague-2025-Championship/Images/charizard%20cards.png" width="300" height="300">
 
 Additional awards provided from the [Pledge Page](https://discord.gg/cqjd4ksZ).
 
