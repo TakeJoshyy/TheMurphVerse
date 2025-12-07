@@ -12,30 +12,12 @@ This is the main landing page for the community challenges, tournaments, and mor
 | Super Kaizo IronMON inspired rules with SmartAI on all trainers, with safari pivoting |
 | NATDEX and Doubles Variants available! |
 
-**[FRLG Monomon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Monomon/readme.md)** <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_half_clover.png" width="20" height="40">    
+**[Monomon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Monomon/README.md)**
 
 | Summary |
 | :--------------------------------------------------------------------------------------------: |
-| Kaizo IronMON inspired rules with SmartAI on all trainers, more moves available, tougher gatekeeping. |
-| NATDEX and Doubles Variants available! |
-
-**[FRLG Roadmon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-RoadMon/readme.md)** <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40">    
-| Summary |
-| :--------------------------------------------------------------------------------------------: |
-| A survival IronMON inspired challenge based on a family roadtrip. |
-
-
-**[Emerald Monomon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/readme.md)** <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40">
-| Summary |
-| :--------------------------------------------------------------------------------------------: |
-| Kaizo IronMON inspired rules with SmartAI, an easier path through Brawley, Tate and Liza and Steven, and more moves. |
-| NATDEX and Doubles Variants available! |
-
-
-**[Heartgold Monomon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/HGSS-Monomon/README.md)** <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40"> <img src="https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Images/Difficulty_rating_clover.png" width="40" height="40">
-| Summary |
-| :--------------------------------------------------------------------------------------------: |
-| Kaizo IronMON inspired rules with SmartAI, more moves, less rules in Kanto, and breaks up the gym gauntlet. |
+| Monomon is the easier means of playing Murphmon.|
+| Monomon does NOT require the mid game pivot in Safari Zone, Bug Catching Contest, etc. |
 | NATDEX and Doubles Variants available! |
 
 # History Of Murphverse Tournaments
