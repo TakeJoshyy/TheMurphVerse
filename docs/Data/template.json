@@ -1,0 +1,18 @@
+[
+    {
+    "card": {"Title":"Temp", "DateStart":"2025-01-01", "DateEnd":"2025-01-01", "GameMode":"Test", "Intro":"Description"},
+
+    "leaderboard": [
+        {"name":"", "score": 0, "seed": 0, "twitch": ""},
+        {"name":"", "score": 0, "seed": 0, "twitch": ""}
+    ],
+
+    "link": "", 
+    "Game":""
+
+    }
+]
+
+
+// Delete these comments when you make a copy they are not json compatible
+// Game - "HGSS" "FRLG" "EME" "ROGUEMON" (This is used for the background)

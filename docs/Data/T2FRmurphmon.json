@@ -1,0 +1,14 @@
+[
+    {
+    "card": {"Title":"T2 Firered Murphmon", "DateStart":"2026-03-06", "DateEnd":"2026-03-22", "GameMode":"Murphmon", "Intro":"Second tournament of 2026!"},
+
+    "leaderboard": [
+        {"name":"", "score": 0, "seed": 0, "twitch": ""},
+        {"name":"", "score": 0, "seed": 0, "twitch": ""}
+    ],
+
+    "link": "", 
+    "Game":"FRLG"
+
+    }
+]

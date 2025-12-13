@@ -1,0 +1,25 @@
+[
+    {
+    "card": {"Title":"T1 Roguemon A2", "DateStart":"2026-01-02", "DateEnd":"2026-01-18", "GameMode":"Roguemon", "Intro":"First tournament of 2026!"},
+
+    "leaderboard": [
+        {"name":"Unrealpapa", "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/Unrealpapa", "charity": "Foodbankfornyc"},
+        {"name":"Bremner", "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/Bremner_1", "charity": "Doctor's Without borders"},
+        {"name":"AitchKay", "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/AitchKay720", "charity": "Transparent Hands"},
+        {"name":"Zogamizer", "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/Zogamizer", "charity": "Animal Legal Defense Fund"},
+        {"name":"oxKINGLEOox", "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/oxKINGLEOox", "charity": "St. Jude’s"},
+        {"name":"Roflmaogamers", "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/Roflmaogamers1", "charity": "American Epilepsy Society"},
+        {"name":"Dorktown Phantom", "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/Dorktown_Phantom", "charity": "JBJ Soul"},
+        {"name":"Kizmo sen", "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/Kizmo_sen", "charity": "St Michael's Hospice"},
+        {"name":"TheBrokenPirates", "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/TheBrokenPirates", "charity": "Trevor Project"},
+        {"name":"iAmSlammer", "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/iAmSlammer", "charity": "Active Minds "},
+        {"name":"ThePorofessor", "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/ThePorofessor", "charity": "Action Against Hunger"},
+        {"name":"Predsfan98", "score": 0, "seed": 0, "twitch": "https://www.twitch.tv/predsfan98", "charity": "Able Gamers"}
+    ],
+
+    "link": "https://raw.githubusercontent.com/BigMurph619/Murphleague-2026-T1-Roguemon-A2/refs/heads/main/README.md",
+    "Game":"ROGUEMON"
+
+
+    }
+]
