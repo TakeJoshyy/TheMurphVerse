@@ -22,7 +22,7 @@ Additionally, the Murphleague 2026 champion will earn an engraved trophy, a boun
 ## Tournament Dates
 | Tournament Number (Game Mode) | Dates |
 |-|-|
-| T1 - [Roguemon A2](https://github.com/BigMurph619/Murphleague-2026-T1-Roguemon-A2) | January 2nd - January 18th |
+| T1 - [Roguemon A2](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/MurphLeague-2026/T1-Roguemon) | January 2nd - January 18th |
 | T2 - (Firered Murphmon)(Subject to change) | March 6th - March 22nd |
 | T3 - (Roguemon A2) | May 1st - May 17th |
 | T4 - (Heartgold Murphmon)(Subject to change) | July 3rd - July 19th |
