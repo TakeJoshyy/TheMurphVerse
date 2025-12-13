@@ -2,6 +2,7 @@
 
 This is the main landing page for the community challenges, tournaments, and more! If you're interested in joining here is the [Discord](https://discord.gg/c4Bzm3Ezpx)
 
+We also have a site found here -> https://takejoshyy.github.io/TheMurphVerse/
 
 ## Murph's Custom Rule Sets
 
