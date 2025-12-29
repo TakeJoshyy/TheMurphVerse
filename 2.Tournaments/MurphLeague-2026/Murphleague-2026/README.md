@@ -5,7 +5,7 @@ MurphLeague 2026 is a series of 6 regular season tournaments and a 2-part playof
 ## Rewards
 Each tournament, competitors will play on their respective charity's behalf. Final tournament placements can earn donations provided by BigMurph619 and the generous members of the Murphleague community. Donation commitment information can be found in the "Pledge Page" portion of Murph's discord found here.
 
-I would like to start by pledging $500 to Murphleague 2026 with a breakdown found below:
+[Murph](https://www.twitch.tv/bigmurph619) would like to start by pledging $500 to Murphleague 2026 with a breakdown found below:
 
 | Tournament (Pool) | Breakdown |
 |-|-|
@@ -17,18 +17,18 @@ I would like to start by pledging $500 to Murphleague 2026 with a breakdown foun
 | T6 ($50) | 1st - $25, 2nd -$15, 3rd $10 |
 | Playoffs ($200) | 1st - $150, 2nd -$25, 3rd $25 |
 
-Additionally, the Murphleague 2026 champion will earn an engraved trophy, a bounty of Pokemon cards, 2 custom emotes from Kipoterp, a spot in the Murphverse Hall of Fame, and any additional pledges from the Murphleague community. 
+Additionally, the Murphleague 2026 champion will earn an engraved trophy, a bounty of Pokemon cards, 2 custom emotes from Kipoterp, a spot in the Murphverse Hall of Fame, and any additional pledges from the Murphleague community.
 
 ## Tournament Dates
 | Tournament Number (Game Mode) | Dates |
 |-|-|
 | T1 - [Roguemon A2](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/MurphLeague-2026/T1-Roguemon) | January 2nd - January 18th |
-| T2 - (Firered Murphmon)(Subject to change) | March 6th - March 22nd |
-| T3 - (Roguemon A2) | May 1st - May 17th |
-| T4 - (Heartgold Murphmon)(Subject to change) | July 3rd - July 19th |
-| T5 - (Roguemon A2) | September 4th - September 20th |
-| T6 - (Emerald Murphmon)(Subject to change) | November 6th - November 22nd |
-| Playoffs - (Roguemon A2/Firered NATDEX Murphmon) | December 4th - December 20th |
+| T2 - Firered Murphmon (Spring) | March 6th - March 22nd |
+| T3 - Roguemon A2 | May 1st - May 17th |
+| T4 - Emerald Murphmon (Summer) | July 3rd - July 19th |
+| T5 - Roguemon A2 | September 4th - September 20th |
+| T6 - Heartgold Murphmon (Winter) | November 6th - November 22nd |
+| Playoffs - Playoffs Firered Duo Murphmon | December 4th - December 20th |
 
 <!-- Insert Hyperlinks to each tourney above -->
 
@@ -60,7 +60,7 @@ Higher placements can earn additional League Points.
 Updated at the conclusion of each tournament.
 |   Standing         | Creator            | Points |
 | :----------------: | :------------:     | :----: |
-| 1st                | BigMurph619    | 000    |
+| 1st                | BigMurph619        | 000    |
 
 
 Competitors' cumulative league points (after dropping lowest score and adding participation bonus if eligible) will decide seeding for the 12-person playoff tournament. 
@@ -80,6 +80,10 @@ Competitors' cumulative league points (after dropping lowest score and adding pa
 |Murphmon|
 |-|
 | Murphmon is an IronMON-like challenge inspired by Super Kaizo IronMON. It features some easier rules and quality of life changes to make the game more viable for tournament play. The goal is to run 1 Pokemon from the lab to the Safari Zone, gaining resources along the way. You then pivot to a new Pokemon from the Safari Zone to beat the remainder of the game with. Features of Murphmon include: choosing your starter, balanced encounter rates in the early game and in Safari fishing, use of TMs and Move Tutors, more items, less restrictive gatekeeping, and a few buddies to help you along the way. Murphmon was created by [BigMurph619](https://www.twitch.tv/bigmurph619). Information on rules and other details can be found [Here](Update to new Murphmon link). Setup information and help can be found [Here](https://discord.gg/c4Bzm3Ezpx)|
+
+|Tuning Tokens|
+|-|
+| Season tournaments will feature Tuning Tokens (3 per run) and competitors will choose from a pool of seasonally themed blessings. Further information will be found on seasoned Tourney Details pages [found in this section.](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/MurphLeague-2026)|
 
 ## Credits/Info
 | Links/Participation/FAQ |
