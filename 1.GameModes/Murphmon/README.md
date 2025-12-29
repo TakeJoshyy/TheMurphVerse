@@ -96,6 +96,8 @@
 
 NATDEX is a variant of Kaizo IronMON created by cyansixfour that includes all Pokemon and their variants, updated type charts and effectiveness including fairy typing, added in some fairy typing moves, and a few other quality of life changes. NATDEX Murphmon uses the 1.1.2 NATDEX patch with some additional changes to encounter rates in the early game and Safari pivoting for the Murphmon and Monomon formats.
 
+Note: The NATDEX version of playing this game will not be receiving updates at this time, therefore some patchwork and settings may not align with updates made to other Murphmon gamemodes.
+
 The only rule changes are: You may have 9 favorites instead of 3 and the BST limit is allowed up to 600 BST.
 
 --------------------------------------------------
