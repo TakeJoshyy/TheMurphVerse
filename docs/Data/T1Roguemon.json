@@ -136,8 +136,8 @@
             },
             {
                 "name": "Samuwell",
-                "score": 0,
-                "seed": 0,
+                "score": 52,
+                "seed": 23,
                 "twitch": "https://www.twitch.tv/Samuwell1997",
                 "charity": "Cancer Research UK"
             },
@@ -201,8 +201,15 @@
                 "name": "OddCrow",
                 "score": 0,
                 "seed": 0,
-                "twitch": "https://www.twitch.tv/",
+                "twitch": "https://www.twitch.tv/OddCrow",
                 "charity": "Doctors Without Borders"
+            },
+            {
+                "name": "FinniFinn",
+                "score": 0,
+                "seed": 0,
+                "twitch": "https://www.twitch.tv/FinniFinn747",
+                "charity": "Gaza Soup Kitchen"
             }
         ],
         "link": "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/2.Tournaments/MurphLeague-2026/T1-Roguemon/README.md",
