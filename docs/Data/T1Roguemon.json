@@ -45,8 +45,8 @@
             },
             {
                 "name": "Roflmaogamers",
-                "score": 0,
-                "seed": 0,
+                "score": 30,
+                "seed": 15,
                 "twitch": "https://www.twitch.tv/Roflmaogamers1",
                 "charity": "American Epilepsy Society"
             },
@@ -94,8 +94,8 @@
             },
             {
                 "name": "Mcplumber",
-                "score": 0,
-                "seed": 0,
+                "score": 21,
+                "seed": 18,
                 "twitch": "https://www.twitch.tv/mcplumber1",
                 "charity": "Magnolia Foundation"
             },
@@ -122,8 +122,8 @@
             },
             {
                 "name": "ZRBPlaysTV",
-                "score": 0,
-                "seed": 0,
+                "score": 18,
+                "seed": 60,
                 "twitch": "https://www.twitch.tv/ZRBPlaysTV",
                 "charity": "Childrens Hospital of LA"
             },
@@ -157,15 +157,15 @@
             },
             {
                 "name": "Just Dkamp",
-                "score": 0,
-                "seed": 0,
+                "score": 30,
+                "seed": 20,
                 "twitch": "https://www.twitch.tv/just_dkamp",
                 "charity": "Palestine Children's Relief Fund"
             },
             {
                 "name": "Ceedsy",
-                "score": 0,
-                "seed": 0,
+                "score": 43,
+                "seed": 35,
                 "twitch": "https://www.twitch.tv/Ceedsy",
                 "charity": "Seattle Children's"
             },
@@ -192,8 +192,8 @@
             },
             {
                 "name": "BigMurph",
-                "score": 0,
-                "seed": 0,
+                "score": 16,
+                "seed": 8,
                 "twitch": "https://www.twitch.tv/BigMurph619",
                 "charity": "Habitat for Humanity"
             },
