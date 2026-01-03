@@ -18,7 +18,7 @@
             {
                 "name": "Bremner",
                 "score": 0,
-                "seed": 0,
+                "seed": 14,
                 "twitch": "https://www.twitch.tv/Bremner_1",
                 "charity": "Doctor's Without borders"
             },
@@ -45,8 +45,8 @@
             },
             {
                 "name": "Roflmaogamers",
-                "score": 30,
-                "seed": 15,
+                "score": 37,
+                "seed": 30,
                 "twitch": "https://www.twitch.tv/Roflmaogamers1",
                 "charity": "American Epilepsy Society"
             },
@@ -66,8 +66,8 @@
             },
             {
                 "name": "TheBrokenPirates",
-                "score": 0,
-                "seed": 0,
+                "score": 12,
+                "seed": 7,
                 "twitch": "https://www.twitch.tv/TheBrokenPirates",
                 "charity": "Trevor Project"
             },
@@ -136,22 +136,22 @@
             },
             {
                 "name": "Samuwell",
-                "score": 52,
-                "seed": 23,
+                "score": 100,
+                "seed": 39,
                 "twitch": "https://www.twitch.tv/Samuwell1997",
                 "charity": "Cancer Research UK"
             },
             {
                 "name": "Reilnur",
-                "score": 0,
-                "seed": 0,
+                "score": 48,
+                "seed": 26,
                 "twitch": "https://www.twitch.tv/Reilnur",
                 "charity": "National Multiple Sclerosis Society"
             },
             {
                 "name": "CamMan52",
-                "score": 0,
-                "seed": 0,
+                "score": 35,
+                "seed": 15,
                 "twitch": "https://www.twitch.tv/CamMan52",
                 "charity": "Alzheimer's Association"
             },
@@ -185,8 +185,8 @@
             },
             {
                 "name": "IdleCrisp",
-                "score": 0,
-                "seed": 0,
+                "score": 22,
+                "seed": 7,
                 "twitch": "https://www.twitch.tv/IdleCrisp",
                 "charity": "Kidney Research UK"
             },
@@ -210,6 +210,13 @@
                 "seed": 0,
                 "twitch": "https://www.twitch.tv/FinniFinn747",
                 "charity": "Gaza Soup Kitchen"
+            },
+            {
+                "name": "mushrambo53",
+                "score": 0,
+                "seed": 0,
+                "twitch": "https://www.twitch.tv/mushrambo53",
+                "charity": "Breakthrough T1D"
             }
         ],
         "link": "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/2.Tournaments/MurphLeague-2026/T1-Roguemon/README.md",
