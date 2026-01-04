@@ -10,8 +10,8 @@
         "leaderboard": [
             {
                 "name": "Unrealpapa",
-                "score": 0,
-                "seed": 0,
+                "score": 9,
+                "seed": 30,
                 "twitch": "https://www.twitch.tv/Unrealpapa",
                 "charity": "Foodbankfornyc"
             },
@@ -59,8 +59,8 @@
             },
             {
                 "name": "Kizmo sen",
-                "score": 0,
-                "seed": 0,
+                "score": 36,
+                "seed": 6,
                 "twitch": "https://www.twitch.tv/Kizmo_sen",
                 "charity": "St Michael's Hospice"
             },
@@ -143,8 +143,8 @@
             },
             {
                 "name": "Reilnur",
-                "score": 48,
-                "seed": 26,
+                "score": 71,
+                "seed": 29,
                 "twitch": "https://www.twitch.tv/Reilnur",
                 "charity": "National Multiple Sclerosis Society"
             },
@@ -217,6 +217,13 @@
                 "seed": 0,
                 "twitch": "https://www.twitch.tv/mushrambo53",
                 "charity": "Breakthrough T1D"
+            },
+            {
+                "name": "Freestob",
+                "score": 0,
+                "seed": 0,
+                "twitch": "https://www.twitch.tv/Freestob",
+                "charity": "Protect Democracy"
             }
         ],
         "link": "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/2.Tournaments/MurphLeague-2026/T1-Roguemon/README.md",
