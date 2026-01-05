@@ -24,8 +24,8 @@
       },
       {
         "name": "AitchKay",
-        "score": 0,
-        "seed": 0,
+        "score": 13,
+        "seed": 61,
         "twitch": "https://www.twitch.tv/AitchKay720",
         "charity": "Transparent Hands"
       },
@@ -45,8 +45,8 @@
       },
       {
         "name": "Roflmaogamers",
-        "score": 37,
-        "seed": 30,
+        "score": 62,
+        "seed": 60,
         "twitch": "https://www.twitch.tv/Roflmaogamers1",
         "charity": "American Epilepsy Society"
       },
@@ -59,15 +59,15 @@
       },
       {
         "name": "Kizmo sen",
-        "score": 36,
-        "seed": 6,
+        "score": 53,
+        "seed": 45,
         "twitch": "https://www.twitch.tv/Kizmo_sen",
         "charity": "St Michael's Hospice"
       },
       {
         "name": "TheBrokenPirates",
-        "score": 12,
-        "seed": 7,
+        "score": 27,
+        "seed": 48,
         "twitch": "https://www.twitch.tv/TheBrokenPirates",
         "charity": "Trevor Project"
       },
@@ -122,8 +122,8 @@
       },
       {
         "name": "ZRBPlaysTV",
-        "score": 18,
-        "seed": 60,
+        "score": 24,
+        "seed": 106,
         "twitch": "https://www.twitch.tv/ZRBPlaysTV",
         "charity": "Childrens Hospital of LA"
       },
@@ -143,29 +143,29 @@
       },
       {
         "name": "Reilnur",
-        "score": 71,
-        "seed": 29,
+        "score": 111,
+        "seed": 50,
         "twitch": "https://www.twitch.tv/Reilnur",
         "charity": "National Multiple Sclerosis Society"
       },
       {
         "name": "CamMan52",
-        "score": 65,
+        "score": 66,
         "seed": 16,
         "twitch": "https://www.twitch.tv/CamMan52",
         "charity": "Alzheimer's Association"
       },
       {
         "name": "Just Dkamp",
-        "score": 30,
-        "seed": 20,
+        "score": 38,
+        "seed": 50,
         "twitch": "https://www.twitch.tv/just_dkamp",
         "charity": "Palestine Children's Relief Fund"
       },
       {
         "name": "Ceedsy",
-        "score": 43,
-        "seed": 35,
+        "score": 44,
+        "seed": 45,
         "twitch": "https://www.twitch.tv/Ceedsy",
         "charity": "Seattle Children's"
       },
@@ -185,8 +185,8 @@
       },
       {
         "name": "IdleCrisp",
-        "score": 22,
-        "seed": 7,
+        "score": 44,
+        "seed": 8,
         "twitch": "https://www.twitch.tv/IdleCrisp",
         "charity": "Kidney Research UK"
       },
@@ -205,9 +205,16 @@
         "charity": "Doctors Without Borders"
       },
       {
+        "name": "Bemidgegaming",
+        "score": 47,
+        "seed": 17,
+        "twitch": "https://www.twitch.tv/Bemidgegaming",
+        "charity": "Nepali Childrens Education Project"
+      },
+      {
         "name": "FinniFinn",
-        "score": 0,
-        "seed": 0,
+        "score": 40,
+        "seed": 17,
         "twitch": "https://www.twitch.tv/FinniFinn747",
         "charity": "Gaza Soup Kitchen"
       },
@@ -220,8 +227,8 @@
       },
       {
         "name": "Freestob",
-        "score": 0,
-        "seed": 0,
+        "score": 6,
+        "seed": 15,
         "twitch": "https://www.twitch.tv/Freestob",
         "charity": "Protect Democracy Project"
       }
