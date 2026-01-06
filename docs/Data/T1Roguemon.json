@@ -31,8 +31,8 @@
       },
       {
         "name": "Zogamizer",
-        "score": 0,
-        "seed": 0,
+        "score": 35,
+        "seed": 40,
         "twitch": "https://www.twitch.tv/Zogamizer",
         "charity": "Animal Legal Defense Fund"
       },
@@ -59,15 +59,15 @@
       },
       {
         "name": "Kizmo sen",
-        "score": 53,
-        "seed": 45,
+        "score": 80,
+        "seed": 53,
         "twitch": "https://www.twitch.tv/Kizmo_sen",
         "charity": "St Michael's Hospice"
       },
       {
         "name": "TheBrokenPirates",
         "score": 27,
-        "seed": 48,
+        "seed": 66,
         "twitch": "https://www.twitch.tv/TheBrokenPirates",
         "charity": "Trevor Project"
       },
@@ -101,8 +101,8 @@
       },
       {
         "name": "BennyTots",
-        "score": 0,
-        "seed": 0,
+        "score": 38,
+        "seed": 50,
         "twitch": "https://www.twitch.tv/BennyTots",
         "charity": "Habitat for Humanity"
       },
@@ -122,8 +122,8 @@
       },
       {
         "name": "ZRBPlaysTV",
-        "score": 24,
-        "seed": 106,
+        "score": 28,
+        "seed": 120,
         "twitch": "https://www.twitch.tv/ZRBPlaysTV",
         "charity": "Childrens Hospital of LA"
       },
@@ -150,22 +150,22 @@
       },
       {
         "name": "CamMan52",
-        "score": 66,
-        "seed": 16,
+        "score": 89,
+        "seed": 29,
         "twitch": "https://www.twitch.tv/CamMan52",
         "charity": "Alzheimer's Association"
       },
       {
         "name": "Just Dkamp",
-        "score": 38,
-        "seed": 50,
+        "score": 45,
+        "seed": 59,
         "twitch": "https://www.twitch.tv/just_dkamp",
         "charity": "Palestine Children's Relief Fund"
       },
       {
         "name": "Ceedsy",
-        "score": 44,
-        "seed": 45,
+        "score": 99,
+        "seed": 59,
         "twitch": "https://www.twitch.tv/Ceedsy",
         "charity": "Seattle Children's"
       },
@@ -192,8 +192,8 @@
       },
       {
         "name": "BigMurph",
-        "score": 19,
-        "seed": 23,
+        "score": 22,
+        "seed": 48,
         "twitch": "https://www.twitch.tv/BigMurph619",
         "charity": "Habitat for Humanity"
       },
@@ -213,8 +213,8 @@
       },
       {
         "name": "FinniFinn",
-        "score": 40,
-        "seed": 17,
+        "score": 41,
+        "seed": 37,
         "twitch": "https://www.twitch.tv/FinniFinn747",
         "charity": "Gaza Soup Kitchen"
       },
@@ -227,8 +227,8 @@
       },
       {
         "name": "Freestob",
-        "score": 6,
-        "seed": 15,
+        "score": 12,
+        "seed": 28,
         "twitch": "https://www.twitch.tv/Freestob",
         "charity": "Protect Democracy Project"
       }
