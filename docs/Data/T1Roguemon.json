@@ -31,8 +31,8 @@
       },
       {
         "name": "ZogaOak",
-        "score": 30,
-        "seed": 40,
+        "score": 72,
+        "seed": 94,
         "twitch": "https://www.twitch.tv/ZogaOak",
         "charity": "Animal Legal Defense Fund"
       },
@@ -232,14 +232,6 @@
         "twitch": "https://www.twitch.tv/Freestob",
         "charity": "Protect Democracy Project"
       },
-      {
-        "name": "Zogamizer",
-        "score": 72,
-        "seed": 94,
-        "twitch": "",
-        "charity": ""
-      }
-    ],
     "link": "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/2.Tournaments/MurphLeague-2026/T1-Roguemon/README.md",
     "Game": "ROGUEMON"
   }
