@@ -10,8 +10,8 @@
     "leaderboard": [
       {
         "name": "Unrealpapa",
-        "score": 9,
-        "seed": 30,
+        "score": 42,
+        "seed": 75,
         "twitch": "https://www.twitch.tv/Unrealpapa",
         "charity": "Foodbankfornyc"
       },
@@ -74,7 +74,7 @@
       {
         "name": "iAmSlammer",
         "score": 73,
-        "seed": 104,
+        "seed": 111,
         "twitch": "https://www.twitch.tv/iAmSlammer",
         "charity": "Active Minds "
       },
@@ -94,15 +94,15 @@
       },
       {
         "name": "Mcplumber",
-        "score": 46,
-        "seed": 27,
+        "score": 61,
+        "seed": 34,
         "twitch": "https://www.twitch.tv/mcplumber1",
         "charity": "Magnolia Foundation"
       },
       {
         "name": "BennyTots",
         "score": 67,
-        "seed": 110,
+        "seed": 120,
         "twitch": "https://www.twitch.tv/BennyTots",
         "charity": "Habitat for Humanity"
       },
@@ -206,15 +206,15 @@
       },
       {
         "name": "Bemidgegaming",
-        "score": 99,
-        "seed": 54,
+        "score": 110,
+        "seed": 68,
         "twitch": "https://www.twitch.tv/Bemidgegaming",
         "charity": "Nepali Childrens Education Project"
       },
       {
         "name": "FinniFinn",
-        "score": 72,
-        "seed": 89,
+        "score": 76,
+        "seed": 109,
         "twitch": "https://www.twitch.tv/FinniFinn747",
         "charity": "Gaza Soup Kitchen"
       },
