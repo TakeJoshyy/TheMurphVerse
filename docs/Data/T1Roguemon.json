@@ -74,7 +74,7 @@
       {
         "name": "iAmSlammer",
         "score": 73,
-        "seed": 111,
+        "seed": 120,
         "twitch": "https://www.twitch.tv/iAmSlammer",
         "charity": "Active Minds "
       },
@@ -109,7 +109,7 @@
       {
         "name": "ImTripleShuriken",
         "score": 98,
-        "seed": 70,
+        "seed": 98,
         "twitch": "https://www.twitch.tv/ImTripleShuriken",
         "charity": "Advocates for Trans Equality"
       },
@@ -234,8 +234,8 @@
       },
       {
         "name": "CaptDanieldore",
-        "score": 0,
-        "seed": 0,
+        "score": 9,
+        "seed": 30,
         "twitch": "https://www.twitch.tv/CaptDanieldore",
         "charity": "American Civil Liberties Union"
       }
