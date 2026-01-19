@@ -60,7 +60,34 @@ Higher placements can earn additional League Points.
 Updated at the conclusion of each tournament.
 |   Standing         | Creator            | Points |
 | :----------------: | :------------:     | :----: |
-| 1st                | BigMurph619        | 000    |
+| 1st                | Kizmo_Sen          | 20     |
+| 2nd                | CamMan52           | 18     |
+| 3rd                | Ceedsy             | 16     |
+| 4th                | Bemidgegaming      | 14     |
+| 5th                | IdleCrisp          | 12     |
+| 6th                | Reilnur            | 10     |
+| 7th                | Samuwell           | 8      |
+| 8th                | FinniFinn          | 6      |
+| 9th                | ZogaOak            | 5      |
+| 10th               | ImTripleShuriken   | 4      |
+| 11th               | Mcplumber1         | 3      |
+| 12th               | iAmSlammer         | 2      |
+| Tied - 13th        | Roflmaogamers1     | 1      |
+| Tied - 13th        | Mushrambo53        | 1      |
+| Tied - 13th        | BennyTots          | 1      |
+| Tied - 13th        | Predsfan98         | 1      |
+| Tied - 13th        | Freestob           | 1      |
+| Tied - 13th        | ThePorofessor      | 1      |
+| Tied - 13th        | Just_DKamp         | 1      |
+| Tied - 13th        | AitchKay           | 1      |
+| Tied - 13th        | Unrealpapa         | 1      |
+| Tied - 13th        | CaptDanieldore     | 1      |
+| Tied - 13th        | BatCam22           | 1      |
+| Tied - 13th        | OddCrow            | 1      |
+| Tied - 13th        | ZRBPlaysTV         | 1      |
+| Tied - 13th        | TheBrokenPirates   | 1      |
+| Tied - 13th        | KipoTerp           | 1      |
+| Tied - 13th        | Bremner            | 1      |
 
 
 Competitors' cumulative league points (after dropping lowest score and adding participation bonus if eligible) will decide seeding for the 12-person playoff tournament. 
