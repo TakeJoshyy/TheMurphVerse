@@ -219,9 +219,9 @@
         "charity": "Gaza Soup Kitchen"
       },
       {
-        "name": "mushrambo53",
-        "score": 0,
-        "seed": 0,
+        "name": "Mushrambo53",
+        "score": 69,
+        "seed": 101,
         "twitch": "https://www.twitch.tv/mushrambo53",
         "charity": "Breakthrough T1D"
       },
@@ -238,13 +238,6 @@
         "seed": 108,
         "twitch": "https://www.twitch.tv/CaptDanieldore",
         "charity": "American Civil Liberties Union"
-      },
-      {
-        "name": "Mushrambo53",
-        "score": 69,
-        "seed": 101,
-        "twitch": "",
-        "charity": ""
       }
     ],
     "link": "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/2.Tournaments/MurphLeague-2026/T1-Roguemon/README.md",
