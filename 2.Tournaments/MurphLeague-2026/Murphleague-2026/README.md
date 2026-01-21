@@ -88,6 +88,7 @@ Updated at the conclusion of each tournament.
 | Tied - 13th        | TheBrokenPirates   | 1      |
 | Tied - 13th        | KipoTerp           | 1      |
 | Tied - 13th        | Bremner            | 1      |
+| Tied - 13th        | DorktownPhantom    | 1      |
 
 
 Competitors' cumulative league points (after dropping lowest score and adding participation bonus if eligible) will decide seeding for the 12-person playoff tournament. 
