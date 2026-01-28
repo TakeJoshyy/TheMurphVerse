@@ -51,6 +51,7 @@
 |You may not use HM Moves with your primary Pokemon. You may use HM moves during double battles with your second Pokemon.|
 |-|
 |<div align="center">`Any pure Healing Moves` **(Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)** NOTE: Moves that heal by doing damage like Giga Drain are allowed. Pain Split is banned.</div>  |
+|<div align="center">Any combination of stockpile, spit up, and/or swallow is allowed.</div>  |
 |<div align="center">Spore and assist are banned.</div>  |
 |<div align="center">You are allowed to use a banned move through **Transform, metronome or after copying it using Mimic or Mirror Move.**</div>  |
 |<div align="center">Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc. cannot be used on bosses AFTER the Safari Zone/Bug Catching Pivot has been made (Gym Leaders and Pokemon League). EXCEPTION: Any Pokemon 440 BST or lower may use Setup moves on bosses.</div>  |
