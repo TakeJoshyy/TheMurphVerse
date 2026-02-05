@@ -56,7 +56,7 @@ All points are worth 1 point unless denoted by ().
 | Rescue Fuji               |
 | Erika (2)                 |
 | Level up pivot 2 levels   |
-| Cycling Road Full Clear   |
+| Cycling Road Full Clear * |
 | Koga Attempt              |
 | Koga Defeat (2)           |
 | Dojo                      |
@@ -74,12 +74,15 @@ All points are worth 1 point unless denoted by ().
 | Lance (2)                 |
 | Champ (3)                 |
 
+*Only eligible for Safari Pivot
+
  > 45 Points available 
 
  > Tiebreakers will be decided as follows: most wins, furthest run, most Safari visits, lowest BST Safari visit, coinflip.
 
 |        Bonus Points       |
 | :-----------------------: |
+| Any Pokemon that is 440 BST or lower will accumulate DOUBLE points. If the Pokemon is evolved into over 440 BST it will resume receiving standard points. |
 | Route Sprout - Share a clip of you encountering a Bellsprout prior to fighting Jimmy to earn 1 bonus point towards your total. Lab not included. |
 | Seeds of Spring - Find a Miracle Seed in the lab and earn 1 bonus point towards your total. |
 | Kōdō Collector - Whoever collects the most Incense (both lax and sea combined) in a single run will earn 2 bonus points. |
