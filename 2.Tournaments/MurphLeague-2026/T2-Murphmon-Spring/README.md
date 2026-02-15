@@ -14,7 +14,7 @@ This Season's Tune-Ups are:
 |         Tune-Ups          | Details |
 |-|-|
 | Spring Cleaning           | You may sell your entire bag to purchase 3 items from the mart once. (Post Brock only) |           
-| Migration                 | Re-Randomize the seed. May only be done after lab. Requires in game save. |
+| Migration                 | Re-Randomize the seed. May only be done after lab and may NOT be done in a dungeon. Requires in game save. |
 | Make it rain              | 20 attempts to hit a jackpot at the gaming corner (must be played at 100% speed). If you do, you may purchase 3 items from Celadon department store. Must be done before Erika. |
 | Flower Power              | Pure Power and Huge Power may be used pre-Safari. |
 | Allergy Pills             | You may purchase 5 vitamins for your Safari Pivot. |
