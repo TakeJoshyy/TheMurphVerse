@@ -9,23 +9,200 @@
     },
     "leaderboard": [
       {
-        "name": "",
-        "score": 0,
-        "seed": 0,
-        "twitch": ""
-      },
-      {
-        "name": "",
-        "score": 0,
-        "seed": 0,
-        "twitch": ""
-      },
-      {
         "name": "Samuwell",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Samuwell1997",
+        "charity": "Cancer Research UK"
+      },
+      {
+        "name": "ZogaOak",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/ZogaOak",
+        "charity": "Animal Legal Defense Fund"
+      },
+      {
+        "name": "Roflmaogamers",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Roflmaogamers1",
+        "charity": "American Epilepsy Society"
+      },
+      {
+        "name": "AitchKay",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/AitchKay720",
+        "charity": "Transparent Hands"
+      },
+      {
+        "name": "ImTripleShuriken",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/ImTripleShuriken",
+        "charity": "Advocates for Trans Equality"
+      },
+      {
+        "name": "BatCam22",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/BatCam22",
+        "charity": "Breakthrough T1D"
+      },
+      {
+        "name": "Bemidgegaming",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Bemidgegaming",
+        "charity": "Nepali Childrens Education Project"
+      },
+      {
+        "name": "Dorktown Phantom",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Dorktown_Phantom",
+        "charity": "JBJ Soul"
+      },
+      {
+        "name": "Freestob",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Freestob",
+        "charity": "Protect Democracy Project"
+      },
+      {
+        "name": "Mushrambo53",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/mushrambo53",
+        "charity": "Breakthrough T1D"
+      },
+      {
+        "name": "iAmSlammer",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/iAmSlammer",
+        "charity": "Active Minds"
+      },
+      {
+        "name": "ThePorofessor",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/ThePorofessor",
+        "charity": "Action Against Hunger"
+      },
+      {
+        "name": "BrokenNakama",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/BrokenNakama",
+        "charity": "Trevor Project"
+      },
+      {
+        "name": "ElectricSoilderPorygon2",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/ElectricSoilderPorygon2",
+        "charity": ""
+      },
+      {
+        "name": "Mcplumber",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/mcplumber1",
+        "charity": "Magnolia Foundation"
+      },
+      {
+        "name": "ZRBPlaysTV",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/ZRBPlaysTV",
+        "charity": "Childrens Hospital of LA"
+      },
+      {
+        "name": "CaptDanieldore",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/CaptDanieldore",
+        "charity": "American Civil Liberties Union"
+      },
+      {
+        "name": "KipoTerp",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/KipoTerp",
+        "charity": "Alaska Rural Veterinary Outreach"
+      },
+      {
+        "name": "FinniFinn",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/FinniFinn747",
+        "charity": "Gaza Soup Kitchen"
+      },
+      {
+        "name": "Reilnur",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Reilnur",
+        "charity": "National Multiple Sclerosis Society"
+      },
+      {
+        "name": "CamMan52",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/CamMan52",
+        "charity": "Alzheimer's Association"
+      },
+      {
+        "name": "BennyTots",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/BennyTots",
+        "charity": "Habitat for Humanity"
+      },
+      {
+        "name": "Echoes Of Light",
         "score": 0,
         "seed": 0,
         "twitch": "",
         "charity": ""
+      },
+      {
+        "name": "Kizmo sen",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Kizmo_sen",
+        "charity": "St Michael's Hospice"
+      },
+      {
+        "name": "Ceedsy",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Ceedsy",
+        "charity": "Seattle Children's"
+      },
+      {
+        "name": "Just_Dkamp",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/just_dkamp",
+        "charity": "Palestine Children's Relief Fund"
+      },
+      {
+        "name": "Unrealpapa",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Unrealpapa",
+        "charity": "Foodbankfornyc"
+      },
+      {
+        "name": "OddCrow",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/OddCrow",
+        "charity": "Doctors Without Borders"
       }
     ],
     "link": "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/2.Tournaments/MurphLeague-2026/T2-Murphmon-Spring/README.md",
