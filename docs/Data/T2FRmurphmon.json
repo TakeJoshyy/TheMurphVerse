@@ -203,6 +203,13 @@
         "seed": 0,
         "twitch": "https://www.twitch.tv/OddCrow",
         "charity": "Doctors Without Borders"
+      },
+      {
+        "name": "BigMurph619",
+        "score": 13,
+        "seed": 18,
+        "twitch": "",
+        "charity": ""
       }
     ],
     "link": "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/2.Tournaments/MurphLeague-2026/T2-Murphmon-Spring/README.md",
