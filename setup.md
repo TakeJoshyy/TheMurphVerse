@@ -52,7 +52,7 @@ Those following from section one unzip into "C:\Users\"{user}"\Documents\Emulato
 
 Both FireRed and Emerald have Natdex options, Natdex means that there are over 1000 pokemon compared to what the normal base game has.
 
-If you choose the normal route you will need to download [this](https://github.com/something-smart/ironmon-randomizer) for later as this contains a .jar you will need.
+If you choose to play normal, inside the bundle you will find the .jar to use. Named "ironmon_randomizer.jar"
 
 > [!TIP]
 > Normal option means that you will be use the .ips patch.
@@ -81,7 +81,7 @@ The patching site can be [found here](https://www.marcrobledo.com/RomPatcher.js/
 The finale step, open the tracker settings, click "New Runs" go to "Profiles" then click "Add New". Using the "..." to navigate;
 
 - The top - you will provided with your patched rom.
-- The middle - Jar will either be 1) The Natdex .jar found at "\Tracker\extensions\natdex" 2) The ironmon randomizer jar you downloaded [from here](#normal-or-natdex)
+- The middle - Jar will either be 1) The Natdex .jar found at "\Tracker\extensions\natdex" 2) The ironmon randomizer found in the bundle
 - The bottom - will be found in the bundle folder you got from [here](#bundle)
 
 ---
