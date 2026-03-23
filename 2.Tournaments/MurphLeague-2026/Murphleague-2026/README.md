@@ -60,36 +60,38 @@ Higher placements can earn additional League Points.
 Updated at the conclusion of each tournament.
 |   Standing         | Creator            | Points |
 | :----------------: | :------------:     | :----: |
-| 1st                | Kizmo_Sen          | 20     |
-| 2nd                | CamMan52           | 18     |
-| 3rd                | Ceedsy             | 16     |
-| 4th                | Bemidgegaming      | 14     |
-| 5th                | IdleCrisp          | 12     |
-| 6th                | Reilnur            | 10     |
-| 7th                | Samuwell           | 8      |
-| 8th                | FinniFinn          | 6      |
-| 9th                | ZogaOak            | 5      |
-| 10th               | ImTripleShuriken   | 4      |
-| 11th               | Mcplumber1         | 3      |
-| 12th               | iAmSlammer         | 2      |
-| Tied - 13th        | Roflmaogamers1     | 1      |
-| Tied - 13th        | Mushrambo53        | 1      |
-| Tied - 13th        | BennyTots          | 1      |
-| Tied - 13th        | Predsfan98         | 1      |
-| Tied - 13th        | Freestob           | 1      |
-| Tied - 13th        | ThePorofessor      | 1      |
-| Tied - 13th        | Just_DKamp         | 1      |
-| Tied - 13th        | AitchKay           | 1      |
-| Tied - 13th        | Unrealpapa         | 1      |
-| Tied - 13th        | CaptDanieldore     | 1      |
-| Tied - 13th        | BatCam22           | 1      |
-| Tied - 13th        | OddCrow            | 1      |
-| Tied - 13th        | ZRBPlaysTV         | 1      |
-| Tied - 13th        | TheBrokenPirates   | 1      |
-| Tied - 13th        | KipoTerp           | 1      |
-| Tied - 13th        | Bremner            | 1      |
-| Tied - 13th        | DorktownPhantom    | 1      |
+| 1st                | ZogaOak*            | 25      |
+| 2nd                | CamMan52*           | 24     |
+| 3rd                | Kizmo_Sen*          | 23     |
+| Tied - 4th         | Bemidgegaming*      | 22     |
+| Tied - 4th         | Reilnur*            | 22     |
+| 6th                | CaptDanieldore*     | 19      |
+| Tied - 7th         | Ceedsy*             | 17     |
+| Tied - 7th         | BatCam22*           | 17      |
+| 9th                | iAmSlammer*         | 16      |
+| 10th               | IdleCrisp           | 12     |
+| 11th               | Roflmaogamers1*     | 11      |
+| 12th               | Samuwell*           | 9      |
+| 13th               | FinniFinn*          | 7      |
+| 14th               | AitchKay*           | 6      |
+| Tied - 15th        | ImTripleShuriken*   | 5      |
+| Tied - 15th        | ThePorofessor*      | 5      |
+| 17th               | Mcplumber1*         | 4      |
+| 18th               | BennyTots*          | 3      |
+| Tied - 19th        | Freestob*           | 2      |
+| Tied - 19th        | Mushrambo53*        | 2      |
+| Tied - 19th        | Just_DKamp*         | 2      |
+| Tied - 19th        | Unrealpapa*         | 2      |
+| Tied - 19th        | OddCrow*            | 2      |
+| Tied - 19th        | ZRBPlaysTV*         | 2      |
+| Tied - 19th        | KipoTerp*           | 2      |
+| Tied - 19th        | DorktownPhantom*    | 2      |
+| Tied - 27th        | TheBrokenPirates   | 1      |
+| Tied - 27th        | Bremner            | 1      |
+| Tied - 27th        | Roxee94             | 1      |
+| Tied - 27th        | Predsfan98         | 1      |
 
+"*" denotes eligible for 5 bonus points for participating in all 6 regular season tournaments.
 
 Competitors' cumulative league points (after dropping lowest score and adding participation bonus if eligible) will decide seeding for the 12-person playoff tournament. 
 
