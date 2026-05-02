@@ -1,7 +1,13 @@
 [
-    {
-    "card": {"Title":"T3 Roguemon A2", "DateStart":"2026-05-01", "DateEnd":"2026-05-17", "GameMode":"Roguemon", "Intro":"Third tournament of 2026!"},
-"leaderboard": [
+  {
+    "card": {
+      "Title": "T3 Roguemon A2",
+      "DateStart": "2026-05-01",
+      "DateEnd": "2026-05-17",
+      "GameMode": "Roguemon",
+      "Intro": "Third tournament of 2026!"
+    },
+    "leaderboard": [
       {
         "name": "Samuwell",
         "score": 0,
@@ -39,8 +45,8 @@
       },
       {
         "name": "BatCam22",
-        "score": 0,
-        "seed": 0,
+        "score": 14,
+        "seed": 12,
         "twitch": "https://www.twitch.tv/BatCam22",
         "charity": "Breakthrough T1D"
       },
@@ -213,9 +219,7 @@
         "charity": "soQuiet"
       }
     ],
-
-    "link": "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/2.Tournaments/MurphLeague-2026/T3-Roguemon/README.md", 
-    "Game":"ROGUEMON"
-
-    }
+    "link": "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/2.Tournaments/MurphLeague-2026/T3-Roguemon/README.md",
+    "Game": "ROGUEMON"
+  }
 ]
