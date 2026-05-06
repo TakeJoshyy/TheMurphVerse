@@ -217,6 +217,13 @@
         "seed": 20,
         "twitch": "https://www.twitch.tv/JeraMazin",
         "charity": "soQuiet"
+      },
+      {
+        "name": "BigMurph",
+        "score": 30,
+        "seed": 33,
+        "twitch": "",
+        "charity": ""
       }
     ],
     "link": "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/2.Tournaments/MurphLeague-2026/T3-Roguemon/README.md",
