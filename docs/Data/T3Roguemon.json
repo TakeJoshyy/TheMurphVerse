@@ -177,13 +177,6 @@
         "charity": "Seattle Children's"
       },
       {
-        "name": "Just_Dkamp",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/just_dkamp",
-        "charity": "Palestine Children's Relief Fund"
-      },
-      {
         "name": "Unrealpapa",
         "score": 70,
         "seed": 120,
@@ -196,13 +189,6 @@
         "seed": 59,
         "twitch": "https://www.twitch.tv/OddCrow",
         "charity": "Doctors Without Borders"
-      },
-      {
-        "name": "BigMurph619",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/bigmurph619",
-        "charity": "Habitat for Humanity"
       },
       {
         "name": "Roxee94",
@@ -222,15 +208,15 @@
         "name": "BigMurph",
         "score": 30,
         "seed": 33,
-        "twitch": "",
-        "charity": ""
+        "twitch": "https://www.twitch.tv/bigmurph619",
+        "charity": "Habitat for Humanity"
       },
       {
         "name": "Just Dkamp",
         "score": 61,
         "seed": 97,
-        "twitch": "",
-        "charity": ""
+        "twitch": "https://www.twitch.tv/just_dkamp",
+        "charity": "Palestine Children's Relief Fund"
       }
     ],
     "link": "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/2.Tournaments/MurphLeague-2026/T3-Roguemon/README.md",
