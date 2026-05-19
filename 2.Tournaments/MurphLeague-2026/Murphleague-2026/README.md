@@ -60,36 +60,38 @@ Higher placements can earn additional League Points.
 Updated at the conclusion of each tournament.
 |   Standing         | Creator            | Points |
 | :----------------: | :------------:     | :----: |
-| 1st                | ZogaOak*            | 25      |
-| 2nd                | CamMan52*           | 24     |
-| 3rd                | Kizmo_Sen*          | 23     |
-| Tied - 4th         | Bemidgegaming*      | 22     |
-| Tied - 4th         | Reilnur*            | 22     |
-| 6th                | CaptDanieldore*     | 19      |
-| Tied - 7th         | Ceedsy*             | 17     |
-| Tied - 7th         | BatCam22*           | 17      |
-| 9th                | iAmSlammer*         | 16      |
-| 10th               | IdleCrisp           | 12     |
-| 11th               | Roflmaogamers1*     | 11      |
-| 12th               | Samuwell*           | 9      |
-| 13th               | FinniFinn*          | 7      |
-| 14th               | AitchKay*           | 6      |
-| Tied - 15th        | ImTripleShuriken*   | 5      |
-| Tied - 15th        | ThePorofessor*      | 5      |
-| 17th               | Mcplumber1*         | 4      |
-| 18th               | BennyTots*          | 3      |
-| Tied - 19th        | Freestob*           | 2      |
-| Tied - 19th        | Mushrambo53*        | 2      |
-| Tied - 19th        | Just_DKamp*         | 2      |
-| Tied - 19th        | Unrealpapa*         | 2      |
-| Tied - 19th        | OddCrow*            | 2      |
-| Tied - 19th        | ZRBPlaysTV*         | 2      |
-| Tied - 19th        | KipoTerp*           | 2      |
-| Tied - 19th        | DorktownPhantom*    | 2      |
-| Tied - 27th        | TheBrokenPirates   | 1      |
-| Tied - 27th        | Bremner            | 1      |
-| Tied - 27th        | Roxee94             | 1      |
-| Tied - 27th        | Predsfan98         | 1      |
+| 1st                | ZogaOak*            | 45      | 
+| 2nd                | CamMan52*           | 29     | 
+| 3rd        | BatCam22*           | 27      |
+| 4th        | Bemidgegaming*      | 26     |
+| 5th                | Kizmo_Sen*          | 24     | 
+| T-6th  (coinflip)       | Roflmaogamers1*     | 23      |
+| T-6th  (coinflip)       | Reilnur*            | 23     | 
+| 8th              | BennyTots*          | 21      |
+| T-9th   (Wins tiebreak via highest finish, 2nd)  | CaptDanieldore     | 19      |
+| T-9th    | ThePorofessor*      | 19      |
+| T-11th (Wins tiebreak via highest finish, 3rd)   | Ceedsy             | 17     |
+| T-11th    (Wins tiebreak via highest finish, 4th)   | iAmSlammer*         | 17      |
+| T-11th               | Samuwell*           | 17      |
+| 14th        | JeraMazin         | 16     |
+| 15th              | IdleCrisp           | 12     |
+| T-16th        | Just_DKamp*         | 8      |
+| T-16th               | FinniFinn*          | 8      |
+| T-18th               | AitchKay*           | 7      |
+| T-18th        | ImTripleShuriken*   | 7      |
+| T-20th        | OddCrow*            | 5      | 
+| T-20th               | Mcplumber1*         | 5      |
+| T-22nd        | Mushrambo53*        | 3      |
+| T-22nd        | Unrealpapa*         | 3      |
+| T-22nd        | ZRBPlaysTV*         | 3      | 
+| T-22nd        | KipoTerp*           | 3      | 
+| T-26th        | Freestob           | 2      |
+| T-26th        | DorktownPhantom    | 2      |
+| T-26th        | Roxee94             | 2      | 
+| T-29th        | TheBrokenPirates   | 1      |
+| T-29th        | Bremner            | 1      |
+| T-29th        | Predsfan98         | 1      |
+
 
 "*" denotes eligible for 5 bonus points for participating in all 6 regular season tournaments.
 
