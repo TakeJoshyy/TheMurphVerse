@@ -58,13 +58,6 @@
         "charity": "Nepali Childrens Education Project"
       },
       {
-        "name": "Mushrambo53",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/mushrambo53",
-        "charity": "Breakthrough T1D"
-      },
-      {
         "name": "iAmSlammer",
         "score": 0,
         "seed": 0,
@@ -77,13 +70,6 @@
         "seed": 0,
         "twitch": "https://www.twitch.tv/ThePorofessor",
         "charity": "Action Against Hunger"
-      },
-      {
-        "name": "BrokenNakama",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/brokensnakama",
-        "charity": "Trevor Project"
       },
       {
         "name": "ElectricSoldierPorygon2",
@@ -100,32 +86,11 @@
         "charity": "Magnolia Foundation"
       },
       {
-        "name": "ZRBPlaysTV",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/ZRBPlaysTV",
-        "charity": "Childrens Hospital of LA"
-      },
-      {
         "name": "CaptDanieldore",
         "score": 0,
         "seed": 0,
         "twitch": "https://www.twitch.tv/CaptDanieldore",
         "charity": "American Civil Liberties Union"
-      },
-      {
-        "name": "KipoTerp",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/KipoTerp",
-        "charity": "Alaska Rural Veterinary Outreach"
-      },
-      {
-        "name": "FinniFinn",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/FinniFinn747",
-        "charity": "Gaza Soup Kitchen"
       },
       {
         "name": "Reilnur",
@@ -149,46 +114,11 @@
         "charity": "Habitat for Humanity"
       },
       {
-        "name": "Kizmo sen",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/Kizmo_sen",
-        "charity": "St Michael's Hospice"
-      },
-      {
-        "name": "Ceedsy",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/Ceedsy",
-        "charity": "Seattle Children's"
-      },
-      {
         "name": "Unrealpapa",
         "score": 0,
         "seed": 0,
         "twitch": "https://www.twitch.tv/Unrealpapa",
         "charity": "Foodbankfornyc"
-      },
-      {
-        "name": "OddCrow",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/OddCrow",
-        "charity": "Doctors Without Borders"
-      },
-      {
-        "name": "Roxee94",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/roxee94",
-        "charity": "Trans Life Line"
-      },
-      {
-        "name": "JeraMazin",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/JeraMazin",
-        "charity": "soQuiet"
       },
       {
         "name": "BigMurph",
@@ -198,18 +128,11 @@
         "charity": "Habitat for Humanity"
       },
       {
-        "name": "Just Dkamp",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/just_dkamp",
-        "charity": "Palestine Children's Relief Fund"
-      },
-      {
         "name": "WPBeartic",
         "score": 0,
         "seed": 0,
-        "twitch": "",
-        "charity": ""
+        "twitch": "https://www.twitch.tv/WPBeartic",
+        "charity": "Friends of the Mississippi River"
       }
     ],
     "link": "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/2.Tournaments/MurphLeague-2026/T4-Murphmon-Summer/README.md",
