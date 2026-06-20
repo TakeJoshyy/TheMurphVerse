@@ -58,20 +58,6 @@
         "charity": "Nepali Childrens Education Project"
       },
       {
-        "name": "Dorktown Phantom",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/Dorktown_Phantom",
-        "charity": "JBJ Soul"
-      },
-      {
-        "name": "Freestob",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/Freestob",
-        "charity": "Protect Democracy Project"
-      },
-      {
         "name": "Mushrambo53",
         "score": 21,
         "seed": 30,
@@ -91,20 +77,6 @@
         "seed": 103,
         "twitch": "https://www.twitch.tv/ThePorofessor",
         "charity": "Action Against Hunger"
-      },
-      {
-        "name": "BrokenNakama",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/brokensnakama",
-        "charity": "Trevor Project"
-      },
-      {
-        "name": "ElectricSoldierPorygon2",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/electricsoldierporygon2",
-        "charity": "Movember"
       },
       {
         "name": "Mcplumber",
@@ -168,13 +140,6 @@
         "seed": 40,
         "twitch": "https://www.twitch.tv/Kizmo_sen",
         "charity": "St Michael's Hospice"
-      },
-      {
-        "name": "Ceedsy",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/Ceedsy",
-        "charity": "Seattle Children's"
       },
       {
         "name": "Unrealpapa",
