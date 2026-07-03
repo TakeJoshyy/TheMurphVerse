@@ -41,8 +41,8 @@ All points are worth 1 point unless denoted by ().
 | :-----------------------------------------------: |
 | Rival |
 | Petalburg Woods Aqua Grunt                        |
-| Save Birb |
 | Roxanne (2)                                       |
+| Save Birb |
 | Rustboro Rival (Optional)                         |
 | Soda Pop Shack Full Clear (Optional)              |
 | Brawley (2)                                       |
