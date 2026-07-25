@@ -93,13 +93,6 @@
         "charity": "Childrens Hospital of LA"
       },
       {
-        "name": "CaptDanieldore",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/CaptDanieldore",
-        "charity": "American Civil Liberties Union"
-      },
-      {
         "name": "KipoTerp",
         "score": 6,
         "seed": 6,
@@ -170,8 +163,8 @@
         "charity": "soQuiet"
       },
       {
-        "name": "BigMurph",
-        "score": 30,
+        "name": "BigMurph619",
+        "score": -30,
         "seed": 33,
         "twitch": "https://www.twitch.tv/bigmurph619",
         "charity": "Habitat for Humanity"

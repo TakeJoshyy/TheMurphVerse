@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MurphVerse 2026 - Overall Standings</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e, #16213e);
+            color: #e0e0e0;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #cdcfdd;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            text-align: center;
+            color: #aaa;
+            margin-bottom: 30px;
+        }
+        table {
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+            border-collapse: collapse;
+            background: #0f1629;
+            box-shadow: 0 10px 30px rgba(0, 255, 200, 0.1);
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        th, td {
+            padding: 14px 12px;
+            text-align: left;
+            border-bottom: 1px solid #334455;
+        }
+        th {
+            background: #840032;
+            color: #fff;
+            font-weight: bold;
+        }
+        tr:hover {
+            background: #1e2a4d;
+        }
+        .rank {
+            font-weight: bold;
+            width: 60px;
+        }
+        .name a {
+            color: #cdcfdd;
+            text-decoration: none;
+        }
+        .name a:hover {
+            text-decoration: underline;
+        }
+        .points {
+            font-weight: bold;
+            color: #cdcfdd;
+            text-align: center;
+        }
+        .tournament-points {
+            text-align: center;
+            font-size: 0.9em;
+            color: #88ddcc;
+        }
+        .loading {
+            text-align: center;
+            padding: 40px;
+            font-size: 1.2em;
+            color: #840032;
+        }
+        .header {
+            max-width: 1200px;
+            margin: 0 auto 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .bonus {
+            color: #ffd700;
+            font-size: 0.85em;
+        }
+        .negative {
+            color: #ff6666;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div>
+            <h1>MurphVerse 2026 Overall Standings</h1>
+            <p class="subtitle">Best 3 out of 4 tournaments • +5 bonus for playing all 4</p>
+        </div>
+    </div>
+
+    <div id="loading" class="loading">Loading tournament data...</div>
+    <table id="standingsTable" style="display: none;">
+        <thead>
+            <tr>
+                <th class="rank">Rank</th>
+                <th>Player</th>
+                <th class="points">Total Points</th>
+                <th>T1</th>
+                <th>T2</th>
+                <th>T3</th>
+                <th>T4</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+    </table>
+
+    <script>
+        const urls = [
+            "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/docs/Data/T1Roguemon.json",
+            "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/docs/Data/T2FRmurphmon.json",
+            "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/docs/Data/T3Roguemon.json",
+            "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/docs/Data/T4murphmon2026.json"
+        ];
+
+        const pointValues = [20, 18, 16, 14, 12, 10, 8, 6, 5, 4, 3, 2, 1];
+
+        function normalizeName(name) {
+            if (!name) return "";
+            return name.trim()
+                .replace(/Just Dkamp/i, "Just Dkamp")
+                .replace(/BigMurph619?/i, "BigMurph619");
+        }
+
+        function getPoints(rank) {
+            if (rank < 1) return 0;
+            if (rank <= 13) return pointValues[rank - 1];
+            return 1;
+        }
+
+        async function fetchJson(url) {
+            try {
+                const res = await fetch(url);
+                if (!res.ok) throw new Error(`HTTP ${res.status}`);
+                const data = await res.json();
+                return data[0]?.leaderboard || [];
+            } catch (e) {
+                console.error("Error fetching", url, e);
+                return [];
+            }
+        }
+
+        async function fetchAllData() {
+            const loadingEl = document.getElementById("loading");
+            const tableEl = document.getElementById("standingsTable");
+            loadingEl.style.display = "block";
+            tableEl.style.display = "none";
+
+            const allLeaderboards = await Promise.all(urls.map(fetchJson));
+
+            const playerData = new Map(); // key: normalized name
+
+            allLeaderboards.forEach((leaderboard, tourneyIndex) => {
+                // Sort by score descending (handles negative scores correctly)
+                const sorted = [...leaderboard].sort((a, b) => (b.score || 0) - (a.score || 0));
+
+                sorted.forEach((entry, idx) => {
+                    const rawName = entry.name || "Unknown";
+                    const normName = normalizeName(rawName);
+                    const rank = idx + 1;
+                    const points = getPoints(rank);
+                    const twitch = entry.twitch || "#";
+
+                    if (!playerData.has(normName)) {
+                        playerData.set(normName, {
+                            displayName: rawName,
+                            total: 0,
+                            tPoints: [0, 0, 0, 0],
+                            twitch: twitch,
+                            tournamentsPlayed: new Set()
+                        });
+                    }
+
+                    const player = playerData.get(normName);
+                    player.tPoints[tourneyIndex] = points;
+                    player.tournamentsPlayed.add(tourneyIndex);
+
+                    // Prefer most recent Twitch link
+                    if (twitch && twitch !== "#") {
+                        player.twitch = twitch;
+                    }
+
+                    // Use the most recent display name variation
+                    if (rawName && rawName !== "Unknown") {
+                        player.displayName = rawName;
+                    }
+                });
+            });
+
+            // Calculate totals with correct "Best 3 out of 4" logic
+            playerData.forEach(player => {
+                const scores = player.tPoints;
+                const playedCount = player.tournamentsPlayed.size;
+
+                if (playedCount >= 3) {
+                    // Best 3: sort and drop the lowest score (including zeros)
+                    const sortedScores = [...scores].sort((a, b) => a - b);
+                    player.total = sortedScores.slice(1).reduce((sum, val) => sum + val, 0);
+                } else {
+                    player.total = scores.reduce((sum, val) => sum + val, 0);
+                }
+
+                // +5 bonus for playing all 4
+                if (playedCount === 4) {
+                    player.total += 5;
+                }
+            });
+
+            // Convert to array and sort by total points (descending)
+            let standings = Array.from(playerData.values());
+            standings.sort((a, b) => b.total - a.total);
+
+            // Render table
+            const tbody = document.getElementById("tableBody");
+            tbody.innerHTML = "";
+
+            standings.forEach((player, index) => {
+                const hasBonus = player.tournamentsPlayed.size === 4;
+                const row = document.createElement("tr");
+
+                let nameHTML = player.displayName;
+                if (player.twitch && player.twitch !== "#") {
+                    nameHTML = `<a href="${player.twitch}" target="_blank" rel="noopener">${player.displayName}</a>`;
+                }
+
+                const totalHTML = hasBonus 
+                    ? `${player.total} <span class="bonus">(+5)</span>` 
+                    : player.total;
+
+                row.innerHTML = `
+                    <td class="rank">${index + 1}</td>
+                    <td class="name">${nameHTML}</td>
+                    <td class="points">${totalHTML}</td>
+                    <td class="tournament-points">${player.tPoints[0] || '-'}</td>
+                    <td class="tournament-points">${player.tPoints[1] || '-'}</td>
+                    <td class="tournament-points">${player.tPoints[2] || '-'}</td>
+                    <td class="tournament-points">${player.tPoints[3] || '-'}</td>
+                `;
+                tbody.appendChild(row);
+            });
+
+            loadingEl.style.display = "none";
+            tableEl.style.display = "table";
+        }
+
+        // Auto load
+        window.onload = fetchAllData;
+    </script>
+</body>
+</html>

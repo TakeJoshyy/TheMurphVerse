@@ -93,13 +93,6 @@
         "charity": "Action Against Hunger"
       },
       {
-        "name": "BrokenNakama",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/brokensnakama",
-        "charity": "Trevor Project"
-      },
-      {
         "name": "ElectricSoldierPorygon2",
         "score": 31,
         "seed": 31,
@@ -177,7 +170,7 @@
         "charity": "Seattle Children's"
       },
       {
-        "name": "Just_Dkamp",
+        "name": "Just Dkamp",
         "score": 23,
         "seed": 99,
         "twitch": "https://www.twitch.tv/just_dkamp",
@@ -199,7 +192,7 @@
       },
       {
         "name": "BigMurph619",
-        "score": 22,
+        "score": -22,
         "seed": 26,
         "twitch": "https://www.twitch.tv/bigmurph619",
         "charity": "Habitat for Humanity"
