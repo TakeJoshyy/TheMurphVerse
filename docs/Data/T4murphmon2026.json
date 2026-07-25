@@ -9,13 +9,6 @@
     },
     "leaderboard": [
       {
-        "name": "Samuwell",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/Samuwell1997",
-        "charity": "Cancer Research UK"
-      },
-      {
         "name": "ZogaOak",
         "score": 110,
         "seed": 36,
@@ -72,13 +65,6 @@
         "charity": "Action Against Hunger"
       },
       {
-        "name": "ElectricSoldierPorygon2",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/electricsoldierporygon2",
-        "charity": "Movember"
-      },
-      {
         "name": "Mcplumber",
         "score": 64,
         "seed": 88,
@@ -115,17 +101,10 @@
       },
       {
         "name": "Unrealpapa",
-        "score": 0,
-        "seed": 0,
+        "score": 25,
+        "seed": 100,
         "twitch": "https://www.twitch.tv/Unrealpapa",
         "charity": "Foodbankfornyc"
-      },
-      {
-        "name": "BigMurph",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/bigmurph619",
-        "charity": "Habitat for Humanity"
       },
       {
         "name": "WPBeartic",
@@ -167,7 +146,7 @@
         "score": 40,
         "seed": 74,
         "twitch": "",
-        "charity": ""
+        "charity": "https://www.twitch.tv/VegemiteAsh"
       }
     ],
     "link": "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/2.Tournaments/MurphLeague-2026/T4-Murphmon-Summer/README.md",
