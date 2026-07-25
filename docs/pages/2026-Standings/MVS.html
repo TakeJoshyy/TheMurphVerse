@@ -66,6 +66,14 @@
             font-size: 0.9em;
             color: #88ddcc;
         }
+        .dropped {
+            background-color: #c42b2b !important;
+            color: #ffffff !important;
+            font-weight: bold;
+        }
+        .negative {
+            color: #ff6666;
+        }
         .loading {
             text-align: center;
             padding: 40px;
@@ -82,9 +90,6 @@
         .bonus {
             color: #ffd700;
             font-size: 0.85em;
-        }
-        .negative {
-            color: #ff6666;
         }
     </style>
 </head>
@@ -124,9 +129,11 @@
 
         function normalizeName(name) {
             if (!name) return "";
-            return name.trim()
-                .replace(/Just Dkamp/i, "Just Dkamp")
-                .replace(/BigMurph619?/i, "BigMurph619");
+            let n = name.trim();
+            n = n.replace(/^BigMurph619?$/i, "BigMurph");
+            n = n.replace(/^BigMurph$/i, "BigMurph");
+            n = n.replace(/Just Dkamp/i, "Just Dkamp");
+            return n;
         }
 
         function getPoints(rank) {
@@ -158,14 +165,17 @@
             const playerData = new Map(); // key: normalized name
 
             allLeaderboards.forEach((leaderboard, tourneyIndex) => {
-                // Sort by score descending (handles negative scores correctly)
                 const sorted = [...leaderboard].sort((a, b) => (b.score || 0) - (a.score || 0));
 
                 sorted.forEach((entry, idx) => {
                     const rawName = entry.name || "Unknown";
                     const normName = normalizeName(rawName);
                     const rank = idx + 1;
-                    const points = getPoints(rank);
+                    let points = getPoints(rank);
+
+                    // === TREAT NEGATIVE SCORES AS -1 ===
+                    if (points <= 0) points = -1;
+
                     const twitch = entry.twitch || "#";
 
                     if (!playerData.has(normName)) {
@@ -182,42 +192,32 @@
                     player.tPoints[tourneyIndex] = points;
                     player.tournamentsPlayed.add(tourneyIndex);
 
-                    // Prefer most recent Twitch link
-                    if (twitch && twitch !== "#") {
-                        player.twitch = twitch;
-                    }
-
-                    // Use the most recent display name variation
-                    if (rawName && rawName !== "Unknown") {
-                        player.displayName = rawName;
-                    }
+                    // Prefer most recent display name + twitch
+                    if (twitch && twitch !== "#") player.twitch = twitch;
+                    if (rawName && rawName !== "Unknown") player.displayName = rawName;
                 });
             });
 
-            // Calculate totals with correct "Best 3 out of 4" logic
+            // Calculate totals with Best 3 out of 4 + dropped score tracking
             playerData.forEach(player => {
                 const scores = player.tPoints;
                 const playedCount = player.tournamentsPlayed.size;
 
                 if (playedCount >= 3) {
-                    // Best 3: sort and drop the lowest score (including zeros)
                     const sortedScores = [...scores].sort((a, b) => a - b);
                     player.total = sortedScores.slice(1).reduce((sum, val) => sum + val, 0);
+                    player.droppedIndex = scores.indexOf(sortedScores[0]); // lowest score dropped
                 } else {
                     player.total = scores.reduce((sum, val) => sum + val, 0);
+                    player.droppedIndex = -1;
                 }
 
-                // +5 bonus for playing all 4
-                if (playedCount === 4) {
-                    player.total += 5;
-                }
+                if (playedCount === 4) player.total += 5;
             });
 
-            // Convert to array and sort by total points (descending)
             let standings = Array.from(playerData.values());
             standings.sort((a, b) => b.total - a.total);
 
-            // Render table
             const tbody = document.getElementById("tableBody");
             tbody.innerHTML = "";
 
@@ -234,15 +234,19 @@
                     ? `${player.total} <span class="bonus">(+5)</span>` 
                     : player.total;
 
-                row.innerHTML = `
-                    <td class="rank">${index + 1}</td>
-                    <td class="name">${nameHTML}</td>
-                    <td class="points">${totalHTML}</td>
-                    <td class="tournament-points">${player.tPoints[0] || '-'}</td>
-                    <td class="tournament-points">${player.tPoints[1] || '-'}</td>
-                    <td class="tournament-points">${player.tPoints[2] || '-'}</td>
-                    <td class="tournament-points">${player.tPoints[3] || '-'}</td>
-                `;
+                let cells = [
+                    `<td class="rank">${index + 1}</td>`,
+                    `<td class="name">${nameHTML}</td>`,
+                    `<td class="points">${totalHTML}</td>`
+                ];
+
+                player.tPoints.forEach((pts, i) => {
+                    let className = "tournament-points";
+                    if (player.droppedIndex === i) className += " dropped";
+                    cells.push(`<td class="${className}">${pts}</td>`);
+                });
+
+                row.innerHTML = cells.join('');
                 tbody.appendChild(row);
             });
 
@@ -250,7 +254,6 @@
             tableEl.style.display = "table";
         }
 
-        // Auto load
         window.onload = fetchAllData;
     </script>
 </body>
