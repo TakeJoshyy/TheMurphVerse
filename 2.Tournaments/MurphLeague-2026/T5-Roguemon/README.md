@@ -85,7 +85,9 @@ Additionally, your champion only qualifies for your one selected type. |
 |For Chunk - Honor the good boy by giving up a turn against a trainer's Granbull or Snubull by throwing a ball on the first turn. Share a clip for 2 bonus points.|
 
 "Legends" List (Includes Legendaries, Mythicals, and Ultra Beasts)
-  
+
+|Legends| 
+| :-----------------------------------: |   
 |Zapdos |
 |Moltres |
 |Articuno|
