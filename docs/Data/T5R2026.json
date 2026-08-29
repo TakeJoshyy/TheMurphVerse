@@ -3,11 +3,121 @@
     "card": {"Title":"T5 Roguemon A2", "DateStart":"2026-09-04", "DateEnd":"2026-09-20", "GameMode":"Roguemon", "Intro":"Fifth tournament of 2026!"},
 
     "leaderboard": [
-        {"name":"", "score": 0, "seed": 0, "twitch": ""},
-        {"name":"", "score": 0, "seed": 0, "twitch": ""}
+        {
+        "name": "Mcplumber",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/mcplumber1",
+        "charity": "Magnolia Foundation"
+      },
+      {
+        "name": "BatCam22",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/BatCam22",
+        "charity": "Breakthrough T1D"
+      },
+      {
+        "name": "ZRBPlaysTV",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/ZRBPlaysTV",
+        "charity": "Childrens Hospital of LA"
+      },
+      {
+        "name": "iAmSlammer",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/iAmSlammer",
+        "charity": "Active Minds"
+      },
+      {
+        "name": "Reilnur",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Reilnur",
+        "charity": "National Multiple Sclerosis Society"
+      },
+      {
+        "name": "AitchKay",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/AitchKay720",
+        "charity": "Transparent Hands"
+      },
+      {
+        "name": "WPBeartic",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/WPBeartic",
+        "charity": "Friends of the Mississippi River"
+      },
+      {
+        "name": "CasperTheAFKdad",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/CasperTheAFKdad",
+        "charity": "Movember Foundation"
+      },
+      {
+        "name": "Dorktown Phantom",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Dorktown_Phantom",
+        "charity": "JBJ Soul"
+      },
+      {
+        "name": "BennyTots",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/BennyTots",
+        "charity": "Habitat for Humanity"
+      },
+      {
+        "name": "ZogaOak",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/ZogaOak",
+        "charity": "Animal Legal Defense Fund"
+      },
+      {
+        "name": "Roflmaogamers",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Roflmaogamers1",
+        "charity": "American Epilepsy Society"
+      },
+      {
+        "name": "ImTripleShuriken",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/ImTripleShuriken",
+        "charity": "Advocates for Trans Equality"
+      },
+      {
+        "name": "ThePorofessor",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/ThePorofessor",
+        "charity": "Action Against Hunger"
+      },
+      {
+        "name": "Unrealpapa",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Unrealpapa",
+        "charity": "Foodbankfornyc"
+      },
+      {
+        "name": "Bernas52",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/bernas52",
+        "charity": "Knowledge Foundation"
+      }
     ],
 
-    "link": "", 
+    "link": "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/2.Tournaments/MurphLeague-2026/T5-Roguemon/README.md",
     "Game":"ROGUEMON"
 
     }

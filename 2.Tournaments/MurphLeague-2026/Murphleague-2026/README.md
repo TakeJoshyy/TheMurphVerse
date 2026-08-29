@@ -24,9 +24,9 @@ Additionally, the Murphleague 2026 champion will earn an engraved trophy, a boun
 |-|-|
 | T1 - [Roguemon A2](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/MurphLeague-2026/T1-Roguemon) | January 2nd - January 18th |
 | T2 - [Firered Murphmon (Spring)](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/MurphLeague-2026/T2-Murphmon-Spring) | March 6th - March 22nd |
-| T3 - Roguemon A2 | May 1st - May 17th |
-| T4 - Emerald Murphmon (Summer) | July 3rd - July 19th |
-| T5 - Roguemon A2 | September 4th - September 20th |
+| T3 - [Roguemon A2](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/MurphLeague-2026/T3-Roguemon) | May 1st - May 17th |
+| T4 - [Emerald Murphmon](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/MurphLeague-2026/T4-Murphmon-Summer) (Summer) | July 3rd - July 19th |
+| T5 - [Roguemon A2](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/MurphLeague-2026/T5-Roguemon) | September 4th - September 20th |
 | T6 - Heartgold Murphmon (Winter) | November 6th - November 22nd |
 | Playoffs - Playoffs Firered Duo Murphmon | December 4th - December 20th |
 
@@ -72,22 +72,22 @@ Updated at the conclusion of each tournament.
 | T-9th    | ThePorofessor*      | 19      |
 | T-11th (Wins tiebreak via highest finish, 3rd)   | Ceedsy             | 17     |
 | T-11th    (Wins tiebreak via highest finish, 4th)   | iAmSlammer*         | 17      |
-| T-11th               | Samuwell*           | 17      |
-| 14th        | JeraMazin         | 16     |
-| 15th              | IdleCrisp           | 12     |
-| T-16th        | Just_DKamp*         | 8      |
-| T-16th               | FinniFinn*          | 8      |
-| T-18th               | AitchKay*           | 7      |
-| T-18th        | ImTripleShuriken*   | 7      |
-| T-20th        | OddCrow*            | 5      | 
-| T-20th               | Mcplumber1*         | 5      |
-| T-22nd        | Mushrambo53*        | 3      |
-| T-22nd        | Unrealpapa*         | 3      |
-| T-22nd        | ZRBPlaysTV*         | 3      | 
-| T-22nd        | KipoTerp*           | 3      | 
+| T-11th        | Samuwell*          | 17     |
+| 14th          | JeraMazin          | 16     |
+| 15th          | IdleCrisp          | 12     |
+| T-16th        | Just_DKamp*        | 8      |
+| T-16th        | FinniFinn*         | 8      |
+| T-18th        | AitchKay*          | 7      |
+| T-18th        | ImTripleShuriken*  | 7      |
+| T-20th        | OddCrow*           | 5      | 
+| T-20th        | Mcplumber1*        | 5      |
+| T-22nd        | Mushrambo53*       | 3      |
+| T-22nd        | Unrealpapa*        | 3      |
+| T-22nd        | ZRBPlaysTV*        | 3      | 
+| T-22nd        | KipoTerp*          | 3      | 
 | T-26th        | Freestob           | 2      |
 | T-26th        | DorktownPhantom    | 2      |
-| T-26th        | Roxee94             | 2      | 
+| T-26th        | Roxee94            | 2      | 
 | T-29th        | TheBrokenPirates   | 1      |
 | T-29th        | Bremner            | 1      |
 | T-29th        | Predsfan98         | 1      |
