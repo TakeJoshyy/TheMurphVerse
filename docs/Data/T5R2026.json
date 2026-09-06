@@ -52,8 +52,8 @@
       },
       {
         "name": "WPBeartic",
-        "score": 9,
-        "seed": 20,
+        "score": 25,
+        "seed": null,
         "twitch": "https://www.twitch.tv/WPBeartic",
         "charity": "Friends of the Mississippi River"
       },
