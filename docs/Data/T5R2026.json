@@ -53,7 +53,7 @@
       {
         "name": "WPBeartic",
         "score": 25,
-        "seed": null,
+        "seed": 25,
         "twitch": "https://www.twitch.tv/WPBeartic",
         "charity": "Friends of the Mississippi River"
       },
@@ -126,6 +126,13 @@
         "seed": 35,
         "twitch": "https://www.twitch.tv/bigmurph619",
         "charity": "Habitat for Humanity"
+      },
+      {
+        "name": "Kizmo sen",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Kizmo_sen",
+        "charity": "St Michael's Hospice"
       }
     ],
     "link": "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/2.Tournaments/MurphLeague-2026/T5-Roguemon/README.md",
