@@ -16,6 +16,13 @@
         "charity": "Magnolia Foundation"
       },
       {
+        "name": "FinniFinn",
+        "score": 71,
+        "seed": 120,
+        "twitch": "https://www.twitch.tv/FinniFinn747",
+        "charity": "Gaza Soup Kitchen"
+      },
+      {
         "name": "BatCam22",
         "score": 71,
         "seed": 120,
@@ -126,13 +133,6 @@
         "seed": 56,
         "twitch": "https://www.twitch.tv/JeraMazin",
         "charity": "soQuiet"
-      },
-      {
-        "name": "FinniFinn",
-        "score": 71,
-        "seed": 120,
-        "twitch": "https://www.twitch.tv/FinniFinn747",
-        "charity": "Gaza Soup Kitchen"
       },
       {
         "name": "Bemidgegaming",
