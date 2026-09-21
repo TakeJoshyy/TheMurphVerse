@@ -97,7 +97,7 @@
     <div class="header">
         <div>
             <h1>MurphVerse 2026 Overall Standings</h1>
-            <p class="subtitle">Best 3 out of 4 tournaments • +5 bonus for playing all 4</p>
+            <p class="subtitle">Best 4 out of 5 tournaments • +5 bonus for playing all 4</p>
         </div>
     </div>
 
@@ -112,6 +112,7 @@
                 <th>T2</th>
                 <th>T3</th>
                 <th>T4</th>
+                <th>T5</th>
             </tr>
         </thead>
         <tbody id="tableBody"></tbody>
@@ -122,7 +123,8 @@
             "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/docs/Data/T1Roguemon.json",
             "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/docs/Data/T2FRmurphmon.json",
             "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/docs/Data/T3Roguemon.json",
-            "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/docs/Data/T4murphmon2026.json"
+            "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/docs/Data/T4murphmon2026.json",
+            "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/docs/Data/T5R2026.json"
         ];
 
         const pointValues = [20, 18, 16, 14, 12, 10, 8, 6, 5, 4, 3, 2, 1];
@@ -182,7 +184,7 @@
                         playerData.set(normName, {
                             displayName: rawName,
                             total: 0,
-                            tPoints: [0, 0, 0, 0],
+                            tPoints: [0, 0, 0, 0, 0],
                             twitch: twitch,
                             tournamentsPlayed: new Set()
                         });
@@ -203,7 +205,7 @@
                 const scores = player.tPoints;
                 const playedCount = player.tournamentsPlayed.size;
 
-                if (playedCount >= 3) {
+                if (playedCount >= 4) {
                     const sortedScores = [...scores].sort((a, b) => a - b);
                     player.total = sortedScores.slice(1).reduce((sum, val) => sum + val, 0);
                     player.droppedIndex = scores.indexOf(sortedScores[0]); // lowest score dropped
@@ -212,7 +214,7 @@
                     player.droppedIndex = -1;
                 }
 
-                if (playedCount === 4) player.total += 5;
+                if (playedCount === 5) player.total += 5;
             });
 
             let standings = Array.from(playerData.values());
@@ -222,7 +224,7 @@
             tbody.innerHTML = "";
 
             standings.forEach((player, index) => {
-                const hasBonus = player.tournamentsPlayed.size === 4;
+                const hasBonus = player.tournamentsPlayed.size === 5;
                 const row = document.createElement("tr");
 
                 let nameHTML = player.displayName;
