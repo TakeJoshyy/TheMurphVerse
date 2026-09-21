@@ -23,13 +23,6 @@
         "charity": "Breakthrough T1D"
       },
       {
-        "name": "ZRBPlaysTV",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/ZRBPlaysTV",
-        "charity": "Childrens Hospital of LA"
-      },
-      {
         "name": "iAmSlammer",
         "score": 51,
         "seed": 87,
@@ -56,13 +49,6 @@
         "seed": 120,
         "twitch": "https://www.twitch.tv/WPBeartic",
         "charity": "Friends of the Mississippi River"
-      },
-      {
-        "name": "CasperTheAFKdad",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/CasperTheAFKdad",
-        "charity": "Movember Foundation"
       },
       {
         "name": "Dorktown Phantom",
@@ -109,16 +95,9 @@
       {
         "name": "Unrealpapa",
         "score": 26,
-        "seed": null,
+        "seed": 120,
         "twitch": "https://www.twitch.tv/Unrealpapa",
         "charity": "Foodbankfornyc"
-      },
-      {
-        "name": "Bernas52",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/bernas52",
-        "charity": "Knowledge Foundation"
       },
       {
         "name": "BigMurph",
@@ -138,8 +117,8 @@
         "name": "Roxee94",
         "score": 34,
         "seed": 86,
-        "twitch": "",
-        "charity": ""
+        "twitch": "https://www.twitch.tv/roxee94",
+        "charity": "Trans Life Line"
       },
       {
         "name": "JeraMazin",
@@ -152,22 +131,22 @@
         "name": "FinniFinn",
         "score": 71,
         "seed": 120,
-        "twitch": "",
-        "charity": ""
+        "twitch": "https://www.twitch.tv/FinniFinn747",
+        "charity": "Gaza Soup Kitchen"
       },
       {
         "name": "Bemidgegaming",
         "score": 56,
         "seed": 92,
-        "twitch": "",
-        "charity": ""
+        "https://www.twitch.tv/Bemidgegaming",
+        "charity": "Nepali Childrens Education Project"
       },
       {
         "name": "Mushrambo53",
         "score": 24,
         "seed": 114,
-        "twitch": "",
-        "charity": ""
+         "twitch": "https://www.twitch.tv/mushrambo53",
+        "charity": "Breakthrough T1D"
       }
     ],
     "link": "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/2.Tournaments/MurphLeague-2026/T5-Roguemon/README.md",
