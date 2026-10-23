@@ -3,8 +3,97 @@
     "card": {"Title":"T6 Heartgold Murphmon (Winter)", "DateStart":"2026-11-06", "DateEnd":"2026-11-22", "GameMode":"Murphmon", "Intro":"Fourth tournament of 2026!" },
 
     "leaderboard": [
-        {"name":"", "score": 0, "seed": 0, "twitch": ""},
-        {"name":"", "score": 0, "seed": 0, "twitch": ""}
+        {
+        "name": "BigMurph",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/bigmurph619",
+        "charity": "Habitat for Humanity"
+      },
+      {
+        "name": "CaptDanieldore",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/CaptDanieldore",
+        "charity": "American Civil Liberties Union"
+      },
+      {
+        "name": "Roflmaogamers",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Roflmaogamers1",
+        "charity": "American Epilepsy Society"
+      },
+      {
+        "name": "VegemiteAsh",
+        "score": 0,
+        "seed": 0,
+        "twitch": "",
+        "charity": ""
+      },
+      {
+        "name": "BennyTots",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/BennyTots",
+        "charity": "Habitat for Humanity"
+      },
+       {
+        "name": "ZogaOak",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/ZogaOak",
+        "charity": "Animal Legal Defense Fund"
+      },
+      {
+        "name": "ImTripleShuriken",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/ImTripleShuriken",
+        "charity": "Advocates for Trans Equality"
+      },
+      {
+        "name": "Reilnur",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Reilnur",
+        "charity": "National Multiple Sclerosis Society"
+      },
+      {
+        "name": "BatCam22",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/BatCam22",
+        "charity": "Breakthrough T1D"
+      },
+      {
+        "name": "ZRBPlaysTV",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/ZRBPlaysTV",
+        "charity": "Childrens Hospital of LA"
+      },
+      {
+        "name": "Kizmo sen",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Kizmo_sen",
+        "charity": "St Michael's Hospice"
+      },
+      {
+        "name": "Unrealpapa",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Unrealpapa",
+        "charity": "Foodbankfornyc"
+      },
+      {
+        "name": "ThePorofessor",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/ThePorofessor",
+        "charity": "Action Against Hunger"
+      }
     ],
 
     "link": "", 
