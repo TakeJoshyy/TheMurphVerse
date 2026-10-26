@@ -93,6 +93,27 @@
         "seed": 0,
         "twitch": "https://www.twitch.tv/ThePorofessor",
         "charity": "Action Against Hunger"
+      },
+      {
+        "name": "iAmSlammer",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/iAmSlammer",
+        "charity": "Active Minds"
+      },
+      {
+        "name": "Mcplumber",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/mcplumber1",
+        "charity": "Magnolia Foundation"
+      },
+      {
+        "name": "Bemidgegaming",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Bemidgegaming",
+        "charity": "Nepali Childrens Education Project"
       }
     ],
 
