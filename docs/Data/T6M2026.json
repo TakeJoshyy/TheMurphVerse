@@ -28,8 +28,8 @@
         "name": "VegemiteAsh",
         "score": 0,
         "seed": 0,
-        "twitch": "",
-        "charity": ""
+        "twitch": "https://www.twitch.tv/vegemiteash",
+        "charity": "MATES"
       },
       {
         "name": "BennyTots",
@@ -114,6 +114,13 @@
         "seed": 0,
         "twitch": "https://www.twitch.tv/Bemidgegaming",
         "charity": "Nepali Childrens Education Project"
+      },
+      {
+        "name": "WPBeartic",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/WPBeartic",
+        "charity": "Friends of the Mississippi River"
       }
     ],
 
