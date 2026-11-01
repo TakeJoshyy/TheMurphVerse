@@ -121,6 +121,34 @@
         "seed": 0,
         "twitch": "https://www.twitch.tv/WPBeartic",
         "charity": "Friends of the Mississippi River"
+      },
+      {
+        "name": "Ceedsy",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/Ceedsy",
+        "charity": "Seattle Children's"
+      },
+      {
+        "name": "FinniFinn",
+        "score": 72,
+        "seed": 61,
+        "twitch": "https://www.twitch.tv/FinniFinn747",
+        "charity": "Gaza Soup Kitchen"
+      },
+      {
+        "name": "HoochBrando",
+        "score": "0",
+        "seed": "0",
+        "twitch": "https://www.twitch.tv/hoochbrando",
+        "charity": "",
+      },
+      {
+        "name": "Bernas52",
+        "score": "0",
+        "seed": "0",
+        "twitch": "https://www.twitch.tv/bernas52",
+        "charity": "",
       }
     ],
 
