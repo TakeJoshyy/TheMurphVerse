@@ -131,24 +131,24 @@
       },
       {
         "name": "FinniFinn",
-        "score": 72,
-        "seed": 61,
+        "score": 0,
+        "seed": 0,
         "twitch": "https://www.twitch.tv/FinniFinn747",
         "charity": "Gaza Soup Kitchen"
       },
       {
         "name": "HoochBrando",
-        "score": "0",
-        "seed": "0",
+        "score": 0,
+        "seed": 0,
         "twitch": "https://www.twitch.tv/hoochbrando",
-        "charity": "",
+        "charity": ""
       },
       {
         "name": "Bernas52",
-        "score": "0",
-        "seed": "0",
+        "score": 0,
+        "seed": 0,
         "twitch": "https://www.twitch.tv/bernas52",
-        "charity": "",
+        "charity": ""
       }
     ],
 
