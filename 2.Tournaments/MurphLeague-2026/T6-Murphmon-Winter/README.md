@@ -93,8 +93,8 @@ Competitors will be given 75 seeds. Your score is determined by your 3 highest s
 | :-----------------------: |
 | Any Pokemon that is 440 BST or lower will accumulate DOUBLE points. If the Pokemon is evolved into over 440 BST it will resume receiving standard points. |
 | Pokeathlon - You may compete in the Pokeathlon once per seed AND purchase 1 item with your rewards after. The competitor with the highest score achieved in a single attempt will earn 3 bonus points.|
-| Voltorb Flip Game: Whoever reaches the highest level earns 3 bonus point. 3 Voltorbs blows per run.|
-|You better watch out, you better not cry, guess that Electrode, and your points will fly! | Guess a type and if one of the 3 Electrodes has it you earn 1 bonus point|
+| Voltorb Flip Game: Whoever reaches the highest level earns 3 bonus point. 3 Voltorbs blows per run. Guess a type and if one of the three electrodes has it you earn one bonus point per run |
+| You better watch out, you better not cry, guess that Electrode, and your points will fly! | Guess a type and if one of the 3 Electrodes has it you earn 1 bonus point |
 | When winter comes and green grows rare, A tiny treasure waits somewhere. No flower blooms, no warm winds blow, Yet nature leaves a little glow... solve this riddle and share a screenshot with Benny or Murph to earn 1 bonus point. |
 
 
