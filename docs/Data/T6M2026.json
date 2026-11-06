@@ -154,6 +154,27 @@
         "seed": 0,
         "twitch": "https://www.twitch.tv/bernas52",
         "charity": ""
+      },
+      {
+        "name": "JeraMazin",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/JeraMazin",
+        "charity": "soQuiet"
+      },
+      {
+        "name": "Mushrambo53",
+        "score": 0,
+        "seed": 0,
+         "twitch": "https://www.twitch.tv/mushrambo53",
+        "charity": "Breakthrough T1D"
+      },
+      {
+        "name": "KipoTerp",
+        "score": 0,
+        "seed": 0,
+        "twitch": "https://www.twitch.tv/KipoTerp",
+        "charity": "Alaska Rural Veterinary Outreach"
       }
     ],
     "link": "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/2.Tournaments/MurphLeague-2026/T6-Murphmon-Winter/README.md",
