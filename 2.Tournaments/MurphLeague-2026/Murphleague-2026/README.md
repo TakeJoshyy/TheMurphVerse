@@ -57,43 +57,8 @@ Higher placements can earn additional League Points.
     -Each competitor who earns at least 1 tournament point will earn 1 league point from that respective tournament if they finish outside of the top 12. The final league standings will drop each competitors' lowest tournament finish (this includes a 0 for a non-participation). Additionally, each competitor has the chance to earn 5 bonus league points by earning at     least 1 tournament point in ALL 6 regular season tournaments.
 
 ## MurphLeague Standings
-Updated at the conclusion of each tournament.
-|   Standing         | Creator            | Points |
-| :----------------: | :------------:     | :----: |
-| 1st                | ZogaOak*            | 45      | 
-| 2nd                | CamMan52*           | 29     | 
-| 3rd        | BatCam22*           | 27      |
-| 4th        | Bemidgegaming*      | 26     |
-| 5th                | Kizmo_Sen*          | 24     | 
-| T-6th  (coinflip)       | Roflmaogamers1*     | 23      |
-| T-6th  (coinflip)       | Reilnur*            | 23     | 
-| 8th              | BennyTots*          | 21      |
-| T-9th   (Wins tiebreak via highest finish, 2nd)  | CaptDanieldore     | 19      |
-| T-9th    | ThePorofessor*      | 19      |
-| T-11th (Wins tiebreak via highest finish, 3rd)   | Ceedsy             | 17     |
-| T-11th    (Wins tiebreak via highest finish, 4th)   | iAmSlammer*         | 17      |
-| T-11th        | Samuwell*          | 17     |
-| 14th          | JeraMazin          | 16     |
-| 15th          | IdleCrisp          | 12     |
-| T-16th        | Just_DKamp*        | 8      |
-| T-16th        | FinniFinn*         | 8      |
-| T-18th        | AitchKay*          | 7      |
-| T-18th        | ImTripleShuriken*  | 7      |
-| T-20th        | OddCrow*           | 5      | 
-| T-20th        | Mcplumber1*        | 5      |
-| T-22nd        | Mushrambo53*       | 3      |
-| T-22nd        | Unrealpapa*        | 3      |
-| T-22nd        | ZRBPlaysTV*        | 3      | 
-| T-22nd        | KipoTerp*          | 3      | 
-| T-26th        | Freestob           | 2      |
-| T-26th        | DorktownPhantom    | 2      |
-| T-26th        | Roxee94            | 2      | 
-| T-29th        | TheBrokenPirates   | 1      |
-| T-29th        | Bremner            | 1      |
-| T-29th        | Predsfan98         | 1      |
+Updated at the conclusion of each tournament. Standings [Here](https://takejoshyy.github.io/TheMurphVerse/pages/2026-Standings/MVS.html)
 
-
-"*" denotes eligible for 5 bonus points for participating in all 6 regular season tournaments.
 
 Competitors' cumulative league points (after dropping lowest score and adding participation bonus if eligible) will decide seeding for the 12-person playoff tournament. 
 
