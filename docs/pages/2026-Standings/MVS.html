@@ -340,8 +340,24 @@
                 const standings = Array.from(playerData.values());
 
                 standings.sort((a, b) => {
-                    return b.total - a.total ||
-                        a.displayName.localeCompare(b.displayName);
+                    // Sort by total points first
+                    if (b.total !== a.total) {
+                        return b.total - a.total;
+                    }
+
+                    // Poro wins a tie against batcam
+                    if (a.displayName.toLowerCase() === "poro" &&
+                        b.displayName.toLowerCase() === "batcam") {
+                        return -1;
+                    }
+
+                    if (a.displayName.toLowerCase() === "batcam" &&
+                        b.displayName.toLowerCase() === "poro") {
+                        return 1;
+                    }
+
+                    // Everyone else remains alphabetical
+                    return a.displayName.localeCompare(b.displayName);
                 });
 
                 // Render table
