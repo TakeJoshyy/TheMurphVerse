@@ -9,13 +9,6 @@
     },
     "leaderboard": [
       {
-        "name": "BigMurph",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/bigmurph619",
-        "charity": "Habitat for Humanity"
-      },
-      {
         "name": "CaptDanieldore",
         "score": 99,
         "seed": 75,
@@ -86,13 +79,6 @@
         "charity": "St Michael's Hospice"
       },
       {
-        "name": "Unrealpapa",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/Unrealpapa",
-        "charity": "Foodbankfornyc"
-      },
-      {
         "name": "ThePorofessor",
         "score": 79,
         "seed": 56,
@@ -135,26 +121,11 @@
         "charity": "Seattle Children's"
       },
       {
-        "name": "FinniFinn",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/FinniFinn747",
-        "charity": "Gaza Soup Kitchen"
-      },
-      {
         "name": "HoochBrando",
         "score": 35,
         "seed": 53,
         "twitch": "https://www.twitch.tv/hoochbrando",
         "charity": ""
-      },
-      {
-        "name": "Bernas52",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/bernas52",
-        "charity": ""
-      },
       {
         "name": "JeraMazin",
         "score": 68,
@@ -168,13 +139,6 @@
         "seed": 34,
         "twitch": "https://www.twitch.tv/mushrambo53",
         "charity": "Breakthrough T1D"
-      },
-      {
-        "name": "KipoTerp",
-        "score": 0,
-        "seed": 0,
-        "twitch": "https://www.twitch.tv/KipoTerp",
-        "charity": "Alaska Rural Veterinary Outreach"
       }
     ],
     "link": "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/2.Tournaments/MurphLeague-2026/T6-Murphmon-Winter/README.md",

@@ -1,9 +1,11 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MurphVerse 2026 - Overall Standings</title>
+
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -12,16 +14,19 @@
             margin: 0;
             padding: 20px;
         }
+
         h1 {
             text-align: center;
             color: #cdcfdd;
             margin-bottom: 10px;
         }
+
         .subtitle {
             text-align: center;
             color: #aaa;
             margin-bottom: 30px;
         }
+
         table {
             width: 100%;
             max-width: 1200px;
@@ -32,231 +37,428 @@
             border-radius: 12px;
             overflow: hidden;
         }
+
         th, td {
             padding: 14px 12px;
             text-align: left;
             border-bottom: 1px solid #334455;
         }
+
         th {
             background: #840032;
             color: #fff;
             font-weight: bold;
         }
+
         tr:hover {
             background: #1e2a4d;
         }
+
         .rank {
             font-weight: bold;
             width: 60px;
         }
+
         .name a {
             color: #cdcfdd;
             text-decoration: none;
         }
+
         .name a:hover {
             text-decoration: underline;
         }
+
         .points {
             font-weight: bold;
             color: #cdcfdd;
             text-align: center;
         }
+
         .tournament-points {
             text-align: center;
             font-size: 0.9em;
             color: #88ddcc;
         }
+
         .dropped {
             background-color: #c42b2b !important;
             color: #ffffff !important;
             font-weight: bold;
         }
+
         .negative {
             color: #ff6666;
         }
+
         .loading {
             text-align: center;
             padding: 40px;
             font-size: 1.2em;
-            color: #840032;
+            color: #cdcfdd;
         }
+
         .header {
             max-width: 1200px;
             margin: 0 auto 20px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
         }
+
         .bonus {
             color: #ffd700;
             font-size: 0.85em;
         }
+
+        .error {
+            color: #ff6666;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .table-wrapper {
+            overflow-x: auto;
+        }
+
+        @media (max-width: 650px) {
+            body {
+                padding: 10px;
+            }
+
+            th, td {
+                padding: 10px 8px;
+                font-size: 13px;
+            }
+        }
     </style>
 </head>
+
 <body>
+
     <div class="header">
-        <div>
-            <h1>MurphVerse 2026 Overall Standings</h1>
-            <p class="subtitle">Best 4 out of 5 tournaments • +5 bonus for playing all 4</p>
-        </div>
+        <h1>MurphVerse 2026 Overall Standings</h1>
+        <p class="subtitle">
+            Best 5 out of 6 tournaments • +5 bonus for playing all 6
+        </p>
     </div>
 
-    <div id="loading" class="loading">Loading tournament data...</div>
-    <table id="standingsTable" style="display: none;">
-        <thead>
-            <tr>
-                <th class="rank">Rank</th>
-                <th>Player</th>
-                <th class="points">Total Points</th>
-                <th>T1</th>
-                <th>T2</th>
-                <th>T3</th>
-                <th>T4</th>
-                <th>T5</th>
-            </tr>
-        </thead>
-        <tbody id="tableBody"></tbody>
-    </table>
+    <div id="loading" class="loading">
+        Loading tournament data...
+    </div>
+
+    <div id="error" class="error" style="display:none;"></div>
+
+    <div class="table-wrapper">
+        <table id="standingsTable" style="display:none;">
+            <thead>
+                <tr>
+                    <th class="rank">Rank</th>
+                    <th>Player</th>
+                    <th class="points">Total Points</th>
+                    <th>T1</th>
+                    <th>T2</th>
+                    <th>T3</th>
+                    <th>T4</th>
+                    <th>T5</th>
+                    <th>T6</th>
+                </tr>
+            </thead>
+
+            <tbody id="tableBody"></tbody>
+        </table>
+    </div>
 
     <script>
+
         const urls = [
             "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/docs/Data/T1Roguemon.json",
             "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/docs/Data/T2FRmurphmon.json",
             "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/docs/Data/T3Roguemon.json",
             "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/docs/Data/T4murphmon2026.json",
-            "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/docs/Data/T5R2026.json"
+            "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/docs/Data/T5R2026.json",
+            "https://raw.githubusercontent.com/TakeJoshyy/TheMurphVerse/refs/heads/main/docs/Data/T6M2026.json"
         ];
 
-        const pointValues = [20, 18, 16, 14, 12, 10, 8, 6, 5, 4, 3, 2, 1];
+        const pointValues = [
+            20, 18, 16, 14, 12, 10, 8, 6, 5, 4, 3, 2, 1
+        ];
+
+        const TOTAL_TOURNAMENTS = 6;
+        const BEST_SCORES = 5;
+        const COMPLETION_BONUS = 5;
 
         function normalizeName(name) {
             if (!name) return "";
+
             let n = name.trim();
+
             n = n.replace(/^BigMurph619?$/i, "BigMurph");
             n = n.replace(/^BigMurph$/i, "BigMurph");
             n = n.replace(/Just Dkamp/i, "Just Dkamp");
-            return n;
+
+            return n.toLowerCase();
         }
 
         function getPoints(rank) {
-            if (rank < 1) return 0;
-            if (rank <= 13) return pointValues[rank - 1];
+            if (rank < 1) return -1;
+
+            if (rank <= pointValues.length) {
+                return pointValues[rank - 1];
+            }
+
             return 1;
         }
 
         async function fetchJson(url) {
-            try {
-                const res = await fetch(url);
-                if (!res.ok) throw new Error(`HTTP ${res.status}`);
-                const data = await res.json();
-                return data[0]?.leaderboard || [];
-            } catch (e) {
-                console.error("Error fetching", url, e);
-                return [];
+            const response = await fetch(url);
+
+            if (!response.ok) {
+                throw new Error(
+                    `Failed to load ${url}: HTTP ${response.status}`
+                );
             }
+
+            const data = await response.json();
+
+            if (!Array.isArray(data) || !Array.isArray(data[0]?.leaderboard)) {
+                throw new Error(`Invalid leaderboard format: ${url}`);
+            }
+
+            return data[0].leaderboard;
         }
 
         async function fetchAllData() {
+
             const loadingEl = document.getElementById("loading");
             const tableEl = document.getElementById("standingsTable");
+            const errorEl = document.getElementById("error");
+
             loadingEl.style.display = "block";
             tableEl.style.display = "none";
+            errorEl.style.display = "none";
 
-            const allLeaderboards = await Promise.all(urls.map(fetchJson));
+            try {
 
-            const playerData = new Map(); // key: normalized name
+                const allLeaderboards = await Promise.all(
+                    urls.map(fetchJson)
+                );
 
-            allLeaderboards.forEach((leaderboard, tourneyIndex) => {
-                const sorted = [...leaderboard].sort((a, b) => (b.score || 0) - (a.score || 0));
+                const playerData = new Map();
 
-                sorted.forEach((entry, idx) => {
-                    const rawName = entry.name || "Unknown";
-                    const normName = normalizeName(rawName);
-                    const rank = idx + 1;
-                    let points = getPoints(rank);
+                allLeaderboards.forEach((leaderboard, tournamentIndex) => {
 
-                    // === TREAT NEGATIVE SCORES AS -1 ===
-                    if (points <= 0) points = -1;
+                    const sorted = [...leaderboard].sort((a, b) => {
+                        return (Number(b.score) || 0) - (Number(a.score) || 0);
+                    });
 
-                    const twitch = entry.twitch || "#";
+                    sorted.forEach((entry, index) => {
 
-                    if (!playerData.has(normName)) {
-                        playerData.set(normName, {
-                            displayName: rawName,
-                            total: 0,
-                            tPoints: [0, 0, 0, 0, 0],
-                            twitch: twitch,
-                            tournamentsPlayed: new Set()
-                        });
+                        const rawName = entry.name || "Unknown";
+                        const normalized = normalizeName(rawName);
+
+                        if (!normalized) return;
+
+                        const rank = index + 1;
+                        const points = getPoints(rank);
+
+                        const twitch = entry.twitch || "#";
+
+                        if (!playerData.has(normalized)) {
+
+                            playerData.set(normalized, {
+                                displayName: rawName,
+                                twitch: twitch,
+                                tPoints: Array(TOTAL_TOURNAMENTS).fill(null),
+                                tournamentsPlayed: new Set(),
+                                total: 0,
+                                droppedIndex: -1
+                            });
+
+                        }
+
+                        const player = playerData.get(normalized);
+
+                        player.tPoints[tournamentIndex] = points;
+
+                        player.tournamentsPlayed.add(tournamentIndex);
+
+                        if (rawName !== "Unknown") {
+                            player.displayName = rawName;
+                        }
+
+                        if (twitch !== "#") {
+                            player.twitch = twitch;
+                        }
+
+                    });
+
+                });
+
+                // Calculate overall standings
+
+                playerData.forEach(player => {
+
+                    const playedCount = player.tournamentsPlayed.size;
+
+                    // Only include tournaments actually played.
+                    const scores = player.tPoints
+                        .map((score, index) => ({
+                            score,
+                            index
+                        }))
+                        .filter(item => item.score !== null);
+
+                    // Sort from lowest score to highest.
+                    const sortedScores = [...scores].sort((a, b) => {
+                        return a.score - b.score || a.index - b.index;
+                    });
+
+                    // Drop lowest score only after all 6 tournaments.
+                    if (playedCount === TOTAL_TOURNAMENTS) {
+
+                        const dropped = sortedScores[0];
+
+                        player.droppedIndex = dropped.index;
+
+                        player.total = sortedScores
+                            .slice(1)
+                            .reduce((sum, item) => sum + item.score, 0);
+
+                        // Completion bonus
+                        player.total += COMPLETION_BONUS;
+
+                    } else {
+
+                        player.total = scores.reduce(
+                            (sum, item) => sum + item.score,
+                            0
+                        );
+
                     }
 
-                    const player = playerData.get(normName);
-                    player.tPoints[tourneyIndex] = points;
-                    player.tournamentsPlayed.add(tourneyIndex);
-
-                    // Prefer most recent display name + twitch
-                    if (twitch && twitch !== "#") player.twitch = twitch;
-                    if (rawName && rawName !== "Unknown") player.displayName = rawName;
-                });
-            });
-
-            // Calculate totals with Best 3 out of 4 + dropped score tracking
-            playerData.forEach(player => {
-                const scores = player.tPoints;
-                const playedCount = player.tournamentsPlayed.size;
-
-                if (playedCount >= 4) {
-                    const sortedScores = [...scores].sort((a, b) => a - b);
-                    player.total = sortedScores.slice(1).reduce((sum, val) => sum + val, 0);
-                    player.droppedIndex = scores.indexOf(sortedScores[0]); // lowest score dropped
-                } else {
-                    player.total = scores.reduce((sum, val) => sum + val, 0);
-                    player.droppedIndex = -1;
-                }
-
-                if (playedCount === 5) player.total += 5;
-            });
-
-            let standings = Array.from(playerData.values());
-            standings.sort((a, b) => b.total - a.total);
-
-            const tbody = document.getElementById("tableBody");
-            tbody.innerHTML = "";
-
-            standings.forEach((player, index) => {
-                const hasBonus = player.tournamentsPlayed.size === 5;
-                const row = document.createElement("tr");
-
-                let nameHTML = player.displayName;
-                if (player.twitch && player.twitch !== "#") {
-                    nameHTML = `<a href="${player.twitch}" target="_blank" rel="noopener">${player.displayName}</a>`;
-                }
-
-                const totalHTML = hasBonus 
-                    ? `${player.total} <span class="bonus">(+5)</span>` 
-                    : player.total;
-
-                let cells = [
-                    `<td class="rank">${index + 1}</td>`,
-                    `<td class="name">${nameHTML}</td>`,
-                    `<td class="points">${totalHTML}</td>`
-                ];
-
-                player.tPoints.forEach((pts, i) => {
-                    let className = "tournament-points";
-                    if (player.droppedIndex === i) className += " dropped";
-                    cells.push(`<td class="${className}">${pts}</td>`);
                 });
 
-                row.innerHTML = cells.join('');
-                tbody.appendChild(row);
-            });
+                // Sort by total points
 
-            loadingEl.style.display = "none";
-            tableEl.style.display = "table";
+                const standings = Array.from(playerData.values());
+
+                standings.sort((a, b) => {
+                    return b.total - a.total ||
+                        a.displayName.localeCompare(b.displayName);
+                });
+
+                // Render table
+
+                const tbody = document.getElementById("tableBody");
+
+                tbody.innerHTML = "";
+
+                standings.forEach((player, index) => {
+
+                    const row = document.createElement("tr");
+
+                    // Rank
+                    const rankCell = document.createElement("td");
+                    rankCell.className = "rank";
+                    rankCell.textContent = index + 1;
+                    row.appendChild(rankCell);
+
+                    // Player name
+                    const nameCell = document.createElement("td");
+                    nameCell.className = "name";
+
+                    if (
+                        player.twitch !== "#" &&
+                        /^https?:\/\//i.test(player.twitch)
+                    ) {
+
+                        const link = document.createElement("a");
+
+                        link.href = player.twitch;
+                        link.target = "_blank";
+                        link.rel = "noopener noreferrer";
+                        link.textContent = player.displayName;
+
+                        nameCell.appendChild(link);
+
+                    } else {
+
+                        nameCell.textContent = player.displayName;
+
+                    }
+
+                    row.appendChild(nameCell);
+
+                    // Total points
+                    const totalCell = document.createElement("td");
+                    totalCell.className = "points";
+
+                    totalCell.textContent = player.total;
+
+                    if (player.tournamentsPlayed.size === TOTAL_TOURNAMENTS) {
+
+                        const bonus = document.createElement("span");
+
+                        bonus.className = "bonus";
+                        bonus.textContent = " (+5)";
+
+                        totalCell.appendChild(bonus);
+
+                    }
+
+                    row.appendChild(totalCell);
+
+                    // Tournament scores
+                    player.tPoints.forEach((pts, i) => {
+
+                        const cell = document.createElement("td");
+
+                        cell.className = "tournament-points";
+
+                        if (player.droppedIndex === i) {
+                            cell.classList.add("dropped");
+                        }
+
+                        if (pts === null) {
+
+                            cell.textContent = "-";
+
+                        } else {
+
+                            cell.textContent = pts;
+
+                            if (pts < 0) {
+                                cell.classList.add("negative");
+                            }
+
+                        }
+
+                        row.appendChild(cell);
+
+                    });
+
+                    tbody.appendChild(row);
+
+                });
+
+                loadingEl.style.display = "none";
+                tableEl.style.display = "table";
+
+            } catch (error) {
+
+                console.error("Standings error:", error);
+
+                loadingEl.style.display = "none";
+
+                errorEl.textContent =
+                    "Unable to load tournament data. Please try again later.";
+
+                errorEl.style.display = "block";
+
+            }
+
         }
 
-        window.onload = fetchAllData;
+        window.addEventListener("load", fetchAllData);
+
     </script>
+
 </body>
 </html>
