@@ -1,0 +1,22 @@
+[
+  {
+    "card": {
+      "Title": "Whats Next?",
+      "DateStart": "2026-01-02",
+      "DateEnd": "2999-01-01",
+      "GameMode": "",
+      "Intro": ""
+     },
+     "leaderboard":[
+     {
+        "name": "",
+        "score": 0,
+        "seed": 0,
+        "twitch": "",
+        "charity": ""
+      }
+      ],
+    "link": "",
+    "Game": "FRLG"
+  }
+]
