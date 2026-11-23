@@ -345,14 +345,14 @@
                         return b.total - a.total;
                     }
 
-                    // Poro wins a tie against batcam
-                    if (a.displayName.toLowerCase() === "poro" &&
-                        b.displayName.toLowerCase() === "batcam") {
+                    // Tie settle
+                    if (a.displayName.toLowerCase() === "ThePorofessor" &&
+                        b.displayName.toLowerCase() === "BatCam22") {
                         return -1;
                     }
 
-                    if (a.displayName.toLowerCase() === "batcam" &&
-                        b.displayName.toLowerCase() === "poro") {
+                    if (a.displayName.toLowerCase() === "BatCam22" &&
+                        b.displayName.toLowerCase() === "ThePorofessor") {
                         return 1;
                     }
 
