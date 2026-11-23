@@ -58,6 +58,13 @@
         "charity": "National Multiple Sclerosis Society"
       },
       {
+        "name": "ThePorofessor",
+        "score": 79,
+        "seed": 56,
+        "twitch": "https://www.twitch.tv/ThePorofessor",
+        "charity": "Action Against Hunger"
+      },
+      {
         "name": "BatCam22",
         "score": 91,
         "seed": 72,
@@ -77,13 +84,6 @@
         "seed": 4,
         "twitch": "https://www.twitch.tv/Kizmo_sen",
         "charity": "St Michael's Hospice"
-      },
-      {
-        "name": "ThePorofessor",
-        "score": 79,
-        "seed": 56,
-        "twitch": "https://www.twitch.tv/ThePorofessor",
-        "charity": "Action Against Hunger"
       },
       {
         "name": "iAmSlammer",
